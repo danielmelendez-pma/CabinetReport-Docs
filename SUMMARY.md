@@ -11,3 +11,4 @@
 
 * [Licencia de Cliente](conoce-cabinet-report/licencia-de-cliente.md)
 * [Inicio de Sesión](conoce-cabinet-report/inicio-de-sesion.md)
+* [Ventana Acerca De](conoce-cabinet-report/ventana-acerca-de.md)

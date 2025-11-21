@@ -1,6 +1,6 @@
 # Licencia de Cliente
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 El Administrador de Lcencias de Cabinet Report le suministrará las credenciales:
 
