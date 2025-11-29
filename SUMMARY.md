@@ -6,13 +6,21 @@
   * [Beneficios clave](que-es-cabinet-report/beneficios-clave.md)
   * [Prueba gratuita de 30 días](que-es-cabinet-report/prueba-gratuita-de-30-dias.md)
   * [Una inversión en el futuro de su negocio](que-es-cabinet-report/una-inversion-en-el-futuro-de-su-negocio.md)
-
-## Conoce Cabinet Report
-
-* [Ventana Acerca De](conoce-cabinet-report/ventana-acerca-de.md)
-* [Inicio de Sesión](conoce-cabinet-report/inicio-de-sesion.md)
-* [Licencia de Cliente](conoce-cabinet-report/licencia-de-cliente.md)
-
-***
-
-* [Explorador de Proyectos](explorador-de-proyectos.md)
+* [Acerca de Cabinet Report](acerca-de-cabinet-report/README.md)
+  * [Inicio de Sesión](acerca-de-cabinet-report/inicio-de-sesion.md)
+  * [Licencia de Cliente](acerca-de-cabinet-report/licencia-de-cliente.md)
+  * [Ventana Acerca De](acerca-de-cabinet-report/ventana-acerca-de.md)
+* [Funcionalidades de Cabinet Report](funcionalidades-de-cabinet-report/README.md)
+  * [Explorador de Proyectos](funcionalidades-de-cabinet-report/explorador-de-proyectos.md)
+  * [Catálogo de Módulos](funcionalidades-de-cabinet-report/catalogo-de-modulos.md)
+  * [Creador de Módulos](funcionalidades-de-cabinet-report/creador-de-modulos.md)
+  * [Reporte de Producción](funcionalidades-de-cabinet-report/reporte-de-produccion.md)
+  * [Crear TXT Nuevo](funcionalidades-de-cabinet-report/crear-txt-nuevo.md)
+  * [Stock de Tableros](funcionalidades-de-cabinet-report/stock-de-tableros.md)
+  * [Reporte de Compras](funcionalidades-de-cabinet-report/reporte-de-compras.md)
+  * [Creador de Piezas](funcionalidades-de-cabinet-report/creador-de-piezas.md)
+  * [Diccionario de Piezas](funcionalidades-de-cabinet-report/diccionario-de-piezas.md)
+  * [Orden de Producción](funcionalidades-de-cabinet-report/orden-de-produccion.md)
+  * [Optimizadores](funcionalidades-de-cabinet-report/optimizadores.md)
+  * [Generador de QR](funcionalidades-de-cabinet-report/generador-de-qr.md)
+  * [Herrajes](funcionalidades-de-cabinet-report/herrajes.md)
