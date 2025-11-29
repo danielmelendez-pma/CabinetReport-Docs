@@ -42,3 +42,6 @@ Cabinet Report hace lo siguiente por tí dentro de la funcionalidad de Reporte d
   * Te genera los archivos de Optimización por cada tipo de aglomerado exclusivo para tu programa de optimización y así evitar tabular de manera manual
   * Te genera los archivos de listado de Accesorios, Ferreterías y Herrajes listos para que los entregues a tu departamento de almacén y te despachen o necesario para tu producción
   * Te genera de manera automática los archivos de Optimización de los perfiles como Zócalo, Golas, Tubos, Etc.
+
+## Puedes crear un Reporte de Producción a partir de:
+
