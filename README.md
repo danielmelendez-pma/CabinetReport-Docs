@@ -4,6 +4,23 @@ description: >-
   forma en que las empresas del sector de fabricación de muebles gestionan su
   producción.
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Que es Cabinet Report?
