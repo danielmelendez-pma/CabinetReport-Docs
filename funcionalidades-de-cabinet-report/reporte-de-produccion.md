@@ -23,6 +23,10 @@ Cabinet Report hace lo siguiente por tí dentro de la funcionalidad de Reporte d
 * Te lleva un conteo en tiempo real de la cantidad de piezas actuales
 * Te lleva un conteo en tiempo real de la cantidad de módulos actuales
 * Te calcula el metraje de cantos por cada tipo de canto de manera automática
+* Para las piezas enchapadas, te valida lo siguiente:
+  * Si la pieza enchapada tiene la mínima cantidad contra el múltiplo de la producción
+  * Te calcula el metraje de cantos especiales para las piezas enchapadas
+  * Te verifica si debes cortar las piezas enchapadas con excedente de medidas para luego repasar a la medida exacta final antes de canteo
 * Si debes invertir medidas en algunas piezas, sólo indicas cual pieza y te hace la inversión automática
 * Si quieres agrupar piezas existentes para crear un módulo, solo debes hacer unos clics y Cabinet Report hace el resto del trabajo
 * Si necesitas cambiar el nombre del módulo, no lo debes hacer para cada pieza, sólo le indicas el nombre a Cabinet Report y lo cambia por ti
