@@ -30,3 +30,4 @@
   * [Plan Intermedio](planes-de-suscripcion/plan-intermedio.md)
   * [Plan Empresarial](planes-de-suscripcion/plan-empresarial.md)
   * [Plan Socio](planes-de-suscripcion/plan-socio.md)
+  * [Tabla comparativa](planes-de-suscripcion/tabla-comparativa.md)
