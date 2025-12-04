@@ -8,4 +8,11 @@ Con el objetivo de seguir mejorando el sistema, brindar soporte técnico y actua
 
 Cada plan le permite comenzar de forma progresiva y escalar a mayor capacidad según el crecimiento de su negocio.
 
-A continuación, puede conocer los planes disponibles.
+A continuación, puede conocer los planes disponibles:
+
+🆓 **Plan Gratis** – Ideal para pruebas iniciales\
+⚙️ **Plan Optimizador** – Enfocado exclusivamente en optimización\
+🟢 **Plan Básico** – Para talleres pequeños\
+🔵 **Plan Intermedio** – Para talleres en crecimiento\
+🟠 **Plan Empresarial** – Para fábricas establecidas\
+🟣 **Plan Socio** – Acceso total sin límites (socios estratégicos)
