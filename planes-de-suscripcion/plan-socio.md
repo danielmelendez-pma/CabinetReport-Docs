@@ -10,6 +10,8 @@ Es la opción ideal para quienes desean ir **más allá de una simple suscripci�
 
 **Acceso total sin límites (socios estratégicos)**
 
+✅ **Beneficios:**
+
 * 👤 Usuarios permitidos: **Ilimitados**
 * 📄 Reportes diarios: **Ilimitados**
 * ✏️ Modificaciones diarias: **Ilimitadas**

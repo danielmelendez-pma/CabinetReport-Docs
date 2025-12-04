@@ -7,7 +7,9 @@ Este plan es ideal como punto de inicio para familiarizarse con el sistema y, un
 
 **Ideal para pruebas iniciales**
 
-* 👤 Usuarios permitidos: **1**
+✅ **Beneficios:**
+
+* 👤 **Usuarios permitidos:** 1
 * 📄 Reportes diarios: **1**
 * ✏️ Modificaciones diarias: **2**
 * 📂 Catálogos personalizados: **0**

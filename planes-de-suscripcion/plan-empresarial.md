@@ -10,6 +10,8 @@ Es la opción ideal para empresas que buscan **profesionalizar completamente sus
 
 **Para fábricas establecidas**
 
+✅ **Beneficios:**
+
 * 👤 Usuarios permitidos: 5
 * 📄 Reportes diarios: **30**
 * ✏️ Modificaciones diarias: **60**

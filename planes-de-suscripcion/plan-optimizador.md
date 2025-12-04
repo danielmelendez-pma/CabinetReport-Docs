@@ -10,7 +10,7 @@ Es la opción ideal para quienes buscan **potenciar únicamente la optimización
 
 **Uso exclusivo de los optimizadores (Tableros, Perfilería y Sobres)**
 
-✅ **Beneficios corregidos y optimizados:**
+✅ **Beneficios:**
 
 * 👤 **Usuarios permitidos:** 1
 * 📄 **Reportes diarios:** No incluye

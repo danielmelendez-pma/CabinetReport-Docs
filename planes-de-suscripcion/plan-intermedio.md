@@ -10,6 +10,8 @@ Es la opción ideal para negocios que ya cuentan con una base de clientes consta
 
 **Para talleres en crecimiento**
 
+✅ **Beneficios:**
+
 * 👤 Usuarios permitidos: **1**
 * 📄 Reportes diarios: **5**
 * ✏️ Modificaciones diarias: **10**

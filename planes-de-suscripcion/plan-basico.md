@@ -8,7 +8,7 @@ Este plan es ideal para quienes están dando el **primer paso hacia la transform
 
 **Ideal para talleres pequeños**
 
-✅ **Beneficios corregidos y optimizados:**
+✅ **Beneficios:**
 
 * 👤 **Usuarios permitidos:** 1
 * 📄 **Reportes diarios:** 3
