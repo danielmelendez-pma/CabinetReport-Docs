@@ -21,3 +21,17 @@ Es la opción ideal para quienes buscan **potenciar únicamente la optimización
 * ✅ **Acceso exclusivo a la optimización de tableros, tubos y perfiles**
 * ✅ **Optimización automática con reducción de desperdicio de material**
 * ✅ **Generación de esquemas de corte listos para producción**
+* ✅ **Beneficios de todas las funcionalidades que no te ofrecen otros optimizadores**
+
+**Si contrata la licencia de forma anual, puede obtener los siguientes precios especiales:**
+
+* **1 año:**&#x20;
+  * Precio regular $300
+  * <mark style="color:$danger;">Precio especial $200</mark>
+  * Ahorro total $100
+  * Pago final $16.67 mensual
+* **2 años:**&#x20;
+  * Precio regular $600
+  * <mark style="color:$danger;">Precio especial $350</mark>
+  * Ahorro total $250
+  * Pago final $14.58 mensual
