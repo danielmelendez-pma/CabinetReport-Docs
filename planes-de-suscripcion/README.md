@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/banner.bmp
+coverY: 0
+---
+
 # Planes de Suscripción
 
 ### 🧾 Planes de Suscripción – Cabinet Report
