@@ -3,6 +3,7 @@ description: >-
   CABINET REPORT es una herramienta profesional diseñada para transformar la
   forma en que las empresas del sector de fabricación de muebles gestionan su
   producción.
+cover: .gitbook/assets/banner.bmp
 coverY: 0
 layout:
   width: default
