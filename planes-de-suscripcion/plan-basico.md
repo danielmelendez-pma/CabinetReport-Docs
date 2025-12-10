@@ -19,3 +19,5 @@ Este plan es ideal para quienes están dando el **primer paso hacia la transform
 * ✅ **Gestión básica de proyectos y producción**
 * ✅ **Generación de reportes de producción de forma organizada**
 * ✅ **Respaldo seguro de información en la nube**
+
+**Si contrata la licencia de forma anual, puede obtener los siguientes precios especiales:**

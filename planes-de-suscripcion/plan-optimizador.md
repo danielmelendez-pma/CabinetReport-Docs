@@ -35,3 +35,8 @@ Es la opción ideal para quienes buscan **potenciar únicamente la optimización
   * <mark style="color:$danger;">Precio especial $350</mark>
   * Ahorro total $250
   * Pago final $14.58 mensual
+* **3 años:**&#x20;
+  * Precio regular $900
+  * <mark style="color:$danger;">Precio especial $500</mark>
+  * Ahorro total $400
+  * Pago final $13.89 mensual
