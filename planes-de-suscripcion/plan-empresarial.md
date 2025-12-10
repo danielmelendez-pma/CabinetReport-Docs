@@ -17,7 +17,27 @@ Es la opción ideal para empresas que buscan **profesionalizar completamente sus
 * ✏️ Modificaciones diarias: **60**
 * 📂 Catálogos personalizados: **20**
 * ☁️ **Almacenamiento en la nube:** Incluido (historial limitado a 36 meses)
+* 🧩 Uso de optimizadores: **Ilimitado**
+* 📊 Informes de Seguimiento y Reportes de producción
 * ✅ **Acceso a los módulos principales de Cabinet Report**
 * ✅ **Gestión básica de proyectos y producción**
 * ✅ **Generación de reportes de producción de forma organizada**
 * ✅ **Respaldo seguro de información en la nube**
+
+**Si contrata la licencia de forma anual, puede obtener los siguientes precios especiales:**
+
+* **1 año:**&#x20;
+  * Precio regular $2,400
+  * <mark style="color:$danger;">Precio especial $2,160</mark>
+  * ## <mark style="color:$success;">Ahorro total $120</mark>
+  * Pago final $180.00 mensual
+* **2 años:**&#x20;
+  * Precio regular $4,800
+  * <mark style="color:$danger;">Precio especial $4,000</mark>
+  * ## <mark style="color:$success;">Ahorro total $800</mark>
+  * Pago final $166.67 mensual
+* **3 años:**&#x20;
+  * Precio regular $7,200
+  * <mark style="color:$danger;">Precio especial $5,400</mark>
+  * ## <mark style="color:$success;">Ahorro total $1,800</mark>
+  * Pago final $150.00 mensual
