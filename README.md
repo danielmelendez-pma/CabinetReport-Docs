@@ -26,7 +26,7 @@ layout:
 
 # Que es Cabinet Report?
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nace a partir de años de experiencia directa trabajando con talleres, fabricantes y diseñadores que, día tras día, enfrentan los mismos desafíos: planificación lenta, procesos repetitivos, errores humanos, dificultades para organizar materiales y tiempos de entrega cada vez más exigentes.
 
