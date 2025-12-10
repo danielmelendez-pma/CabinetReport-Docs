@@ -17,6 +17,8 @@ Es la opción ideal para quienes desean ir **más allá de una simple suscripci�
 * ✏️ Modificaciones diarias: **Ilimitadas**
 * 📂 Catálogos personalizados: **Ilimitados**
 * ☁️ Almacenamiento en la nube: **Ilimitado**
+* 🧩 Uso de optimizadores: **Ilimitado**
+* 📊 Informes de Seguimiento y Tracking de producción
 * ✅ Acceso a **TODAS las funcionalidades actuales**
 * ✅ Acceso automático a **todas las funcionalidades futuras**
 * ✅ Soporte técnico prioritario
