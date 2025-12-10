@@ -19,22 +19,21 @@ Este plan es ideal para quienes están dando el **primer paso hacia la transform
 * ✅ **Acceso a los módulos principales de Cabinet Report**
 * ✅ **Gestión básica de proyectos y producción**
 * ✅ **Generación de reportes de producción de forma organizada**
-* ✅ **Respaldo seguro de información en la nube**
 
 **Si contrata la licencia de forma anual, puede obtener los siguientes precios especiales:**
 
 * **1 año:**&#x20;
   * Precio regular $600
   * <mark style="color:$danger;">Precio especial $450</mark>
-  * Ahorro total $150
+  * ## <mark style="color:$success;">Ahorro total $150</mark>
   * Pago final $37.50 mensual
 * **2 años:**&#x20;
   * Precio regular $1,200
   * <mark style="color:$danger;">Precio especial $850</mark>
-  * Ahorro total $350
+  * ## <mark style="color:$success;">Ahorro total $350</mark>
   * Pago final $35.42 mensual
 * **3 años:**&#x20;
   * Precio regular $1,800
   * <mark style="color:$danger;">Precio especial $1,100</mark>
-  * Ahorro total $700
+  * ## <mark style="color:$success;">Ahorro total $700</mark>
   * Pago final $30.56 mensual

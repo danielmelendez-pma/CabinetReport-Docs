@@ -18,11 +18,12 @@ Es la opción ideal para empresas que buscan **profesionalizar completamente sus
 * 📂 Catálogos personalizados: **20**
 * ☁️ **Almacenamiento en la nube:** Incluido (historial limitado a 36 meses)
 * 🧩 Uso de optimizadores: **Ilimitado**
-* 📊 Informes de Seguimiento y Reportes de producción
+* 💾 Exportar a Optimizador propio
+* ⚙️ Integración automatizada con maquinaria de producción
+* 📊 Informes de Seguimiento y Tracking de producción
 * ✅ **Acceso a los módulos principales de Cabinet Report**
 * ✅ **Gestión básica de proyectos y producción**
 * ✅ **Generación de reportes de producción de forma organizada**
-* ✅ **Respaldo seguro de información en la nube**
 
 **Si contrata la licencia de forma anual, puede obtener los siguientes precios especiales:**
 
