@@ -1,3 +1,5 @@
 # Creador de Piezas
 
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
 <mark style="color:red;">**Documentación en desarrollo...**</mark>
