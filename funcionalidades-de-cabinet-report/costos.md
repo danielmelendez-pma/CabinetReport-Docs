@@ -1,4 +1,4 @@
-# Generador de QR
+# Costos
 
 <mark style="color:green;">**Módulo en proceso de creación...**</mark>
 

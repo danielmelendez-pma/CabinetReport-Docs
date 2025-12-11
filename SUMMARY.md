@@ -15,6 +15,7 @@
   * [Catálogo de Módulos](funcionalidades-de-cabinet-report/catalogo-de-modulos.md)
   * [Creador de Módulos](funcionalidades-de-cabinet-report/creador-de-modulos.md)
   * [Reporte de Producción](funcionalidades-de-cabinet-report/reporte-de-produccion.md)
+  * [Costos](funcionalidades-de-cabinet-report/costos.md)
   * [Stock de Tableros](funcionalidades-de-cabinet-report/stock-de-tableros.md)
   * [Reporte de Compras](funcionalidades-de-cabinet-report/reporte-de-compras.md)
   * [Creador de Piezas](funcionalidades-de-cabinet-report/creador-de-piezas.md)
