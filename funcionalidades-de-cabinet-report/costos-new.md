@@ -1,5 +1,7 @@
 # Costos (New)
 
+Pronto, desde Cabinet Report podrás gestionar tus costos para agilizar los procesos de cotización de tus proyectos.
+
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:green;">**Módulo en proceso de creación...**</mark>
