@@ -2,7 +2,7 @@
 
 ### 🎯 ¿A quién va dirigido Cabinet Report?
 
-Cabinet Report está diseñado para adaptarse a distintos perfiles del sector de fabricación e instalación de muebles, desde profesionales independientes hasta fábricas y proveedores especializados. El sistema está en constante evolución con el objetivo de crecer con el negocio y se ajusta a la forma real de trabajar en común de cada tipo de empresa y cubrir sus necesidades reales con cada actualización lanzada.
+**Cabinet Report** está diseñado para adaptarse a distintos perfiles del sector de fabricación e instalación de muebles, desde profesionales independientes hasta fábricas y proveedores especializados. El sistema está en constante evolución con el objetivo de crecer con el negocio y se ajusta a la forma real de trabajar en común de cada tipo de empresa y cubrir sus necesidades reales con cada actualización lanzada.
 
 * [Contrasista Independiente](independiente.md)
 * [Pequeño Taller](pequeno-taller.md)
@@ -13,6 +13,6 @@ Cabinet Report está diseñado para adaptarse a distintos perfiles del sector de
 ### 📌 En resumen
 
 Cabinet Report no está pensado para un solo tipo de usuario, sino para **todo el ecosistema** que participa en la fabricación de muebles:\
-desde quien diseña y mide, hasta quien corta, cantea, fabrica o instala.
+desde quien diseña y mide, pasa por el departamento que maneja las compras y gestión de almacenaje de la materia prima, hasta quien corta, cantea, fabrica o instala.
 
 > **Una sola herramienta, adaptada a cada realidad del mercado.**
