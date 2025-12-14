@@ -1,0 +1,16 @@
+# Fábrica
+
+### 🏭 Fábrica
+
+_(Fábricas de muebles establecidas)_
+
+Empresas con mayor volumen de producción, personal dividido por áreas y procesos más complejos. Trabajan con catálogos, producción en serie o proyectos grandes y requieren **precisión, trazabilidad y estandarización**.
+
+Aquí los errores se traducen directamente en pérdidas de tiempo, material y dinero.
+
+**Cómo les ayuda Cabinet Report:**
+
+* Estandarización de procesos productivos.
+* Integración con optimizadores y maquinaria.
+* Control detallado de producción y materiales.
+* Reportes claros para cada área (corte, canteo, montaje, instalación).
