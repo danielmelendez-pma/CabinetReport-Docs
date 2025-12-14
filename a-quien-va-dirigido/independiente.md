@@ -2,7 +2,9 @@
 
 ### 👤 Independiente
 
-_(Ebanistas, contratistas e instaladores independientes)_
+<figure><img src="../.gitbook/assets/image (24).png" alt="" width="185"><figcaption></figcaption></figure>
+
+<p align="center"><em>(Ebanistas, contratistas e instaladores independientes)</em></p>
 
 Profesionales que trabajan de forma autónoma, manejando uno o pocos proyectos a la vez. Suelen encargarse personalmente del diseño, medición, despiece y coordinación con el cliente final.
 
