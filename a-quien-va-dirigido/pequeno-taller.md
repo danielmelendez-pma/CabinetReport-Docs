@@ -2,7 +2,7 @@
 
 ### 🛠️ Pequeño Taller
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="181"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="181"><figcaption></figcaption></figure>
 
 <p align="center"><em>(Talleres de 1 a 5 personas)</em></p>
 
