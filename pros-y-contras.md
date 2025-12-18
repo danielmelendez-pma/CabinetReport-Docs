@@ -116,4 +116,4 @@ Ese compromiso se traduce en **reducción de desperdicio**, **mejor control de p
 
 Los **Contras de Cabinet Report no son limitaciones**, sino el reflejo de una herramienta profesional que exige orden, criterio y compromiso, ofreciendo a cambio **control, eficiencia y escalabilidad**.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
