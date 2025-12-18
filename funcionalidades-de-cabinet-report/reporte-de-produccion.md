@@ -1,51 +1,139 @@
 # Reporte de Producción
 
-Dentro del entorno de Reporte de Producción es donde revisas y preparas cada pieza de cada módulo para generar los reportes necesarios para dar inicio a la fabricación.
+### 🏭 Reporte de Producción – Cabinet Report
+
+La sección **Reporte de Producción** es el **núcleo operativo** donde se revisa, valida y prepara toda la información necesaria para iniciar la fabricación.\
+Aquí convergen **módulos, piezas, materiales, cantos y herrajes**, y es donde Cabinet Report aplica sus **algoritmos de control** para reducir errores antes de llegar a planta.
+
+***
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-## Que puedes hacer dentro de Reporte de Producción?
+***
 
-Cabinet Report hace lo siguiente por tí dentro de la funcionalidad de Reporte de Producción para ayudar a no cometer muchos errores:
+### 🎯 ¿Qué es el Reporte de Producción?
 
-* Revisa si los tableros utilizados están registrados en la base de datos para de esa manera verificar si cada pieza cumple con:
-  * Espesor correcto
-  * Que la medida de la pieza no exceda del tamaño del tablero
-  * Que el espesor de la pieza coincida con el espesor del tablero
-  * Que la veta de la pieza coincida con la veta del tablero
-  * Si no estas seguro y necesitas ver imagen del tablero para validar la veta, puedes con un clic ver la ficha del tablero, previamente registrado en la base de datos
-* Revisa si las piezas cumplen con la medida mínima de corte y canteo
-* Revisa que todas las piezas cuentan con sus medidas
-* Revisa que los cantos tengan consistencia y un espesor establecido para poder establecer si:
-  * Si hay que activar el bloque de repasado en la enchapadora
-  * Si hay que reducir la pieza, el espesor del canto antes de enviar a la seccionadora
-* Si necesitas multiplicar la producción, Cabinet Report lo hace por ti, pieza por pieza
-* Te lleva un conteo en tiempo real de la cantidad de piezas actuales
-* Te lleva un conteo en tiempo real de la cantidad de módulos actuales
-* Te calcula el metraje de cantos por cada tipo de canto de manera automática
-* Para las piezas enchapadas, te valida lo siguiente:
-  * Si la pieza enchapada tiene la mínima cantidad contra el múltiplo de la producción
-  * Te calcula el metraje de cantos especiales para las piezas enchapadas
-  * Te verifica si debes cortar las piezas enchapadas con excedente de medidas para luego repasar a la medida exacta final antes de canteo
-* Si debes invertir medidas en algunas piezas, sólo indicas cual pieza y te hace la inversión automática
-* Si quieres agrupar piezas existentes para crear un módulo, solo debes hacer unos clics y Cabinet Report hace el resto del trabajo
-* Si necesitas cambiar el nombre del módulo, no lo debes hacer para cada pieza, sólo le indicas el nombre a Cabinet Report y lo cambia por ti
-* Si quieres crear un módulo a partir de otro módulo existente, solo le indicas a Cabinet Report cual modulo quieres replicar y te lo hace de manera automática
-* Dentro de la misma ventana de Reporte de Producción puedes agregar:
+Es el entorno donde se **verifica pieza por pieza** que todo lo planificado cumple con las reglas técnicas de fabricación, garantizando que la información enviada a corte, canteo, montaje y almacén sea **consistente, clara y confiable**.
+
+***
+
+### 🔍 Validaciones automáticas del sistema
+
+Dentro del Reporte de Producción, Cabinet Report revisa automáticamente que cada pieza cumpla con lo siguiente:
+
+#### ✔️ Validación de tableros
+
+* El material utilizado **exista en la base de datos**.
+* El **espesor del tablero** coincida con el espesor de la pieza.
+* Las **dimensiones de la pieza no excedan** el tamaño del tablero.
+* La **veta de la pieza** coincida con la veta del tablero.
+* Acceso con un clic a la **ficha del tablero** para validar imagen, veta y especificaciones.
+
+***
+
+#### ✔️ Validación de piezas
+
+* Que todas las piezas tengan **medidas definidas**.
+* Que cumplan con la **medida mínima de corte y canteo**.
+* Control de piezas duplicadas o inconsistentes.
+* Conteo en tiempo real de:
+  * **Cantidad de piezas**
+  * **Cantidad de módulos**
+
+***
+
+#### ✔️ Validación de cantos
+
+* Consistencia en nombres y espesores de cantos.
+* Cálculo automático del **metraje total de cantos** por tipo.
+* Identificación de:
+  * Necesidad de **activar bloque de repasado** en enchapadora.
+  * Necesidad de **reducir pieza** según espesor del canto.
+* Cálculo de **cantos especiales** para piezas enchapadas.
+* Validación de piezas que deben:
+  * Cortarse con **excedente**
+  * Repasarse a medida final antes del canteo
+
+***
+
+#### ✔️ Control avanzado de producción
+
+* Multiplicar o dividir producción **pieza por pieza** automáticamente.
+* Invertir medidas de piezas seleccionadas con un solo clic.
+* Agrupar piezas existentes para **crear nuevos módulos**.
+* Renombrar módulos sin editar pieza por pieza.
+* Replicar módulos completos de forma automática.
+
+***
+
+### 🧩 Gestión integral desde una sola ventana
+
+Dentro del Reporte de Producción también puedes agregar y gestionar:
+
+* Zócalos
+* Accesorios
+* Ferretería de montaje
+* Ferretería de instalación
+* Tubos
+* Perfiles tipo Gola
+
+Todo queda vinculado directamente al mismo reporte.
+
+***
+
+### ⚙️ Generación final del Reporte de Producción
+
+Cuando el reporte está listo, Cabinet Report ejecuta automáticamente sus algoritmos finales y realiza lo siguiente:
+
+#### 📄 Archivos generados
+
+* Genera el archivo **Excel – Reporte de Producción** con todas las piezas estructuradas.
+* Inserta referencias claras de:
+  * Tableros
+  * Cantos
+  * Uso dentro del mueble (para operadores y montaje)
+* Verifica que **todas las piezas estén incluidas** antes de exportar.
+
+***
+
+#### 📐 Optimización automática
+
+* Genera archivos de **optimización por tipo de aglomerado**, listos para el optimizador.
+* Genera archivos de optimización para:
   * Zócalos
-  * Accesorios
-  * Ferretería de Montaje
-  * Ferretería de Instalación
+  * Golas
   * Tubos
-  * Perfiles Gola
-* Cuando ya estas listo para genear el reporte de producción, Cabinet Report activa los algoritmos de revisión y ocurre lo siguiente:
-  * Revisa de manera automática pieza por pieza en busca de inconsistencias de todo lo listado arriba
-  * Crea de manera automática el archivo excel "Reporte de Producción" de manera estructurada con todas las piezas
-  * Le indicas a Cabinet Report en que parte de los muebles se utilizarán las referencias de tableros de aglomerados y cantos para que te lo pueda colocar en el reporte y le muestre la información a los operadores de máquina y montaje
-  * Revisa por ti que el archivo excel "Reporte de Producción" contenga todas las piezas que has agregado y en caso de haber alguna inconsistencia te lo hará saber para que haga tu revisión visual
-  * Te genera los archivos de Optimización por cada tipo de aglomerado exclusivo para tu programa de optimización y así evitar tabular de manera manual
-  * Te genera los archivos de listado de Accesorios, Ferreterías y Herrajes listos para que los entregues a tu departamento de almacén y te despachen o necesario para tu producción
-  * Te genera de manera automática los archivos de Optimización de los perfiles como Zócalo, Golas, Tubos, Etc.
+  * Perfiles especiales
 
-## Puedes crear un Reporte de Producción a partir de:
+***
 
+#### 📦 Listados para almacén
+
+* Genera listados automáticos de:
+  * Accesorios
+  * Ferreterías
+  * Herrajes\
+    Listos para ser entregados a almacén o despacho de producción.
+
+***
+
+### 📂 ¿Cómo puedes crear un Reporte de Producción?
+
+Puedes iniciar un Reporte de Producción a partir de:
+
+* 📄 **Archivo CSV de Promob**
+* 📄 **Archivo TXT de Cabinet Report**
+* 🔁 Convirtiendo **RP existente a TXT de Cabinet Report**
+* 🆕 **Reporte en blanco de Cabinet Report**
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Esto te permite integrarte fácilmente a distintos flujos de trabajo o sistemas externos.
+
+***
+
+### ✅ Beneficio clave
+
+El Reporte de Producción de Cabinet Report actúa como un **filtro técnico previo a fábrica**, reduciendo errores humanos, reprocesos y desperdicios, y asegurando que cada área de producción reciba información **clara, validada y lista para ejecutar**.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
