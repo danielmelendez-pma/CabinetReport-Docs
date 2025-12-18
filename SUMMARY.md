@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Que es Cabinet Report?](README.md)
+* [Cabinet Report](README.md)
+* [Que es Cabinet Report?](<README (1).md>)
   * [¿Qué puede hacer Cabinet Report por su negocio?](que-es-cabinet-report/que-puede-hacer-cabinet-report-por-su-negocio.md)
   * [¿Por qué elegir Cabinet Report?](que-es-cabinet-report/por-que-elegir-cabinet-report.md)
   * [Beneficios clave](que-es-cabinet-report/beneficios-clave.md)
