@@ -39,3 +39,4 @@
   * [Plan Empresarial](planes-de-suscripcion/plan-empresarial.md)
   * [Plan Socio](planes-de-suscripcion/plan-socio.md)
   * [Tabla comparativa](planes-de-suscripcion/tabla-comparativa.md)
+* [Acerca del Desarrollador](acerca-del-desarrollador.md)
