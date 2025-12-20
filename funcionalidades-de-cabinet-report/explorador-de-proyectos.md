@@ -2,7 +2,7 @@
 
 Cabinet Report te administra los proyectos, ofreciéndole un espacio donde los puedas visualizar desde cualquier equipo, pronto los podrás importar y abrir directamente en la aplicación para continuar trabajando en otro equipo.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tienes la opción de filtrar tus proyectos por:
 

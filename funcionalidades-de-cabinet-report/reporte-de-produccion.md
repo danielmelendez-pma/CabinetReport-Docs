@@ -126,7 +126,7 @@ Puedes iniciar un Reporte de Producción a partir de:
 * 🔁 Convirtiendo **RP existente a TXT de Cabinet Report**
 * 🆕 **Reporte en blanco de Cabinet Report**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Esto te permite integrarte fácilmente a distintos flujos de trabajo o sistemas externos.
 
@@ -136,4 +136,4 @@ Esto te permite integrarte fácilmente a distintos flujos de trabajo o sistemas 
 
 El Reporte de Producción de Cabinet Report actúa como un **filtro técnico previo a fábrica**, reduciendo errores humanos, reprocesos y desperdicios, y asegurando que cada área de producción reciba información **clara, validada y lista para ejecutar**.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
