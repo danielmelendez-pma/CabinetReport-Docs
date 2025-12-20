@@ -1,6 +1,6 @@
 # Acerca del Desarrollador
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Mi nombre es **Daniel Meléndez**, panameño, nacido el **17 de abril de 1986**.\
 Mi formación y experiencia profesional se han desarrollado siempre entre **dos mundos que rara vez se cruzan bien: la fabricación de muebles y el desarrollo de software**. Cabinet Report nace precisamente de esa combinación.
@@ -21,7 +21,7 @@ En **2014** regresé a **LMD Kitchens & Cabinets** como **Coordinador de Proyect
 
 ***
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -40,7 +40,7 @@ Hoy, Cabinet Report se encuentra en la **versión 6**, consolidándose como un *
 
 ***
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

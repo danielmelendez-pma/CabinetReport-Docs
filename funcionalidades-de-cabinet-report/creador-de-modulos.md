@@ -9,7 +9,7 @@ Esto convierte al sistema en una herramienta **flexible, escalable y totalmente 
 
 ***
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

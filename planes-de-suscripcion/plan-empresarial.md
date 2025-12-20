@@ -2,7 +2,7 @@
 
 El Plan Empresarial está diseñado para **fábricas de muebles establecidas** que manejan un alto volumen de proyectos y requieren **máximo control, capacidad operativa y respaldo de información**.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="142"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="142"><figcaption></figcaption></figure>
 
 Este plan permite trabajar con **múltiples usuarios, una alta generación de reportes, amplias modificaciones diarias y una gran cantidad de catálogos personalizados**, acompañado de almacenamiento en la nube con un historial extendido, garantizando seguridad, trazabilidad y continuidad operativa.
 

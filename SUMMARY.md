@@ -40,3 +40,4 @@
   * [Plan Socio](planes-de-suscripcion/plan-socio.md)
   * [Tabla comparativa](planes-de-suscripcion/tabla-comparativa.md)
 * [Acerca del Desarrollador](acerca-del-desarrollador.md)
+* [Evolución de Cabinet Report](evolucion-de-cabinet-report.md)
