@@ -17,9 +17,9 @@ Cada plan le permite comenzar de forma progresiva y escalar a mayor capacidad se
 
 A continuación, puede conocer los planes disponibles:
 
-🆓 **Plan Gratis** – Ideal para pruebas iniciales\
-⚙️ **Plan Optimizador** – Enfocado exclusivamente en optimización\
-🟢 **Plan Básico** – Para talleres pequeños\
-🔵 **Plan Intermedio** – Para talleres en crecimiento\
-🟠 **Plan Empresarial** – Para fábricas establecidas\
-🟣 **Plan Socio** – Acceso total sin límites (socios estratégicos)
+🆓 [**Plan Gratis**](plan-gratis.md) – Ideal para pruebas iniciales\
+⚙️ [**Plan Optimizador**](plan-optimizador.md) – Enfocado exclusivamente en optimización\
+🟢 [**Plan Básico**](plan-basico.md) – Para talleres pequeños\
+🔵 [**Plan Intermedio**](plan-intermedio.md) – Para talleres en crecimiento\
+🟠 [**Plan Empresarial**](plan-empresarial.md) – Para fábricas establecidas\
+🟣 [**Plan Socio**](plan-socio.md) – Acceso total sin límites (socios estratégicos)
