@@ -21,7 +21,7 @@ Cada red social cumple un propósito específico, permitiéndole acceder al cont
 {% endcolumn %}
 
 {% column width="75%" %}
-## Contenido educativo, demostraciones y guías paso a paso
+## Contenido educativo, Poscast, demostraciones y guías paso a paso
 {% endcolumn %}
 {% endcolumns %}
 
@@ -33,7 +33,7 @@ Cada red social cumple un propósito específico, permitiéndole acceder al cont
 {% endcolumn %}
 
 {% column width="75%" %}
-## Avisos rápidos, novedades y comunicación directa
+## Avisos rápidos, novedades y comunicación directa, También se publican los enlaces de descarga de cada actualización...
 {% endcolumn %}
 {% endcolumns %}
 
