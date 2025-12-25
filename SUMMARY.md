@@ -13,6 +13,7 @@
   * [Fábrica](a-quien-va-dirigido/fabrica.md)
   * [Proveedor de Tableros, Corte y Canteo](a-quien-va-dirigido/proveedor-de-tableros-corte-y-canteo.md)
   * [Proveedor de Granitos, Corte y Biselado](a-quien-va-dirigido/proveedor-de-granitos-corte-y-biselado.md)
+* [Redes Sociales](redes-sociales.md)
 * [Pros y Contras](pros-y-contras.md)
 * [Funcionalidades de Cabinet Report](funcionalidades-de-cabinet-report/README.md)
   * [Inicio de Sesión](funcionalidades-de-cabinet-report/inicio-de-sesion.md)
