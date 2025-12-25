@@ -45,7 +45,9 @@ Cada red social cumple un propósito específico, permitiéndole acceder al cont
 {% endcolumn %}
 
 {% column width="75%" %}
-## Información institucional, evolución del proyecto y enfoque profesional
+## Información institucional,&#x20;
+
+## Evolución del proyecto y enfoque profesional
 {% endcolumn %}
 {% endcolumns %}
 
