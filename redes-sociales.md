@@ -17,7 +17,7 @@ Cada red social cumple un propósito específico, permitiéndole acceder al cont
 
 {% columns %}
 {% column width="25%" %}
-<figure><img src=".gitbook/assets/IcoYoutube.png" alt="" width="100"><figcaption><p><a href="https://www.youtube.com/channel/UCxhKbodaL1FSvT5XtJ4cfkg">Youtube</a></p></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/IcoYoutube.png" alt="" width="100"><figcaption><p><a href="https://www.youtube.com/channel/UCxhKbodaL1FSvT5XtJ4cfkg">Youtube</a></p></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="75%" %}
@@ -29,7 +29,7 @@ Cada red social cumple un propósito específico, permitiéndole acceder al cont
 
 {% columns fullWidth="false" %}
 {% column width="25%" %}
-<figure><img src=".gitbook/assets/IcoWhatsapp.png" alt=""><figcaption><p><a href="https://www.whatsapp.com/channel/0029VbBCP1Z3gvWW4PTFQg1a">Whatsapp</a></p></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/IcoWhatsapp.png" alt=""><figcaption><p><a href="https://www.whatsapp.com/channel/0029VbBCP1Z3gvWW4PTFQg1a">Whatsapp</a></p></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="75%" %}
@@ -41,7 +41,7 @@ Cada red social cumple un propósito específico, permitiéndole acceder al cont
 
 {% columns fullWidth="false" %}
 {% column width="25%" %}
-<figure><img src=".gitbook/assets/IcoLinkedIn.png" alt=""><figcaption><p><a href="https://www.linkedin.com/in/daniel-mel%C3%A9ndez-07ba0b29/">LinkedIn</a></p></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/IcoLinkedIn.png" alt=""><figcaption><p><a href="https://www.linkedin.com/in/daniel-mel%C3%A9ndez-07ba0b29/">LinkedIn</a></p></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="75%" %}
