@@ -2,7 +2,7 @@
 
 {% columns %}
 {% column width="33.33333333333333%" %}
-<div align="left"><figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="188"><figcaption><p>Cabinet Report</p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (3) (1) (1).png" alt="" width="188"><figcaption><p>Cabinet Report</p></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="66.66666666666667%" %}
@@ -14,7 +14,7 @@ Cabinet Report es una herramienta diseñada para optimizar la planificación, va
 
 ***
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

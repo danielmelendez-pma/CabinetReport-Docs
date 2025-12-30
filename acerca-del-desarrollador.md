@@ -21,7 +21,7 @@ En **2014** regresé a **LMD Kitchens & Cabinets** como **Coordinador de Proyect
 
 ***
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -40,7 +40,7 @@ Hoy, Cabinet Report se encuentra en la **versión 6**, consolidándose como un *
 
 ***
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

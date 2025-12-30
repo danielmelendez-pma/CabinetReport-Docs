@@ -2,7 +2,7 @@
 
 El Plan Básico está dirigido al **ebanista independiente y a talleres pequeños** que trabajan día a día con pasión y profesionalismo, y que desean comenzar a organizar, automatizar y profesionalizar sus procesos productivos.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="155"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt="" width="155"><figcaption></figcaption></figure>
 
 Este plan es ideal para quienes están dando el **primer paso hacia la transformación digital**, permitiéndoles mejorar el control de sus proyectos, optimizar tiempos de trabajo y fortalecer la imagen de su negocio con el respaldo de la tecnología.
 

@@ -1,8 +1,8 @@
 # Ventana Acerca De
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Para acceder a esta ventana "Acerca De" debe hacer clic en el icono (i) en la parte superior derecha, justo alado de los botones de Minimizar, Maximizar y Cerrar:![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+Para acceder a esta ventana "Acerca De" debe hacer clic en el icono (i) en la parte superior derecha, justo alado de los botones de Minimizar, Maximizar y Cerrar:![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Esta ventana le muetra:
 

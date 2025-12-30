@@ -2,7 +2,7 @@
 
 El Plan Intermedio está diseñado para **talleres y pequeñas empresas que se encuentran en crecimiento**, y que necesitan un mayor control sobre sus proyectos, producción y flujo de trabajo.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="154"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt="" width="154"><figcaption></figcaption></figure>
 
 Este plan permite dar un paso más allá de lo básico, incorporando **mayor capacidad operativa, más reportes, más modificaciones y un mejor manejo de catálogos**, respaldados por almacenamiento en la nube con un historial ampliado.
 
