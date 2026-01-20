@@ -30,6 +30,7 @@
   * [Generador de QR (En desarrollo)](funcionalidades-de-cabinet-report/generador-de-qr-en-desarrollo.md)
   * [Herrajes (En desarrollo)](funcionalidades-de-cabinet-report/herrajes-en-desarrollo.md)
   * [Ventana Acerca De](funcionalidades-de-cabinet-report/ventana-acerca-de.md)
+* [Manual de Usuario](manual-de-usuario.md)
 * [Pros y Contras](pros-y-contras.md)
 * [Redes Sociales](redes-sociales.md)
 * [Evolución de Cabinet Report](evolucion-de-cabinet-report.md)
