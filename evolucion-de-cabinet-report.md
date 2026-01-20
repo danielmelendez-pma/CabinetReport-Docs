@@ -6,7 +6,7 @@
 Primer Prototipo "Promob CSV Decoder" - 10 Marzo 2023
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Segundo Prototipo "Promob Decoder" - 12 Julio 2023

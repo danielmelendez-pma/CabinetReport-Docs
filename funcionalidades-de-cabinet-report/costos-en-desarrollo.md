@@ -6,7 +6,7 @@
 
 El módulo de **Costos de Cabinet Report** está diseñado para **aprovechar directamente la información que ya genera el sistema durante la producción**.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 👉 No es un módulo aislado\
 👉 No es un Excel adicional\
