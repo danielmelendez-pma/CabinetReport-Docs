@@ -32,7 +32,7 @@ Es la opción ideal para empresas que buscan **profesionalizar completamente sus
 * **1 año:**&#x20;
   * Precio regular $2,400
   * <mark style="color:$danger;">Precio especial $2,160</mark>
-  * ## <mark style="color:$success;">Ahorro total $120</mark>
+  * ## <mark style="color:$success;">Ahorro total $240</mark>
   * Pago final $180.00 mensual
 * **2 años:**&#x20;
   * Precio regular $4,800
