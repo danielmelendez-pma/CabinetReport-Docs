@@ -16,10 +16,10 @@ Es la opción ideal para negocios que ya tienen un flujo constante de proyectos,
 
 ✅ **Beneficios:**
 
-* 👤 Usuarios permitidos: **3**
-* 📄 Reportes diarios: 1**5**
-* ✏️ Modificaciones diarias: **10**
-* 📂 Catálogos personalizados: 8
+* 👤 Usuarios permitidos: **4**
+* 📄 Reportes diarios: 25
+* ✏️ Modificaciones diarias: **30**
+* 📂 Catálogos personalizados: 15
 * ☁️ Almacenamiento en la nube: Incluido (historial limitado a 24 meses)
 * 🧩 Uso de optimizadores: **Ilimitado**
 * ✅ Acceso a los módulos principales de Cabinet Report
