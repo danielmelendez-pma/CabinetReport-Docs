@@ -4,7 +4,7 @@ El Plan Profesional está diseñado para talleres avanzados y empresas en expans
 
 
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt="" width="154"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ImgPLanProfesionalTransp.png" alt="" width="188"><figcaption></figcaption></figure>
 
 Este plan permite trabajar con una estructura más sólida que el Plan Intermedio, incorporando mayor capacidad operativa, más catálogos personalizados, historial ampliado en la nube y herramientas para fortalecer el control de producción.
 
