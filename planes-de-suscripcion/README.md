@@ -20,6 +20,9 @@ A continuación, puede conocer los planes disponibles:
 🆓 [**Plan Gratis**](plan-gratis.md) – Ideal para pruebas iniciales\
 ⚙️ [**Plan Optimizador**](plan-optimizador.md) – Enfocado exclusivamente en optimización\
 🟢 [**Plan Básico**](plan-basico.md) – Para talleres pequeños\
-🔵 [**Plan Intermedio**](plan-intermedio.md) – Para talleres en crecimiento\
+🔵 [**Plan Intermedio**](plan-intermedio.md) – Para talleres en crecimiento
+
+🔴[ **Plan Profesional** ](plan-profesional.md)– Para talleres avanzados y empresas en expansión.\
 🟠 [**Plan Empresarial**](plan-empresarial.md) – Para fábricas establecidas\
 🟣 [**Plan Socio**](plan-socio.md) – Acceso total sin límites (socios estratégicos)
+
