@@ -2,12 +2,11 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 
 site:
   title: Cabinet Report
-
-structure:
-  - type: space
-    key: space-docs
-    title: Documentation
-    path: docs
-    default: true
-    content:
-      directory: ./
+  structure:
+    - type: space
+      key: space-docs
+      title: Documentation
+      path: docs
+      default: true
+      content:
+        directory: ./
