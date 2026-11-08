@@ -54,3 +54,5 @@ Es la opción ideal para negocios que ya tienen un flujo constante de proyectos,
 ---
 
 [← Volver al inicio de Cabinet Report](../README.md)
+
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

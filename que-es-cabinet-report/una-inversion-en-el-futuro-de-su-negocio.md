@@ -8,6 +8,8 @@ layout:
 
 # Una inversión en el futuro de tu negocio
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · MEJORA CONTINUA DE PROCESOS**
 
 ## Modernizar comienza por cómo se trabaja

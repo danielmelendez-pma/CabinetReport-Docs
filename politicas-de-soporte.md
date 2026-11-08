@@ -1,5 +1,7 @@
 # Políticas de Soporte
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 Las presentes Políticas de Soporte establecen el alcance, condiciones y límites del soporte técnico ofrecido para Cabinet Report.
 
 Estas políticas complementan los **Términos y Condiciones** y el **Código de Ética y Confidencialidad**.

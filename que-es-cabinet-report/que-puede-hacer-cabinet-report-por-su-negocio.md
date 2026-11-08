@@ -8,6 +8,8 @@ layout:
 
 # ¿Qué puede hacer Cabinet Report por tu negocio?
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · DEL DESPIECE AL REPORTE**
 
 ## Organizar la información antes de fabricar

@@ -6,6 +6,8 @@ description: >-
 
 # Prueba gratuita de 30 días
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · CONOCE EL SOFTWARE EN TU PROCESO**
 
 ## Explora Cabinet Report antes de incorporarlo al taller

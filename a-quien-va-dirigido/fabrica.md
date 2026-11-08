@@ -6,6 +6,8 @@ description: >-
 
 # Fábrica de muebles
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · PLANIFICACIÓN Y PRODUCCIÓN**
 
 <figure><img src="../.gitbook/assets/image (25).png" alt="Ilustración de una fábrica de muebles" width="188"><figcaption><p>Entornos de fabricación con responsables y operaciones diferenciadas.</p></figcaption></figure>

@@ -6,6 +6,8 @@ description: >-
 
 # Contratista independiente
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · PROFESIONALES AUTÓNOMOS**
 
 <figure><img src="../.gitbook/assets/image (24).png" alt="Ilustración de un profesional independiente del sector del mobiliario" width="185"><figcaption><p>Ebanistas, contratistas y profesionales de instalación.</p></figcaption></figure>

@@ -1,5 +1,7 @@
 # Términos y Condiciones de Uso
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 El uso del software Cabinet Report implica la aceptación plena de los presentes **Términos y Condiciones de Uso**, los cuales regulan la relación entre el usuario y el desarrollador del sistema.
 
 Estos términos se rigen por las leyes de la **República de Panamá** y complementan el **Código de Ética y Confidencialidad** de Cabinet Report.

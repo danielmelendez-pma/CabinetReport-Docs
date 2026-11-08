@@ -8,6 +8,8 @@ layout:
 
 # ¿Por qué elegir Cabinet Report?
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · UNA HERRAMIENTA PENSADA PARA FABRICACIÓN**
 
 ## El valor de trabajar con información técnica estructurada

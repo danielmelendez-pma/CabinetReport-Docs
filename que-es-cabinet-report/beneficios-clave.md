@@ -8,6 +8,8 @@ layout:
 
 # Beneficios clave de Cabinet Report
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · PLANIFICACIÓN, ORDEN Y REVISIÓN**
 
 ## Beneficios que puedes evaluar en tu propio proceso

@@ -5,6 +5,8 @@ layout:
 
 # Tabla comparativa
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 ### 📊 Tabla Comparativa de Planes – Cabinet Report
 
 | Característica                           | 🆓 Plan Gratis | ⚙️ Plan Optimizador | 🟢 Plan Básico | 🔵 Plan Intermedio | 🔵 [Plan Profesional](plan-profesional.md) | 🟠 Plan Empresarial | 🟣 Plan Socio |

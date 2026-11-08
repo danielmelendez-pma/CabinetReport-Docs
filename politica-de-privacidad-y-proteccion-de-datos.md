@@ -1,5 +1,7 @@
 # Política de Privacidad y Protección de Datos
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 Cabinet Report respeta y protege la privacidad de sus usuarios conforme a la **Ley 81 de 26 de marzo de 2019**, sobre Protección de Datos Personales de la República de Panamá.
 
 Esta Política de Privacidad complementa el **Código de Ética y Confidencialidad** y los **Términos y Condiciones de Uso**.

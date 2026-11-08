@@ -6,6 +6,8 @@ description: >-
 
 # Pequeño taller
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · EQUIPOS DE PRODUCCIÓN**
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="Ilustración de un pequeño taller de fabricación de muebles" width="185"><figcaption><p>Talleres de escala reducida, con tareas compartidas entre sus integrantes.</p></figcaption></figure>

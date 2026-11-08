@@ -8,6 +8,8 @@ layout:
 
 # Evolución de Cabinet Report
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · DE LOS PRIMEROS PROTOTIPOS A UNA HERRAMIENTA DE PRODUCCIÓN**
 
 Cabinet Report comenzó como un proyecto para interpretar y organizar información de piezas y evolucionó hacia un entorno con catálogos, reportes, optimización y herramientas de revisión de producción.

@@ -8,6 +8,8 @@ layout:
 
 # Costos y cotizaciones
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · DEL MATERIAL AL PRESUPUESTO**
 
 ## De la información productiva a un precio revisable

@@ -8,6 +8,8 @@ layout:
 
 # ¿A quién va dirigido Cabinet Report?
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · PERFILES DE USUARIO**
 
 ## La información técnica conecta a todos los participantes

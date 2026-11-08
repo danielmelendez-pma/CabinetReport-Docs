@@ -1,5 +1,7 @@
 # Política de Capacitación e Implementación
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 Esta política regula los servicios de **capacitación, implementación y acompañamiento** asociados al uso de Cabinet Report.
 
 ### 1. Naturaleza del servicio

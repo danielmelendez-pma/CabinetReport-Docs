@@ -8,6 +8,8 @@ layout:
 
 # Orden de producción
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · ORGANIZACIÓN DE REPORTES PARA FABRICACIÓN**
 
 ## Agrupa reportes de un mismo proyecto

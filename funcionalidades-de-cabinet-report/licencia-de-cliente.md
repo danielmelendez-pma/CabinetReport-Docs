@@ -6,6 +6,8 @@ description: >-
 
 # Licencia de cliente
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · IDENTIFICACIÓN Y AUTORIZACIÓN**
 
 ## ¿Para qué sirve la licencia?

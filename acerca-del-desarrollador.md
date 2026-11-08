@@ -1,5 +1,7 @@
 # Acerca del Desarrollador
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Mi nombre es **Daniel Meléndez**, panameño, nacido el **17 de abril de 1986**.\

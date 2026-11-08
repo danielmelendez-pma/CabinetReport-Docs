@@ -10,6 +10,8 @@ layout:
 
 # Funcionalidades de Cabinet Report
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 ## Herramientas para trabajar desde la planificación hasta la fabricación
 
 Cabinet Report integra distintos módulos para organizar los proyectos de mobiliario, preparar sus componentes y generar información de producción. Esta sección sirve como **mapa de funcionalidades**: elige el proceso que deseas conocer y accede a su página.

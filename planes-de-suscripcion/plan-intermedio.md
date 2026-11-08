@@ -45,3 +45,5 @@ Es la opción ideal para negocios que ya cuentan con una base de clientes consta
 ---
 
 [← Volver al inicio de Cabinet Report](../README.md)
+
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

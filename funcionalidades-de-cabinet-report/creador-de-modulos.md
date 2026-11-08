@@ -8,6 +8,8 @@ layout:
 
 # Creador de módulos
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · BIBLIOTECAS A MEDIDA**
 
 ## Define tu propia lógica constructiva

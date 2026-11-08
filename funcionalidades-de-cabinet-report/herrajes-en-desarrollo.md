@@ -8,6 +8,8 @@ layout:
 
 # Herrajes
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · ACCESORIOS Y FERRETERÍA PARA FABRICACIÓN**
 
 ## Diferentes elementos, distintos momentos de uso

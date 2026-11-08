@@ -6,6 +6,8 @@ description: >-
 
 # Proveedor de granitos, corte y biselado
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · SUPERFICIES Y SOBRES**
 
 <figure><img src="../.gitbook/assets/image (27).png" alt="Ilustración de un proveedor que trabaja superficies para muebles" width="188"><figcaption><p>Fabricación de sobres y superficies especiales para mobiliario.</p></figcaption></figure>

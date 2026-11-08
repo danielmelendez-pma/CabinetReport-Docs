@@ -8,6 +8,8 @@ layout:
 
 # Revisor de Inteligencia Artificial
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · ASISTENCIA PARA REVISIÓN TÉCNICA**
 
 ## Cabinet Report calcula. La IA interpreta. El usuario decide.
