@@ -86,34 +86,34 @@ Conoce cómo se vinculan las revisiones con la producción, el XML de auditoría
 {% column width="50%" %}
 ### ⚙️ [Optimizadores](optimizadores.md)
 
-Consulta las herramientas de optimización y el estado de su documentación.
+Conoce la optimización de tableros, perfiles y superficies, parámetros de corte y formatos exportables.
 
 ### 🛒 [Reporte de compras](reporte-de-compras.md)
 
-Espacio de documentación pendiente de ampliación.
+Genera informes Excel para un ambiente o consolida compras de varios ambientes con trazabilidad.
 {% endcolumn %}
 
 {% column width="50%" %}
 ### 📦 [Orden de producción](orden-de-produccion.md)
 
-Espacio de documentación pendiente de ampliación.
+Agrupa reportes RP en órdenes OP y produce archivos Excel vinculados a la fabricación.
 
 ### 🪵 [Stock de tableros](stock-de-tableros.md)
 
-Información sobre el manejo de tableros y sus referencias.
+Consulta y administra el catálogo de tableros, sus fichas, precios registrados y permisos públicos o privados.
 {% endcolumn %}
 {% endcolumns %}
 
-## 4. Funcionalidades en evolución
+## 4. Costos, identificación y herrajes
 
-Las páginas siguientes describen áreas del producto cuyo desarrollo o documentación debe verificarse de acuerdo con la versión instalada:
+Estos módulos cuentan con funciones implementadas y documentación técnica; su disponibilidad concreta depende de la instalación y de los permisos:
 
 - [**Costos y cotizaciones**](costos-en-desarrollo.md)
 - [**Generador de QR**](generador-de-qr-en-desarrollo.md)
 - [**Herrajes**](herrajes-en-desarrollo.md)
 
 {% hint style="warning" %}
-**Disponibilidad según versión.** Algunas herramientas pueden estar en desarrollo, implementadas parcialmente o contar con documentación pendiente. Antes de incorporarlas a tu flujo operativo, comprueba su disponibilidad en tu versión de Cabinet Report.
+**Verificación antes de operar.** Que una función esté implementada en el código no garantiza su habilitación para todas las licencias, que los datos estén completos o que su flujo haya sido probado en tu equipo. Comprueba la versión, los permisos y los archivos generados.
 {% endhint %}
 
 ## Continúa aprendiendo
