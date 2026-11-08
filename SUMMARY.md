@@ -20,6 +20,8 @@
   * [Catálogo de Módulos](funcionalidades-de-cabinet-report/catalogo-de-modulos.md)
   * [Creador de Módulos](funcionalidades-de-cabinet-report/creador-de-modulos.md)
   * [Reporte de Producción](funcionalidades-de-cabinet-report/reporte-de-produccion.md)
+    * [Revisor de Inteligencia Artificial](funcionalidades-de-cabinet-report/revisor-inteligencia-artificial.md)
+    * [Auditoría RP y persistencia](funcionalidades-de-cabinet-report/auditoria-rp-persistencia.md)
   * [Costos (En desarrollo)](funcionalidades-de-cabinet-report/costos-en-desarrollo.md)
   * [Stock de Tableros](funcionalidades-de-cabinet-report/stock-de-tableros.md)
   * [Reporte de Compras](funcionalidades-de-cabinet-report/reporte-de-compras.md)
