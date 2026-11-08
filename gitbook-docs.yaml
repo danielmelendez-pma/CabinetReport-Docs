@@ -6,7 +6,7 @@ site:
 structure:
   - type: space
     key: space-docs
-    title: Cabinet Report
+    title: Documentation
     path: docs
     default: true
     content:
