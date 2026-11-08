@@ -1,3 +1,8 @@
+---
+layout:
+  width: wide
+---
+
 # Tabla comparativa
 
 ### 📊 Tabla Comparativa de Planes – Cabinet Report

@@ -1,122 +1,128 @@
-# Pros y Contras
+---
+description: >-
+  Ventajas, límites y consideraciones reales de Cabinet Report para
+  evaluar su adopción en talleres y fábricas de muebles.
+layout:
+  width: wide
+---
 
-<figure><img src=".gitbook/assets/image (28).png" alt="" width="188"><figcaption></figcaption></figure>
+# Pros y contras de Cabinet Report
 
-## Pros y Contras de Cabinet Report
+**CABINET REPORT · EVALUACIÓN EQUILIBRADA**
 
-Como toda herramienta especializada en constante evolución, **Cabinet Report** presenta tanto **retos (Contras)** como **fortalezas (Pros)**.\
-En esta sección se muestran de forma transparente, permitiéndole evaluar su viabilidad y entender **por qué cada contra tiene una ventaja asociada**.
+Cabinet Report está orientado a la **planificación, revisión y preparación de la producción de muebles**. Como toda herramienta especializada, aporta beneficios, pero también exige información correcta, capacitación y supervisión técnica.
 
-### ❌ Contra: Curva de aprendizaje inicial
+<figure><img src=".gitbook/assets/image (28).png" alt="Ilustración original de pros y contras de Cabinet Report" width="188"><figcaption><p>Conoce tanto sus fortalezas como sus límites.</p></figcaption></figure>
 
-Cabinet Report no es un software genérico. Al estar diseñado específicamente para la planificación y producción de muebles, puede requerir un tiempo inicial de adaptación para nuevos usuarios.
+## 1. Aprendizaje y adaptación
 
-#### ✅ Pro
+{% columns %}
+{% column width="50%" %}
+### ⚠️ Reto: curva de aprendizaje
 
-Una vez superada la curva de aprendizaje, el usuario obtiene **control total del proceso**, reduce errores humanos y logra una **planificación mucho más rápida y precisa** que con métodos manuales o genéricos.
+Los usuarios necesitan familiarizarse con módulos, materiales, variables, reportes y operaciones de producción. La adopción puede requerir práctica y capacitación.
+{% endcolumn %}
+{% column width="50%" %}
+### ✅ Ventaja: proceso estructurado
 
-***
+Una vez comprendido el flujo, el sistema facilita organizar datos y reutilizar información. El resultado depende de la calidad de los registros y del uso correcto de las herramientas.
+{% endcolumn %}
+{% endcolumns %}
 
-### ❌ Contra: Resistencia al cambio en el personal operativo
+## 2. Resistencia al cambio en planta
 
-La implementación de Cabinet Report puede generar **resistencia inicial** en usuarios y trabajadores de planta, especialmente cuando se busca reemplazar **procesos obsoletos**, formatos manuales o documentos tradicionales que han sido utilizados durante años.\
-Este cambio puede provocar molestias, rechazo temporal o desconfianza hacia el nuevo sistema.
+{% columns %}
+{% column width="50%" %}
+### ⚠️ Reto: modificar hábitos de trabajo
 
-#### ✅ Pro
+Cambiar formatos manuales o procedimientos tradicionales puede provocar molestias y resistencia inicial entre planificadores, operarios y supervisores.
+{% endcolumn %}
+{% column width="50%" %}
+### ✅ Ventaja: información más consistente
 
-Una vez superada esta resistencia inicial, el equipo reconoce rápidamente los beneficios del sistema:\
-mayor claridad en la información, menos errores, reducción de reprocesos y una comunicación más fluida entre planificación y producción.\
-Con el uso continuo, Cabinet Report se convierte en una **herramienta de apoyo** y no en una carga, facilitando la adopción del cambio y mejorando el ambiente operativo.
+Un procedimiento compartido puede facilitar la comunicación entre oficina y taller, siempre que se capacite al personal y se revise la documentación que recibirá cada operador.
+{% endcolumn %}
+{% endcolumns %}
 
-***
+## 3. Calidad de la información
 
-### ❌ Contra: Requiere organización previa de la información
+{% columns %}
+{% column width="50%" %}
+### ⚠️ Reto: datos de entrada incorrectos
 
-Para aprovechar al máximo el sistema, es necesario ingresar correctamente medidas, materiales, espesores y configuraciones de producción.
+Medidas, espesores, vetas, materiales, cantidades o fórmulas incorrectas pueden generar resultados igualmente incorrectos, aunque el programa procese el archivo sin errores.
+{% endcolumn %}
+{% column width="50%" %}
+### ✅ Ventaja: controles y trazabilidad
 
-#### ✅ Pro
+El [Reporte de producción](funcionalidades-de-cabinet-report/reporte-de-produccion.md) y sus mecanismos de revisión ayudan a organizar y comprobar determinados datos antes de fabricar.
+{% endcolumn %}
+{% endcolumns %}
 
-Esta organización inicial se traduce en **reportes confiables**, **optimizaciones reales** y una base de datos estructurada que puede reutilizarse en futuros proyectos, ahorrando tiempo a largo plazo.
+## 4. Errores humanos y revisión asistida por IA
 
-***
+{% columns %}
+{% column width="50%" %}
+### ⚠️ Reto: detección no exhaustiva
 
-### ❌ Contra: No genera planos técnicos
+Ni las validaciones programadas ni la IA pueden identificar **todos los errores humanos o técnicos**. Puede haber inconsistencias no contempladas por las reglas actuales o por el contexto entregado.
+{% endcolumn %}
+{% column width="50%" %}
+### ✅ Ventaja: mejoras progresivas
 
-Cabinet Report no está orientado al diseño 3D ni a la creación de planos técnicos de fabricación.
+La retroalimentación de usuarios permite ampliar controles y aclarar hallazgos. La [revisión IA](funcionalidades-de-cabinet-report/revisor-inteligencia-artificial.md) aporta observaciones para que **el usuario decida**, sin sustituir su criterio.
+{% endcolumn %}
+{% endcolumns %}
 
-#### ✅ Pro
+{% hint style="warning" %}
+**La validación final corresponde al responsable de producción.** Un reporte generado, una optimización concluida o una revisión IA sin hallazgos no garantizan que las piezas estén listas para fabricar.
+{% endhint %}
 
-El software se enfoca en lo que **realmente impacta la producción**: listas de corte, optimización de tableros, control de materiales, cantos, herrajes y seguimiento de producción, complementando perfectamente a softwares de diseño.
+## 5. Alcance especializado
 
-***
+{% columns %}
+{% column width="50%" %}
+### ⚠️ Reto: no sustituye el diseño técnico
 
-### ❌ Contra: Dependencia del criterio del usuario
+Cabinet Report no es un modelador 3D ni un reemplazo general de herramientas de diseño, cálculo estructural o planos de fabricación.
+{% endcolumn %}
+{% column width="50%" %}
+### ✅ Ventaja: enfoque en producción
 
-El sistema no toma decisiones de diseño por el usuario; requiere que este defina criterios como vetas, espesores, giros permitidos y configuraciones de corte.
+Dispone de herramientas específicas para módulos, piezas, tableros, perfiles, cantos, herrajes, [compras](funcionalidades-de-cabinet-report/reporte-de-compras.md) y [optimizaciones](funcionalidades-de-cabinet-report/optimizadores.md).
+{% endcolumn %}
+{% endcolumns %}
 
-#### ✅ Pro
+## 6. Conectividad y operación
 
-Esto permite una **flexibilidad total**, adaptándose a diferentes talleres, fábricas y métodos de trabajo, respetando la experiencia del usuario y evitando imposiciones automáticas poco realistas.
+{% columns %}
+{% column width="50%" %}
+### ⚠️ Reto: algunas funciones requieren conexión
 
-***
+La disponibilidad de catálogos, licencias, precios, revisiones IA y sincronización puede depender de internet, credenciales y permisos. El trabajo offline no cubre necesariamente todas las operaciones.
+{% endcolumn %}
+{% column width="50%" %}
+### ✅ Ventaja: continuidad en flujos compatibles
 
-### ❌ Contra: Limitación en la detección total de errores humanos
+El software contempla mecanismos locales y de sincronización en determinadas operaciones. Es importante comprobar cuáles están habilitados en la versión y licencia instalada.
+{% endcolumn %}
+{% endcolumns %}
 
-Cabinet Report no puede detectar **todos los errores humanos**, especialmente aquellos que aún no han sido identificados o programados dentro del sistema.\
-Existen decisiones técnicas, interpretaciones del usuario o situaciones específicas de producción que pueden generar errores que la herramienta **no es capaz de filtrar automáticamente**.
+## 7. Evolución del software y disciplina operativa
 
-#### ✅ Pro
+La aplicación recibe mejoras y correctivos, lo que puede requerir actualizar procedimientos y capacitar nuevamente al equipo. A cambio, su evolución permite atender nuevas necesidades reales, **sin prometer resultados productivos o ahorros garantizados**.
 
-Gracias al uso continuo y a la **retroalimentación directa de los usuarios**, se han implementado progresivamente **algoritmos de detección**, validaciones y alertas que permiten reducir cada vez más los errores técnicos humanos.\
-Este enfoque evolutivo hace que el sistema **aprenda del uso real en planta**, fortaleciendo sus controles con cada versión y disminuyendo de forma constante la probabilidad de errores repetitivos.
+Los beneficios dependen del material disponible, los procesos de taller, la calidad de los datos, la supervisión y la adopción efectiva por parte del personal.
 
-***
+## Conclusión
 
-### ❌ Contra: Requiere disciplina operativa
+Cabinet Report puede ayudar a **ordenar el flujo de información y reducir tareas repetitivas**, pero no elimina el riesgo de errores ni sustituye la experiencia de quien diseña, fabrica e instala.
 
-Para obtener métricas y estadísticas reales, los usuarios deben utilizar el sistema de forma constante y correcta.
+<figure><img src=".gitbook/assets/image (31).png" alt="Ilustración de cierre de pros y contras de Cabinet Report"><figcaption><p>La tecnología acompaña el criterio técnico del equipo.</p></figcaption></figure>
 
-#### ✅ Pro
+## Más información
 
-El uso disciplinado permite generar **históricos de producción**, **indicadores reales de productividad** y estadísticas que ayudan a tomar decisiones estratégicas basadas en datos reales.
-
-***
-
-### ❌ Contra: Evolución constante del sistema
-
-Al estar en desarrollo continuo, algunas funcionalidades pueden cambiar, mejorar o ampliarse con el tiempo.
-
-#### ✅ Pro
-
-Esto garantiza que Cabinet Report **no se queda obsoleto**, evoluciona junto a las necesidades reales de los usuarios y recibe mejoras constantes basadas en experiencias reales de producción.
-
-***
-
-### ❌ Contra: No es un software genérico
-
-Cabinet Report está pensado exclusivamente para el sector de fabricación de muebles y materiales asociados.
-
-#### ✅ Pro
-
-Precisamente por eso ofrece **herramientas específicas**, lenguaje técnico del rubro y soluciones reales que los softwares genéricos no contemplan.
-
-***
-
-### ❌ Contra: Requiere compromiso para sacarle el máximo provecho
-
-No es una herramienta “instalar y olvidar”; su verdadero valor se obtiene con uso continuo y correcta implementación.
-
-#### ✅ Pro
-
-Ese compromiso se traduce en **reducción de desperdicio**, **mejor control de producción**, **optimización de recursos** y **crecimiento sostenido del negocio**.
-
-***
-
-#### 📌 Conclusión
-
-Los **Contras de Cabinet Report no son limitaciones**, sino el reflejo de una herramienta profesional que exige orden, criterio y compromiso, ofreciendo a cambio **control, eficiencia y escalabilidad**.
-
-<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+[Funcionalidades](funcionalidades-de-cabinet-report/README.md) · [Manual de usuario](manual-de-usuario.md) · [Planes de suscripción](planes-de-suscripcion/README.md)
 
 ---
 

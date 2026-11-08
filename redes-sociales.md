@@ -1,59 +1,77 @@
-# Redes Sociales
+---
+description: >-
+  Canales de comunicación oficiales de Cabinet Report: YouTube, WhatsApp,
+  Instagram y perfil profesional del desarrollador en LinkedIn.
+layout:
+  width: wide
+---
 
-### 🌐 Redes Sociales de **Cabinet Report**
+# Redes sociales de Cabinet Report
 
-En **Cabinet Report** creemos que un software sólido debe ir acompañado de **comunicación constante, soporte cercano y contenido útil** para quienes forman parte del sector del mueble y la planificación de producción.
+**CABINET REPORT · COMUNIDAD, NOVEDADES Y APRENDIZAJE**
 
-Por ello, hemos creado distintos **canales oficiales** donde compartimos:
+Encuentra contenido sobre planificación y fabricación de muebles, actualizaciones del software, demostraciones y consejos técnicos. Cada canal tiene un propósito diferente.
 
-* Actualizaciones del sistema y nuevas funcionalidades
-* Consejos prácticos para mejorar procesos de planificación y producción
-* Casos reales, demostraciones y buenas prácticas
-* Avisos importantes, mejoras continuas y retroalimentación directa con los usuarios
-
-Cada red social cumple un propósito específico, permitiéndole acceder al contenido que más valor le aporta según su rol y necesidades.
-
-#### 📌 Canales disponibles
+## Canales disponibles
 
 {% columns %}
-{% column width="75%" %}
-## Contenido educativo, Poscast, demostraciones y guías paso a paso
+{% column width="50%" %}
+### <img src=".gitbook/assets/IcoYoutube.png" alt="Icono de YouTube" width="40"> YouTube
+
+**Demostraciones, tutoriales y contenido educativo.**
+
+Videos para conocer el entorno de Cabinet Report, comprender procesos y aprender técnicas relacionadas con la fabricación de muebles.
+
+[**Visitar YouTube ↗**](https://www.youtube.com/@CabinetReport)
 {% endcolumn %}
+{% column width="50%" %}
+### <img src=".gitbook/assets/IcoWhatsapp.png" alt="Icono de WhatsApp" width="40"> Canal de WhatsApp
 
-{% column width="25%" %}
-<div data-with-frame="true"><figure><img src=".gitbook/assets/IcoYoutube.png" alt="" width="100"><figcaption><p><a href="https://www.youtube.com/channel/UCxhKbodaL1FSvT5XtJ4cfkg">Youtube</a></p></figcaption></figure></div>
-{% endcolumn %}
-{% endcolumns %}
+**Anuncios, nuevas versiones y avisos.**
 
-***
+Consulta novedades, imágenes de publicaciones y enlaces de información compartidos mediante el canal.
 
-{% columns fullWidth="false" %}
-{% column width="25%" %}
-<div data-with-frame="true"><figure><img src=".gitbook/assets/IcoWhatsapp.png" alt=""><figcaption><p><a href="https://www.whatsapp.com/channel/0029VbBCP1Z3gvWW4PTFQg1a">Whatsapp</a></p></figcaption></figure></div>
-{% endcolumn %}
-
-{% column width="75%" %}
-## Avisos rápidos, novedades y comunicación directa, También se publican los enlaces de descarga de cada actualización...
-{% endcolumn %}
-{% endcolumns %}
-
-***
-
-{% columns fullWidth="false" %}
-{% column width="75%" %}
-## Información institucional,&#x20;
-
-## Evolución del proyecto y enfoque profesional
-{% endcolumn %}
-
-{% column width="25%" %}
-<div data-with-frame="true"><figure><img src=".gitbook/assets/IcoLinkedIn.png" alt=""><figcaption><p><a href="https://www.linkedin.com/in/daniel-mel%C3%A9ndez-07ba0b29/">LinkedIn</a></p></figcaption></figure></div>
+[**Seguir el canal de WhatsApp ↗**](https://www.whatsapp.com/channel/0029VbBCP1Z3gvWW4PTFQg1a)
 {% endcolumn %}
 {% endcolumns %}
 
-***
+{% columns %}
+{% column width="50%" %}
+### 📸 Instagram
 
-👉 Seleccione la red social de su interés para conocer su enfoque y contenido.
+**Publicaciones visuales, novedades y videos cortos.**
+
+Sigue las publicaciones de Cabinet Report sobre herramientas, mejoras y contenido audiovisual para el sector del mueble.
+
+**Enlace del perfil pendiente de confirmar.** No se publica una dirección no verificada.
+{% endcolumn %}
+{% column width="50%" %}
+### <img src=".gitbook/assets/IcoLinkedIn.png" alt="Icono de LinkedIn" width="40"> LinkedIn
+
+**Trayectoria del desarrollador y enfoque profesional.**
+
+Accede al perfil profesional vinculado al desarrollo de Cabinet Report. Se trata del **perfil del desarrollador**, no de una página corporativa independiente.
+
+[**Visitar el perfil en LinkedIn ↗**](https://www.linkedin.com/in/daniel-mel%C3%A9ndez-07ba0b29/)
+{% endcolumn %}
+{% endcolumns %}
+
+## ¿Qué canal consultar?
+
+| Necesidad | Canal recomendado |
+| --- | --- |
+| Aprender con demostraciones y tutoriales | [YouTube](https://www.youtube.com/@CabinetReport) |
+| Recibir avisos de actualizaciones | [Canal de WhatsApp](https://www.whatsapp.com/channel/0029VbBCP1Z3gvWW4PTFQg1a) |
+| Ver publicaciones y clips de la comunidad | Instagram (enlace pendiente de confirmar) |
+| Conocer el perfil profesional del desarrollador | [LinkedIn](https://www.linkedin.com/in/daniel-mel%C3%A9ndez-07ba0b29/) |
+
+{% hint style="info" %}
+**Canal de novedades no equivale a mesa de soporte.** Para consultas técnicas, revisa las [Políticas de Soporte](politicas-de-soporte.md) y utiliza el canal de atención indicado para tu licencia. Comprueba siempre las fuentes oficiales antes de instalar actualizaciones o compartir datos de producción.
+{% endhint %}
+
+## Sigue aprendiendo
+
+[Manual de usuario](manual-de-usuario.md) · [Evolución del software](evolucion-de-cabinet-report.md) · [Cabinet Report Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/)
 
 ---
 

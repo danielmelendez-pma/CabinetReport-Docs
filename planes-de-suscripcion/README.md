@@ -124,6 +124,12 @@ Consulta usuarios permitidos, reportes, modificaciones, catálogos y demás cara
 {% endcolumn %}
 {% endcolumns %}
 
+## Condiciones y documentos relacionados
+
+Antes de contratar, revisa la [tabla comparativa](tabla-comparativa.md), el [Acuerdo de Licenciamiento](../acuerdo-de-licenciamiento-de-software.md), los [Términos y Condiciones de Uso](../terminos-y-condiciones-de-uso.md), las [Políticas de Soporte](../politicas-de-soporte.md) y la [Política de Capacitación e Implementación](../politica-de-capacitacion-e-implementacion.md).
+
+Las funciones, límites, condiciones de soporte y servicios adicionales dependen del plan y de los acuerdos aplicables. Esta portada no modifica el contenido contractual.
+
 ## Comparte la página con tus clientes
 
 Para campañas de WhatsApp, Instagram y otras redes sociales, utiliza el siguiente enlace: ofrece una cuadrícula de seis planes y abre cada ficha en una ventana emergente.
