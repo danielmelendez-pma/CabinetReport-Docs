@@ -1,210 +1,102 @@
-# Costos (En desarrollo)
+---
+description: >-
+  Costos y cotizaciones: importación de reportes, materiales, márgenes,
+  impuestos, resúmenes por ambiente y documentos exportables.
+layout:
+  width: wide
+---
 
-## 💰 Costos de Producción y Cotizaciones
+# Costos y cotizaciones
 
-### De la producción real al precio que le cobras a tu cliente
+**CABINET REPORT · DEL MATERIAL AL PRESUPUESTO**
 
-El módulo de **Costos de Cabinet Report** está diseñado para **aprovechar directamente la información que ya genera el sistema durante la producción**.
+## De la información productiva a un precio revisable
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+La ventana **Costos** está implementada en Cabinet Report: reúne partidas de materiales, cantidades, precios, márgenes y condiciones para calcular importes y preparar cotizaciones. Su funcionamiento se apoya en archivos y catálogos disponibles; no debe considerarse una estimación automática infalible.
 
-👉 No es un módulo aislado\
-👉 No es un Excel adicional\
-👉 Es la **continuación natural del proceso productivo**
+<figure><img src="../.gitbook/assets/image (1).png" alt="Vista original del módulo Costos"><figcaption><p>Los costos se organizan por proyecto y ambiente.</p></figcaption></figure>
 
-Lo que Cabinet Report calcula para fabricar, este módulo lo convierte en **costos reales y cotizaciones claras**.
+{% hint style="info" %}
+**Estado:** operaciones de carga, cálculo, guardado y exportación identificadas en el código. La disponibilidad de cada opción depende de la versión y los permisos; las pruebas funcionales en Windows siguen siendo necesarias.
+{% endhint %}
 
-***
+## 1. Qué puedes preparar
 
-### 🧾 Un proyecto real, con ambientes reales
+| Sección | Uso |
+| --- | --- |
+| **Materia prima (MA)** | Partidas con descripción, cantidad, unidad, costo unitario y total. |
+| **Margen de producción (MP)** | Porcentajes o importes vinculados a fabricación y transformación. |
+| **Margen operativo (MO)** | Gastos y márgenes propios de la operación comercial. |
+| **Precio de venta** | Subtotal, ITBMS y total de venta calculados. |
+| **Ambientes** | Organización y resumen de diferentes espacios del proyecto. |
+| **Notas y condiciones** | Descripciones, exclusiones, observaciones y condiciones de pago para revisión. |
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="Resumen de subtotales e importes en Costos"><figcaption><p>Los totales dependen de la información cargada y de la configuración aplicable.</p></figcaption></figure>
 
-Cada proyecto se trabaja tal como sucede en la realidad:
+## 2. Cargar datos
 
-* Un cliente
-* Uno o varios ambientes (cocina, oficina, etc.)
-* Cada ambiente con su propia información de producción
+1. Identifica el proyecto y el ambiente que deseas costear.
+2. En el menú, utiliza **Cargar reporte de compras** para importar uno o varios Excel compatibles.
+3. Si ya trabajaste el presupuesto, usa **Cargar costos** para recuperar archivos XML.
+4. Revisa cada partida importada: cantidad, unidad, descripción y precio.
+5. Ajusta los márgenes y las notas antes de calcular la oferta.
+6. Revisa los totales y conserva el respaldo correspondiente.
 
-📌 Esto permite:
+Existe además una ruta de procesamiento de **PDF de Promob**, cuya compatibilidad debe verificarse según la estructura del archivo de origen.
 
-* Costear por ambiente
-* Cotizar por fases
-* Mantener control incluso en proyectos grandes
+<figure><img src="../.gitbook/assets/image (2).png" alt="Detalle de materia prima del presupuesto"><figcaption><p>La materia prima puede alimentarse desde el reporte de compras y ajustarse con control del usuario.</p></figcaption></figure>
 
-***
+## 3. Precios de los materiales
 
-### 🪵 Materia Prima basada en producción real
+El código contiene lectura de precios desde catálogos de tableros y herrajes, diferenciando registros públicos y privados, así como mecanismos para actualizar referencias privadas y clonar materiales permitidos al catálogo del cliente.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% hint style="warning" %}
+**Un precio almacenado no demuestra vigencia.** Antes de enviar la cotización, comprueba proveedor, formato, espesor, moneda, unidad e impuestos. Una partida sin precio confiable debe revisarse expresamente.
+{% endhint %}
 
-La pestaña **(MA) – Materia Prima** muestra exactamente:
+No confundas el **precio de venta comercial** de esta ventana con la **economía de errores del Revisor IA**. Esta última registra estimaciones de impacto técnico y referencias económicas con una finalidad diferente.
 
-* Los materiales que se usaron
-* Las cantidades reales
-* Las unidades reales
-* El costo unitario y total
-
-👉 Estos datos **provienen de los reportes de producción y compras** generados por Cabinet Report.
-
-📌 No hay duplicación de trabajo\
-📌 No hay recálculo manual\
-📌 No hay suposiciones
-
-***
-
-### 📊 Totales claros desde el primer momento
+## 4. Márgenes de producción y operación
 
 {% columns %}
-{% column %}
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+{% column width="50%" %}
+### Fabricación
+
+<figure><img src="../.gitbook/assets/image (7).png" alt="Margen de producción"><figcaption><p>Importes relacionados con los procesos de fabricación.</p></figcaption></figure>
+
+Revisa los conceptos propios del corte, canteo, mecanizado, armado, inspección o instalación que apliquen al trabajo.
 {% endcolumn %}
 
-{% column %}
-A la izquierda, el sistema resume automáticamente:
+{% column width="50%" %}
+### Operación
 
-* Subtotal
-* ITBMS
-* Total
+<figure><img src="../.gitbook/assets/image (8).png" alt="Margen operativo"><figcaption><p>Gastos y objetivos de rentabilidad del negocio.</p></figcaption></figure>
 
-Esto le permite al cliente:
-
-* Entender rápidamente el impacto económico
-* Ver cómo cada ambiente afecta el total del proyecto
-
-👉 Todo se recalcula en tiempo real.
-
-Puede ver un resumen del total de cada parte del costo del producto y poder evaluar dónde hacer los ajustes para presentar la mejor oferta a su cliente
+El sistema contempla guardar y recuperar márgenes, para que el usuario pueda reutilizar su configuración y modificarla cuando cambien las condiciones.
 {% endcolumn %}
 {% endcolumns %}
 
-***
+El cálculo de **precio de venta** suma los subtotales pertinentes y aplica el parámetro de ITBMS de la aplicación. La tasa y su aplicabilidad deben revisarse para cada operación.
 
-### 🏭 Margen de Producción: el costo de fabricar
+## 5. Comparar ambientes
 
-En la pestaña **(MP) – Margen de Producción**, el cliente define **cuánto cuesta transformar el material en mueble**.
+<figure><img src="../.gitbook/assets/image (10).png" alt="Resumen de ambientes"><figcaption><p>El resumen agrupa los importes del proyecto por ambiente.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+Los ambientes permiten revisar diferencias de materiales, márgenes y precios. Comprueba que no se dupliquen partidas comunes cuando consolides varios espacios.
 
-Incluye procesos reales como:
+## 6. Guardar y exportar cotizaciones
 
-* Corte
-* Canteo
-* Barrenado
-* Armado
-* Instalación
-* Inspección
+Desde el menú se implementan **Exportar costos**, exportación a **Excel (.xlsx)** y creación de cotizaciones en dos presentaciones: **Word (.docx) tipo carta** y **Excel (.xlsx) tipo tabla**. Para ambas cotizaciones, el programa exige que primero exista un **Excel de costos exportado y disponible**.
 
-📌 Puede trabajar con:
+<figure><img src="../.gitbook/assets/image (12).png" alt="Notas y condiciones comerciales"><figcaption><p>Las notas, exclusiones y condiciones deben revisarse antes de compartir una oferta.</p></figcaption></figure>
 
-* Un margen general
-* O márgenes desglosados por proceso
+{% hint style="warning" %}
+**Antes de entregar:** revisa el Excel fuente, los importes, el ITBMS, las cantidades, los términos comerciales y el documento exportado. La exportación no certifica el precio final ni la aceptación de la oferta.
+{% endhint %}
 
-El sistema se encarga de mantener la coherencia automáticamente.
+## Sigue el proceso
 
-Te permite agregar tus propios margenes y recordarlos para las siguientes cotizaciones.
-
-***
-
-### 💼 Margen Operativo: todo lo que rodea al negocio
-
-La pestaña **(MO) – Margen Operativo** permite reflejar la realidad del negocio:
-
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
-* Oficina
-* Transporte
-* Errores
-* Utilidad
-* Margen adicional
-
-👉 Aquí es donde el cliente define **cuánto quiere ganar realmente**, basándose en costos reales.
-
-***
-
-### 🧮 Precio de venta calculado automáticamente
-
-Una vez definidos:
-
-* Materia prima
-* Producción
-* Operación
-
-El sistema calcula automáticamente:
-
-* Subtotal
-* ITBMS
-* Precio de venta final
-
-📌 Este valor es la **base directa para cotizar al cliente final**.
-
-***
-
-### 🧾 Resumen por ambientes (ideal para cotizaciones)
-
-El **Resumen de Ambientes** permite:
-
-* Ver cuánto cuesta cada ambiente
-* Presentar cotizaciones claras
-* Explicar el precio sin discusiones
-
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
-👉 Especialmente útil cuando el cliente pregunta:
-
-> “¿Por qué la cocina cuesta más que la oficina?”
-
-***
-
-### 📝 Descripción y respaldo del proyecto
-
-Cada proyecto puede incluir:
-
-* Descripciones
-* Aclaraciones
-* Condiciones especiales
-* Notas internas o para el cliente
-
-📌 Esto convierte la cotización en un documento **respaldado y profesional**.
-
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-***
-
-### ⚙️ Opciones pensadas para el día a día
-
-Desde el menú de opciones, el cliente puede:
-
-* Cargar reportes de compras
-* Cargar archivos de costos
-* Ajustar márgenes
-* Exportar costos
-* Limpiar información sin afectar producción
-
-👉 Siempre con control del usuario, sin cambios automáticos ocultos.
-
-***
-
-### 🚀 ¿Qué gana el cliente con este módulo?
-
-✔️ Aprovecha los archivos que ya genera Cabinet Report\
-✔️ Convierte producción en costos reales\
-✔️ Convierte costos en cotizaciones\
-✔️ Reduce errores y reprocesos\
-✔️ Cotiza con respaldo técnico y financiero\
-✔️ Gana confianza frente a sus clientes
-
-### 🧠 Práctico
-
-> _Cabinet Report conecta la producción con el precio final, sin repetir trabajo ni inventar números._
-
-***
-
-### ✍️ Simple
-
-> **Produces → Calculas → Cotizas**\
-> Todo con la misma información real.
-
+[Reporte de compras](reporte-de-compras.md) · [Stock de tableros](stock-de-tableros.md) · [Reporte de producción](reporte-de-produccion.md) · [Auditoría RP y economía de errores](auditoria-rp-persistencia.md)
 ---
 
 [← Volver al inicio de Cabinet Report](../README.md)
