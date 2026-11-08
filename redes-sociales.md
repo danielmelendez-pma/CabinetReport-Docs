@@ -8,6 +8,8 @@ layout:
 
 # Redes sociales de Cabinet Report
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · COMUNIDAD, NOVEDADES Y APRENDIZAJE**
 
 Encuentra contenido sobre planificación y fabricación de muebles, actualizaciones del software, demostraciones y consejos técnicos. Cada canal tiene un propósito diferente.

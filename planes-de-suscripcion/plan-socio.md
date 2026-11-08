@@ -50,3 +50,5 @@ Es la opción ideal para quienes desean ir **más allá de una simple suscripci�
 ---
 
 [← Volver al inicio de Cabinet Report](../README.md)
+
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

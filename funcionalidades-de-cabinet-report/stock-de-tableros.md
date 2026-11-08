@@ -8,6 +8,8 @@ layout:
 
 # Stock de tableros
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · CATÁLOGO TÉCNICO DE MATERIALES**
 
 ## Identifica los tableros de tu proyecto

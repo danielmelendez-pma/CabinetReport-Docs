@@ -8,6 +8,8 @@ layout:
 
 # Reporte de Producción
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · PLANIFICACIÓN Y PREPARACIÓN DE FABRICACIÓN**
 
 ## Del despiece al documento que recibe la planta

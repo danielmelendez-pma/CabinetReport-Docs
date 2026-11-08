@@ -8,6 +8,8 @@ layout:
 
 # Cabinet Report
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 {% columns %}
 {% column width="66.66666666666667%" %}
 **DOCUMENTACIÓN OFICIAL · CABINET REPORT**

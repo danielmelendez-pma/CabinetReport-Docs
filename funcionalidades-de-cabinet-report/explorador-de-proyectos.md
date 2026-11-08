@@ -6,6 +6,8 @@ description: >-
 
 # Explorador de proyectos
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · CONSULTA Y ORGANIZACIÓN**
 
 ## Encuentra información de tus trabajos

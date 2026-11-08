@@ -6,6 +6,8 @@ description: >-
 
 # Diccionario de piezas
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · NOMENCLATURA TÉCNICA**
 
 ## Una terminología consistente para las piezas

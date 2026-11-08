@@ -1,5 +1,7 @@
 # Acuerdo de Licenciamiento de Software
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 El presente Acuerdo regula el uso del software Cabinet Report conforme al plan de suscripción contratado.
 
 ### 1. Naturaleza de la licencia

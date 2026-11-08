@@ -6,6 +6,8 @@ description: >-
 
 # Proveedor de tableros, corte y canteo
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · SERVICIOS PARA FABRICANTES**
 
 <figure><img src="../.gitbook/assets/image (26).png" alt="Ilustración del suministro y corte de tableros" width="188"><figcaption><p>Preparación de pedidos de corte y canteo para terceros.</p></figcaption></figure>

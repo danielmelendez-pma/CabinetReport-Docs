@@ -8,6 +8,8 @@ layout:
 
 # Optimizadores
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · APROVECHAMIENTO DE MATERIALES Y PREPARACIÓN DEL CORTE**
 
 ## Optimiza de acuerdo con el material

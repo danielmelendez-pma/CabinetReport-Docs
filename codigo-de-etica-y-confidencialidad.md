@@ -1,5 +1,7 @@
 # Código de Ética y Confidencialidad
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 Cabinet Report se desarrolla y se distribuye bajo un **compromiso firme de ética profesional, confidencialidad y neutralidad comercial**, orientado a proteger los intereses de cada uno de sus usuarios, independientemente de su tamaño, ubicación o relación con otros actores del sector.
 
 ### 1. Independencia del software

@@ -8,6 +8,8 @@ layout:
 
 # Manual de usuario
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · APRENDE A UTILIZAR EL SOFTWARE**
 
 ## Comienza con lo esencial

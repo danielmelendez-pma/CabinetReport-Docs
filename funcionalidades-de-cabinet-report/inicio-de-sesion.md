@@ -6,6 +6,8 @@ description: >-
 
 # Inicio de sesión
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · ACCESO AL ENTORNO DE TRABAJO**
 
 ## El punto de entrada a tus proyectos

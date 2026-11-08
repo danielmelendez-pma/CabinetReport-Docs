@@ -6,6 +6,8 @@ description: >-
 
 # Creador de piezas
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · ELEMENTOS DEL DESPIECE**
 
 ## Cada pieza comienza con una definición

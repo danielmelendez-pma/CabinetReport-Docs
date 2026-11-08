@@ -8,6 +8,8 @@ layout:
 
 # Generador de QR
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · IDENTIFICACIÓN DE PIEZAS**
 
 ## Lleva la identificación al despiece

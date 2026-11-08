@@ -8,6 +8,8 @@ layout:
 
 # Reporte de compras
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · RELACIÓN DE MATERIALES PARA ABASTECIMIENTO**
 
 ## Reúne lo necesario para comprar

@@ -8,6 +8,8 @@ layout:
 
 # Ventana Acerca de
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · IDENTIDAD, ACTUALIZACIONES Y CANALES**
 
 ## Información de tu instalación

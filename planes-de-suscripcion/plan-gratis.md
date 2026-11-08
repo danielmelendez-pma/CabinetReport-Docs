@@ -21,3 +21,5 @@ Este plan es ideal como punto de inicio para familiarizarse con el sistema y, un
 ---
 
 [← Volver al inicio de Cabinet Report](../README.md)
+
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

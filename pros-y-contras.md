@@ -8,6 +8,8 @@ layout:
 
 # Pros y contras de Cabinet Report
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · EVALUACIÓN EQUILIBRADA**
 
 Cabinet Report está orientado a la **planificación, revisión y preparación de la producción de muebles**. Como toda herramienta especializada, aporta beneficios, pero también exige información correcta, capacitación y supervisión técnica.

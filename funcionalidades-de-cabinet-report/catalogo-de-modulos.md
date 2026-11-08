@@ -8,6 +8,8 @@ layout:
 
 # Catálogo de módulos
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · SELECCIÓN Y CONFIGURACIÓN TÉCNICA**
 
 ## Una estructura reutilizable para comenzar

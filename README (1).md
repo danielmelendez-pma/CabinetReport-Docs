@@ -13,6 +13,8 @@ layout:
 
 # ¿Qué es Cabinet Report?
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 ## Tecnología creada desde la experiencia en fabricación de muebles
 
 **Cabinet Report** es un software de escritorio orientado a la **planificación, validación y preparación de la producción de muebles**. Su propósito es ayudar a fabricantes, talleres y profesionales independientes a transformar información técnica en procesos más organizados.
