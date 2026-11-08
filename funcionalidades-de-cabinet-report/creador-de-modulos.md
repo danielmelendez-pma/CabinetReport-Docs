@@ -1,133 +1,82 @@
-# Creador de Módulos
+---
+description: >-
+  Preparación de módulos personalizados con piezas, fórmulas, parámetros
+  técnicos y organización por catálogos.
+layout:
+  width: wide
+---
 
-### 🧩 Creador de Módulos – Cabinet Report
+# Creador de módulos
 
-La sección **Creador de Módulos** permite al usuario **diseñar y estructurar sus propios módulos y catálogos**, adaptándolos completamente a su forma de trabajo, estándares de fabricación y lógica constructiva.
+**CABINET REPORT · BIBLIOTECAS A MEDIDA**
 
-A diferencia del catálogo genérico, aquí el usuario define **cómo se calcula cada pieza**, utilizando **fórmulas personalizadas**, parámetros reutilizables y configuraciones específicas por tipo de mueble.\
-Esto convierte al sistema en una herramienta **flexible, escalable y totalmente adaptable a cada taller o fábrica**.
+## Define tu propia lógica constructiva
 
-***
+El Creador de Módulos sirve para **organizar módulos personalizados** mediante estructuras de catálogo y reglas de cálculo para sus piezas. Es útil cuando un taller o fábrica utiliza soluciones que no están representadas por un módulo genérico.
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt="Captura existente del creador de módulos"><figcaption><p>Referencia del entorno de creación y configuración.</p></figcaption></figure>
 
-***
+## Elementos de una definición reutilizable
 
-### 🎯 ¿Qué permite el Creador de Módulos?
+| Elemento | Propósito |
+| --- | --- |
+| **Catálogo, categoría y subcategoría** | Clasificar y localizar el módulo. |
+| **Nombre y descripción** | Identificar su uso y características especiales. |
+| **Profundidad, ancho y alto** | Establecer medidas generales de referencia. |
+| **Piezas y fórmulas** | Describir cómo se calculan los componentes. |
+| **Variables técnicas** | Aplicar luces, separaciones, golas y espesores cuando proceda. |
+| **Imagen** | Facilitar su reconocimiento visual. |
+| **Herrajes y accesorios** | Asociar elementos adicionales cuando la versión lo permita. |
 
-* Crear **catálogos personalizados** según el flujo de trabajo del usuario.
-* Diseñar módulos con **lógica de cálculo propia**.
-* Definir **parámetros globales** reutilizables (luces, espesores, ranuras, golas, etc.).
-* Controlar cómo se genera cada pieza del módulo.
-* Asociar **imágenes, descripciones y ferretería** al módulo.
-* Construir bibliotecas completas de módulos listos para producción.
+## Procedimiento práctico
 
-***
+1. **Organiza el catálogo** con una categoría y subcategoría apropiadas.
+2. **Asigna nombre y descripción** para diferenciar esta variante.
+3. **Define profundidad, ancho y alto** de referencia.
+4. **Comprueba los parámetros** aplicables al cliente: luces, golas, ranuras, separaciones y espesores.
+5. **Selecciona piezas reutilizables** o prepáralas con el [Creador de piezas](creador-de-piezas.md).
+6. **Revisa las fórmulas** de ancho, largo y demás campos técnicos.
+7. **Añade una imagen** y documenta las particularidades constructivas.
+8. **Asocia ferretería o accesorios**, si esta opción existe y está habilitada.
+9. **Guarda y prueba el módulo** con dimensiones conocidas antes de reutilizarlo en producción.
 
-### 🧭 Procedimiento para crear un módulo
+{% hint style="info" %}
+**Ejemplo:** para una familia de muebles con separación especial entre puertas, configura la luz correspondiente y verifica que las fórmulas calculen las dimensiones esperadas en una prueba conocida.
+{% endhint %}
 
-#### 1️⃣ Crear la estructura del catálogo
+## Beneficios en el taller
 
-Defina la organización del catálogo indicando:
+{% columns %}
+{% column width="50%" %}
+### 🧩 Consistencia
 
-* **Nombre del catálogo**
-* **Categoría** (ejemplo: Cocina Base, Aéreos, Gaveteros, Torres, etc.)
-* **Subcategoría** según el tipo de módulo
+Reutiliza una definición técnica revisada en módulos similares.
 
-Esto permite clasificar los módulos de forma clara y reutilizable.
+### 📦 Organización
 
-***
+Clasifica las variantes constructivas para facilitar la selección.
+{% endcolumn %}
 
-#### 2️⃣ Definir el nombre del módulo
+{% column width="50%" %}
+### 🛠️ Adaptabilidad
 
-Asigne un nombre representativo al módulo, el cual será visible al momento de seleccionarlo desde el catálogo durante la planificación.
+Ajusta piezas y parámetros al estándar del cliente.
 
-***
+### 🔁 Mejora continua
 
-#### 3️⃣ Configurar parámetros iniciales
+Corrige la biblioteca conforme se validan nuevos casos reales.
+{% endcolumn %}
+{% endcolumns %}
 
-Ingrese las dimensiones base del módulo:
+<figure><img src="../.gitbook/assets/image (29).png" alt="Imagen existente complementaria del creador de módulos"><figcaption><p>Referencia de módulos personalizados.</p></figcaption></figure>
 
-* **Profundidad**
-* **Ancho**
-* **Alto**
+{% hint style="warning" %}
+**Comprueba cada fórmula.** Los valores efectivos pueden depender del cliente y de la versión; tampoco se garantiza que todos los parámetros o automatismos estén disponibles en cada módulo. La herramienta no reemplaza la revisión técnica del despiece.
+{% endhint %}
 
-Estos valores servirán como referencia para el cálculo automático de todas las piezas.
+## Siguiente paso
 
-***
-
-#### 4️⃣ Definir parámetros del catálogo
-
-Configure los parámetros técnicos que afectan el cálculo del módulo, tales como:
-
-* Luces entre puertas
-* Luces superiores e inferiores
-* Luces para tirador tipo **Gola**
-* Espesores especiales
-* Ranuras y separaciones
-
-Estos parámetros pueden reutilizarse en las fórmulas de las piezas.
-
-***
-
-#### 5️⃣ Crear o seleccionar piezas
-
-* Seleccione piezas desde el **listado de piezas previamente creadas**, o
-* Cree **nuevas piezas**, definiendo:
-  * Nombre de la pieza
-  * Espesor
-  * Fórmula de cálculo para ancho y largo
-  * Cantos asociados
-
-Cada pieza responde directamente a las fórmulas definidas para el módulo.
-
-***
-
-#### 6️⃣ Agregar imagen del módulo
-
-Asocie una imagen representativa del módulo:
-
-* Mejora la identificación visual
-* Facilita la selección desde el catálogo
-* Refuerza la estandarización del diseño
-
-***
-
-#### 7️⃣ Agregar descripción
-
-Incluya una descripción funcional del módulo, explicando:
-
-* Uso previsto
-* Características especiales
-* Restricciones o consideraciones de fabricación
-
-***
-
-#### 8️⃣ Asociar ferretería
-
-Vincule al módulo:
-
-* **Ferretería de montaje**
-* **Ferretería de instalación**
-* **Accesorios**
-
-Esto permite que el módulo genere automáticamente su listado de herrajes junto con las piezas.
-
-***
-
-### ♻️ Flexibilidad total del sistema
-
-* Puede crear **tantos módulos como necesite**.
-* Puede crear **múltiples catálogos**, cada uno con su propia cantidad de módulos.
-* Cada catálogo puede responder a un **estándar distinto de fabricación**, cliente o línea de producto.
-
-***
-
-### ✅ Beneficio clave
-
-El Creador de Módulos transforma Cabinet Report en una herramienta **hecha a la medida de su taller**, permitiéndole estandarizar procesos sin perder flexibilidad, reducir errores humanos y acelerar la creación de proyectos complejos con total control técnico.
-
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+[Creador de piezas](creador-de-piezas.md) · [Catálogo de módulos](catalogo-de-modulos.md) · [Reporte de producción](reporte-de-produccion.md) · [Índice de funcionalidades](README.md)
 
 ---
 

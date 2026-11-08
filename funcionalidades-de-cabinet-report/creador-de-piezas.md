@@ -1,36 +1,74 @@
-# Creador de Piezas
+---
+description: >-
+  Definición técnica de piezas reutilizables, considerando medidas, fórmulas,
+  materiales, espesores y cantos.
+---
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+# Creador de piezas
 
-***
+**CABINET REPORT · ELEMENTOS DEL DESPIECE**
 
-#### ¿Qué puede hacer en el Creador de Piezas?
+## Cada pieza comienza con una definición
 
-En esta sección, el usuario tiene control total sobre la lógica constructiva de cada mueble. El **Creador de Piezas** permite definir cómo se comporta cada pieza dentro del sistema, garantizando coherencia entre el diseño, la producción y los reportes.
+El Creador de Piezas permite **preparar componentes de mobiliario** para utilizarlos en módulos y en la información de producción. La utilidad principal consiste en establecer criterios de cálculo revisables y reutilizables.
 
-Entre sus principales capacidades se encuentran:
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt="Captura existente del creador de piezas"><figcaption><p>Definición de piezas y parámetros constructivos.</p></figcaption></figure>
 
-* **Creación de piezas personalizadas**\
-  Defina piezas desde cero utilizando fórmulas basadas en las variables del módulo, como ancho, alto, profundidad y espesor.
-* **Uso de piezas ya existentes**\
-  Reutilice piezas previamente creadas para mantener consistencia en la fabricación y ahorrar tiempo en nuevos proyectos.
-* **Control de cantos y acabados**\
-  Asigne cantos visibles, internos o específicos por lado, asegurando que los reportes de producción reflejen exactamente la realidad del taller.
-* **Validación estructural del mueble**\
-  Las fórmulas se recalculan automáticamente según los cambios del módulo, evitando errores comunes como medidas incorrectas o piezas fuera de proporción.
-* **Base para la optimización y los reportes**\
-  Toda pieza creada aquí es la base para:
-  * Reportes de producción
-  * Optimización de tableros
-  * Cálculo de cantos
-  * Costos y cotizaciones
+## Información que debes comprobar
 
-***
+| Dato | Verificación |
+| --- | --- |
+| **Nombre** | Denominación comprensible para planificación y producción. |
+| **Medidas y fórmulas** | Cálculo compatible con las dimensiones del módulo. |
+| **Espesor y material** | Correspondencia con el tablero previsto. |
+| **Cantos** | Identificación correcta de los bordes por lado. |
+| **Veta y orientación** | Interpretación coherente de ancho, largo y dirección del material. |
 
-> 💡 **Importante**\
-> Un Creador de Piezas bien configurado garantiza que Cabinet Report genere información confiable, minimizando errores humanos y mejorando la eficiencia en el proceso productivo.
+## Procedimiento de preparación
 
-***
+1. **Identifica la pieza** que necesitas, por ejemplo un costado o una base.
+2. **Consulta las piezas ya existentes** antes de crear una definición duplicada.
+3. **Indica nombre y características** que permita configurar tu versión.
+4. **Establece medidas o fórmulas** a partir del módulo y de sus variables técnicas.
+5. **Asigna material, espesor y cantos** conforme al estándar de fabricación.
+6. **Comprueba el resultado** con un módulo de medidas conocidas.
+7. **Guarda o incorpora la pieza** a la estructura correspondiente mediante las opciones disponibles.
+
+{% hint style="info" %}
+**Ejemplo:** un «costado» puede existir en varias familias de muebles, pero su fórmula no tiene por qué ser idéntica. Verifica alturas, profundidades y descuentos específicos antes de reutilizar la pieza.
+{% endhint %}
+
+## Beneficios dentro del proceso
+
+{% columns %}
+{% column width="50%" %}
+### 📐 Consistencia dimensional
+
+Una definición revisada ayuda a repetir criterios técnicos entre módulos semejantes.
+
+### 🧱 Claridad del despiece
+
+Nombres y parámetros comprensibles facilitan el trabajo del planificador.
+{% endcolumn %}
+
+{% column width="50%" %}
+### 🪵 Control de cantos
+
+Especificar los bordes ayuda a preparar la información para canteo.
+
+### 🔍 Revisión previa
+
+Contrasta piezas y cantidades nuevamente en el [Reporte de producción](reporte-de-produccion.md).
+{% endcolumn %}
+{% endcolumns %}
+
+{% hint style="warning" %}
+**El recálculo no reemplaza la comprobación.** Los resultados dependen de fórmulas, variables y configuraciones correctas. Crear una pieza tampoco certifica que los módulos de costos, cotizaciones u optimización estén disponibles o configurados en la versión del usuario.
+{% endhint %}
+
+## Herramientas relacionadas
+
+[Creador de módulos](creador-de-modulos.md) · [Catálogo de módulos](catalogo-de-modulos.md) · [Diccionario de piezas](diccionario-de-piezas.md) · [Índice de funcionalidades](README.md)
 
 ---
 
