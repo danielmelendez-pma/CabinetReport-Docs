@@ -22,7 +22,7 @@ Cabinet Report ayuda a reducir tareas repetitivas, detectar determinadas inconsi
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt="Logotipo oficial de Cabinet Report" width="188"><figcaption><p>Cabinet Report</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Logo Redondo CR.png" alt="Logotipo circular oficial de Cabinet Report" width="188"><figcaption><p>Cabinet Report</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
