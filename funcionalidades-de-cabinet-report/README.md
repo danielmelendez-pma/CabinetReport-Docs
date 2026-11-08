@@ -60,7 +60,7 @@ Prepara piezas individuales dentro de los procesos de trabajo.
 
 ### 📖 [Diccionario de piezas](diccionario-de-piezas.md)
 
-Página disponible; su explicación de uso todavía se está ampliando.
+Consulta equivalencias y nombres técnicos para identificar piezas de acuerdo con las definiciones disponibles.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -69,6 +69,14 @@ Página disponible; su explicación de uso todavía se está ampliando.
 ### 🏭 [Reporte de producción](reporte-de-produccion.md)
 
 Es el punto de concentración de módulos, piezas, materiales, cantos y datos técnicos previos a la fabricación. Incluye funciones de preparación, validación y generación de reportes.
+
+### 🤖 [Revisor de Inteligencia Artificial](revisor-inteligencia-artificial.md)
+
+Explica las revisiones automáticas y manuales, los hallazgos por gravedad, las decisiones y los límites del análisis asistido.
+
+### 🗂️ [Auditoría RP y persistencia](auditoria-rp-persistencia.md)
+
+Conoce cómo se vinculan las revisiones con la producción, el XML de auditoría, la recuperación y la trazabilidad económica.
 
 {% hint style="info" %}
 **Revisión asistida por inteligencia artificial:** en las versiones y configuraciones que la incorporen, sirve como apoyo para analizar posibles inconsistencias. Sus resultados requieren revisión y decisión del usuario; no garantizan la detección de todos los errores.
