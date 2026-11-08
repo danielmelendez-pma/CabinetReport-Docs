@@ -106,14 +106,14 @@ Consulta y administra el catálogo de tableros, sus fichas, precios registrados 
 
 ## 4. Costos, identificación y herrajes
 
-Estos módulos cuentan con funciones implementadas y documentación técnica; su disponibilidad concreta depende de la instalación y de los permisos:
+También puedes consultar las siguientes herramientas. Las opciones disponibles dependen de la versión instalada y de los permisos de tu licencia:
 
 - [**Costos y cotizaciones**](costos-en-desarrollo.md)
 - [**Generador de QR**](generador-de-qr-en-desarrollo.md)
 - [**Herrajes**](herrajes-en-desarrollo.md)
 
 {% hint style="warning" %}
-**Verificación antes de operar.** Que una función esté implementada en el código no garantiza su habilitación para todas las licencias, que los datos estén completos o que su flujo haya sido probado en tu equipo. Comprueba la versión, los permisos y los archivos generados.
+**Antes de utilizar una función:** comprueba que esté habilitada en tu licencia, que los datos sean correctos y que los archivos generados se adapten a tu proceso de fabricación.
 {% endhint %}
 
 ## Continúa aprendiendo

@@ -99,7 +99,7 @@ Si no aparece una revisión esperada:
 5. Conserva los mensajes y el archivo de origen para soporte o una prueba de reproducción.
 
 {% hint style="warning" %}
-**Limitación de verificación:** la existencia de rutinas de recuperación y guardado en el repositorio no demuestra por sí sola que todos los casos de Windows funcionen. Las pruebas de apertura, cierre, reintento y recuperación deben realizarse en la aplicación compilada.
+**Comprueba la recuperación en tu equipo.** Si el sistema informa que una revisión o decisión no pudo guardarse, no supongas que ya está registrada. Vuelve a abrir la producción, verifica su estado y conserva los archivos y mensajes necesarios para solicitar soporte.
 {% endhint %}
 
 ## 7. Economía de errores y precios de referencia

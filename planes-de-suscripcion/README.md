@@ -1,7 +1,7 @@
 ---
 description: >-
   Planes de suscripción de Cabinet Report: tarifas mensuales, características,
-  comparativa y acceso a una vista comercial interactiva.
+  comparativa y acceso a fichas y tarjetas interactivas para usuarios.
 cover: ../.gitbook/assets/banner.bmp
 coverY: 0
 layout:
@@ -17,7 +17,7 @@ layout:
 Conoce los planes disponibles para profesionales independientes, talleres y fábricas de muebles. Consulta los importes mensuales y abre la ficha oficial de cada plan antes de contratar.
 
 {% hint style="info" %}
-**¿Quieres ver las tarjetas como en Cabinet Report Partners?** Abre el [**catálogo interactivo de suscripciones**](https://danielmelendez-pma.github.io/cabinet-report-partners/suscripciones.html). Allí podrás seleccionar un plan y leer sus beneficios en una **ventana flotante oscura**, sin abandonar la página. Es una vista independiente preparada para compartir en redes sociales y consulta los documentos de este GitBook.
+**¿Prefieres consultar los planes en tarjetas?** Abre el [**catálogo interactivo de suscripciones**](https://danielmelendez-pma.github.io/cabinet-report-partners/suscripciones.html). Selecciona un plan para leer sus beneficios en una **ventana flotante oscura**. También puedes consultar directamente cada ficha en esta página.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Logo Redondo CR.png" alt="Logotipo circular oficial de Cabinet Report" width="170"><figcaption><p>Cabinet Report · Planes de suscripción</p></figcaption></figure>
@@ -100,7 +100,7 @@ Para aliados estratégicos con acceso ampliado.
 {% endcolumns %}
 
 {% hint style="warning" %}
-**Precios de referencia publicados en la documentación:** los importes de esta página son una vista de los planes vigentes documentados al editarla. Para confirmar tarifas, descuentos anuales, límites y condiciones, revisa la ficha oficial correspondiente. El catálogo interactivo consulta las tarifas directamente desde los archivos de este repositorio y advierte si no puede verificarlas.
+**Precios de referencia publicados en la documentación:** los importes de esta página son una vista de los planes vigentes documentados al editarla. Para confirmar tarifas, descuentos anuales, límites y condiciones, revisa la ficha oficial correspondiente. La vista interactiva consulta las fichas oficiales y puede avisarte si no consigue verificar una tarifa.
 {% endhint %}
 
 ## Otras opciones y comparativa
@@ -129,14 +129,6 @@ Consulta usuarios permitidos, reportes, modificaciones, catálogos y demás cara
 Antes de contratar, revisa la [tabla comparativa](tabla-comparativa.md), el [Acuerdo de Licenciamiento](../acuerdo-de-licenciamiento-de-software.md), los [Términos y Condiciones de Uso](../terminos-y-condiciones-de-uso.md), las [Políticas de Soporte](../politicas-de-soporte.md) y la [Política de Capacitación e Implementación](../politica-de-capacitacion-e-implementacion.md).
 
 Las funciones, límites, condiciones de soporte y servicios adicionales dependen del plan y de los acuerdos aplicables. Esta portada no modifica el contenido contractual.
-
-## Comparte la página con tus clientes
-
-Para campañas de WhatsApp, Instagram y otras redes sociales, utiliza el siguiente enlace: ofrece una cuadrícula de seis planes y abre cada ficha en una ventana emergente.
-
-**[Abrir catálogo interactivo de suscripciones ↗](https://danielmelendez-pma.github.io/cabinet-report-partners/suscripciones.html)**
-
-La información comercial proviene de las fichas oficiales del repositorio. Los planes, precios y condiciones pueden actualizarse.
 
 ---
 

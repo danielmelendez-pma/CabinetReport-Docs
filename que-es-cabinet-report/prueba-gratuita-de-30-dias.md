@@ -10,14 +10,10 @@ description: >-
 
 ## Explora Cabinet Report antes de incorporarlo al taller
 
-La documentación comercial existente presenta la siguiente invitación:
-
-> Le invitamos a probar CABINET REPORT con una **demostración gratuita por 30 días**, sin compromiso.
->
-> En este periodo podrá evaluar todas las funciones del software y comprobar su impacto real en su producción.
+La documentación de Cabinet Report ha anunciado una **demostración gratuita de 30 días**. Si deseas evaluar el software, confirma primero si esta modalidad sigue disponible y cuáles son las funciones incluidas.
 
 {% hint style="warning" %}
-**Verifica las condiciones vigentes.** Este texto reproduce la información comercial publicada previamente; no constituye por sí mismo una confirmación actual de activación, vigencia, acceso a todas las funcionalidades ni condiciones contractuales. Antes de iniciar, confirma directamente la disponibilidad de la demostración y las funciones habilitadas.
+**Verifica las condiciones vigentes.** La mención de 30 días no confirma que la demostración esté disponible actualmente ni que incluya todas las funciones. Consulta los requisitos de activación y el alcance del acceso antes de comenzar.
 {% endhint %}
 
 ## ¿Qué conviene evaluar?

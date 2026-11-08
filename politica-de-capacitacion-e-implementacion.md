@@ -42,6 +42,10 @@ Cabinet Report no garantiza resultados productivos específicos derivados de la 
 
 La capacitación **no implica relación laboral, dependencia técnica ni exclusividad** entre el cliente y el desarrollador.
 
+## Material de aprendizaje
+
+Puedes comenzar por el [Manual de usuario](manual-de-usuario.md), acceder al [Curso de Cabinet Report](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) y consultar las [Funcionalidades documentadas](funcionalidades-de-cabinet-report/README.md). Estos recursos complementan, pero no amplían por sí mismos, las sesiones o los servicios incluidos en tu plan.
+
 ---
 
 [← Volver al inicio de Cabinet Report](README.md)

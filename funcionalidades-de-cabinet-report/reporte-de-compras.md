@@ -17,7 +17,7 @@ El módulo **Reporte de Compras** procesa archivos de materiales de producción,
 <figure><img src="../.gitbook/assets/image (16) (1).png" alt="Ventana original del Reporte de Compras"><figcaption><p>El informe parte de archivos de materiales y requiere comprobar las unidades y cantidades.</p></figcaption></figure>
 
 {% hint style="info" %}
-**Disponible en el código:** generación de informes y consolidación. No se comprobó envío automático de órdenes de compra a proveedores, control de recepción o actualización de inventario físico.
+**Alcance del reporte:** permite generar y consolidar informes de compras. No debe interpretarse como una compra automática a proveedores, una confirmación de recepción o una actualización de inventario físico.
 {% endhint %}
 
 ## 1. Prepara las fuentes
