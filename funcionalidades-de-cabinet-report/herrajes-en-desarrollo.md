@@ -15,7 +15,7 @@ layout:
 Cabinet Report dispone de funciones de **herrajes** organizadas en tres áreas: **Accesorios**, **Ferretería de montaje** y **Ferretería de instalación**. Son herramientas implementadas y sujetas a contexto, permisos y datos de catálogo.
 
 {% hint style="info" %}
-**Estado:** desarrolladas en formularios específicos del repositorio. Los permisos de edición, la disponibilidad offline y la vinculación con TXT varían según la acción y la forma en que se abrió la ventana.
+**Disponibilidad:** los permisos de edición, el funcionamiento sin conexión y la vinculación con archivos TXT pueden variar según la acción, la versión y el acceso utilizado.
 {% endhint %}
 
 ## 1. Elegir el tipo de herraje

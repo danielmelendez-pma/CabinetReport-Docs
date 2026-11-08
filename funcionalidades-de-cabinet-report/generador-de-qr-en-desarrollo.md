@@ -15,7 +15,7 @@ layout:
 El **Generador de QR** cuenta con un formulario y rutas implementadas para leer piezas de producción, preparar identificadores y crear códigos QR asociados a ellas. Puede producir un **informe Excel** con los datos de las piezas y sus imágenes QR.
 
 {% hint style="info" %}
-**Funcionalidad desarrollada:** el repositorio incluye generación de imágenes QR y un informe Excel. Su disponibilidad para cada usuario, impresión y lectura con dispositivos externos deben comprobarse en la instalación concreta.
+**Qué puedes obtener:** imágenes QR asociadas a piezas y un informe Excel, cuando la función esté habilitada. Antes de imprimir etiquetas o utilizarlas con lectores externos, verifica el resultado con tu equipo.
 {% endhint %}
 
 ## 1. Preparar los archivos

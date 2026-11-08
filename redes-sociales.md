@@ -43,7 +43,7 @@ Consulta novedades, imágenes de publicaciones y enlaces de información compart
 
 Sigue las publicaciones de Cabinet Report sobre herramientas, mejoras y contenido audiovisual para el sector del mueble.
 
-**Enlace del perfil pendiente de confirmar.** No se publica una dirección no verificada.
+El enlace directo al perfil oficial estará disponible cuando se confirme su dirección.
 {% endcolumn %}
 {% column width="50%" %}
 ### <img src=".gitbook/assets/IcoLinkedIn.png" alt="Icono de LinkedIn" width="40"> LinkedIn
@@ -62,7 +62,7 @@ Accede al perfil profesional vinculado al desarrollo de Cabinet Report. Se trata
 | --- | --- |
 | Aprender con demostraciones y tutoriales | [YouTube](https://www.youtube.com/@CabinetReport) |
 | Recibir avisos de actualizaciones | [Canal de WhatsApp](https://www.whatsapp.com/channel/0029VbBCP1Z3gvWW4PTFQg1a) |
-| Ver publicaciones y clips de la comunidad | Instagram (enlace pendiente de confirmar) |
+| Ver publicaciones y clips de la comunidad | Instagram (enlace directo aún no disponible) |
 | Conocer el perfil profesional del desarrollador | [LinkedIn](https://www.linkedin.com/in/daniel-mel%C3%A9ndez-07ba0b29/) |
 
 {% hint style="info" %}
@@ -71,7 +71,7 @@ Accede al perfil profesional vinculado al desarrollo de Cabinet Report. Se trata
 
 ## Sigue aprendiendo
 
-[Manual de usuario](manual-de-usuario.md) · [Evolución del software](evolucion-de-cabinet-report.md) · [Cabinet Report Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+[Manual de usuario](manual-de-usuario.md) · [Evolución del software](evolucion-de-cabinet-report.md)
 
 ---
 

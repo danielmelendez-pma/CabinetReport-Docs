@@ -17,7 +17,7 @@ La ventana **Costos** está implementada en Cabinet Report: reúne partidas de m
 <figure><img src="../.gitbook/assets/image (1).png" alt="Vista original del módulo Costos"><figcaption><p>Los costos se organizan por proyecto y ambiente.</p></figcaption></figure>
 
 {% hint style="info" %}
-**Estado:** operaciones de carga, cálculo, guardado y exportación identificadas en el código. La disponibilidad de cada opción depende de la versión y los permisos; las pruebas funcionales en Windows siguen siendo necesarias.
+**Disponibilidad:** las opciones de carga, cálculo, guardado y exportación pueden variar según la versión y los permisos. Comprueba los importes y revisa el archivo exportado antes de utilizarlo en una cotización.
 {% endhint %}
 
 ## 1. Qué puedes preparar

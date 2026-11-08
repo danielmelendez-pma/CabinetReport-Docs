@@ -64,6 +64,12 @@ Las solicitudes de mejora, sugerencias o nuevas funcionalidades serán evaluadas
 
 Las Políticas de Soporte podrán ser actualizadas para reflejar mejoras en el servicio, manteniendo siempre la coherencia con los principios éticos y legales de Cabinet Report.
 
+## Antes de solicitar asistencia
+
+Para facilitar la revisión de una incidencia, identifica la **versión instalada**, el **módulo afectado**, los **pasos realizados** y el **mensaje de error** si aparece. Evita compartir contraseñas o credenciales de acceso. La atención se realizará según el alcance y las condiciones indicados en esta política y en tu plan.
+
+Consulta el [Manual de usuario](manual-de-usuario.md), las [Funcionalidades](funcionalidades-de-cabinet-report/README.md) y los [Planes de suscripción](planes-de-suscripcion/README.md) para obtener información complementaria.
+
 ---
 
 [← Volver al inicio de Cabinet Report](README.md)

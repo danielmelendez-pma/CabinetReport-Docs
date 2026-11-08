@@ -24,7 +24,7 @@ Cabinet Report incorpora herramientas diferenciadas para organizar cortes de **t
 
 El optimizador de tableros permite cargar piezas desde **TXT** de producción o introducirlas en la grilla, definir las planchas y retazos disponibles **para el cálculo**, y seleccionar parámetros como **espesor de sierra**, **resane** y **giro**.
 
-En el código se identifican alternativas de ordenamiento **Guillotina**, **MenosMas** y **MasMenos**. Las piezas se agrupan por material; la aplicación muestra las piezas que no pudieron colocarse y ofrece resultados visuales y exportación a Excel.
+Entre los métodos de ordenamiento disponibles se encuentran **Guillotina**, **MenosMas** y **MasMenos**. Las piezas se agrupan por material; la aplicación muestra las piezas que no pudieron colocarse y ofrece resultados visuales y exportación a Excel.
 
 1. Comprueba que el tablero tenga ancho, largo, cantidad y material válidos.
 2. Carga el archivo TXT del [Reporte de producción](reporte-de-produccion.md) o incorpora piezas manualmente.
