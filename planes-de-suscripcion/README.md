@@ -10,6 +10,8 @@ layout:
 
 # Planes de suscripción
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
 **CABINET REPORT · LICENCIAS OFICIALES**
 
 ## Elige el plan adecuado para tu producción
