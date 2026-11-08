@@ -44,3 +44,7 @@ Es la opción ideal para empresas que buscan **profesionalizar completamente sus
   * <mark style="color:$danger;">Precio especial $5,400</mark>
   * ## <mark style="color:$success;">Ahorro total $1,800</mark>
   * Pago final $150.00 mensual
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

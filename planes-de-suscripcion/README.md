@@ -26,3 +26,6 @@ A continuación, puede conocer los planes disponibles:
 🟠 [**Plan Empresarial**](plan-empresarial.md) – Para fábricas establecidas\
 🟣 [**Plan Socio**](plan-socio.md) – Acceso total sin límites (socios estratégicos)
 
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

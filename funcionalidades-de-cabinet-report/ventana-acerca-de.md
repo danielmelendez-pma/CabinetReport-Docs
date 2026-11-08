@@ -11,3 +11,7 @@ Esta ventana le muetra:
 * Enlace directo al Canal de Whatsapp
 * Enlace directo al Canal de LinkedIn
 * Enlace directo al Canal de Youtube
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

@@ -137,3 +137,7 @@ Esto te permite integrarte fácilmente a distintos flujos de trabajo o sistemas 
 El Reporte de Producción de Cabinet Report actúa como un **filtro técnico previo a fábrica**, reduciendo errores humanos, reprocesos y desperdicios, y asegurando que cada área de producción reciba información **clara, validada y lista para ejecutar**.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

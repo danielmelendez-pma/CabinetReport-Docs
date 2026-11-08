@@ -39,3 +39,7 @@ Este plan es ideal para quienes están dando el **primer paso hacia la transform
   * <mark style="color:$danger;">Precio especial $1,100</mark>
   * ## <mark style="color:$success;">Ahorro total $700</mark>
   * Pago final $30.56 mensual
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

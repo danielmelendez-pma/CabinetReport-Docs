@@ -42,3 +42,7 @@ Es la opción ideal para quienes buscan **potenciar únicamente la optimización
   * <mark style="color:$danger;">Precio especial $500</mark>
   * ## <mark style="color:$success;">Ahorro total $400</mark>
   * Pago final $13.89 mensual
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

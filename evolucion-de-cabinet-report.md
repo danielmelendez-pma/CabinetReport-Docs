@@ -91,3 +91,7 @@ Cabinet Report V.6.107.2.1 - 04 Diciembre 2025
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)

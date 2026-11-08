@@ -7,3 +7,7 @@ Aquí no solo encontrarás instrucciones técnicas, sino también **buenas prác
 Puede acceder al manual de Usuario de Cabinet Report desde el siguiente enlace:
 
 [<mark style="color:$success;">**Acceder al Manual**</mark>](https://cabinet-report.gitbook.io/curso-de-cabinet-report/)
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)

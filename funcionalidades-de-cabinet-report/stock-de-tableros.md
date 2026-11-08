@@ -5,3 +5,7 @@ Cabinet Report te da a disponibilidad una base de datos de Tableros de diferente
 <figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**Documentación en desarrollo...**</mark>
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

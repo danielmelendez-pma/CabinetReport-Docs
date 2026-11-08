@@ -31,3 +31,7 @@ Entre sus principales capacidades se encuentran:
 > Un Creador de Piezas bien configurado garantiza que Cabinet Report genere información confiable, minimizando errores humanos y mejorando la eficiencia en el proceso productivo.
 
 ***
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

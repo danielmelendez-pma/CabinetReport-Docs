@@ -41,3 +41,7 @@ Cabinet Report no garantiza resultados productivos específicos derivados de la 
 ### 6. Independencia operativa
 
 La capacitación **no implica relación laboral, dependencia técnica ni exclusividad** entre el cliente y el desarrollador.
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)

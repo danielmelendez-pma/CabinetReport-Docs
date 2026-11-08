@@ -67,3 +67,7 @@ Cada nueva funcionalidad se diseña respetando estos pilares:
 
 El compromiso es claro y permanente:\
 👉 **ofrecer una herramienta profesional, confiable y segura, en un entorno de total respeto por la información de cada cliente**.
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)

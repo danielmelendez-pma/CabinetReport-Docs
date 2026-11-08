@@ -63,3 +63,7 @@ Las solicitudes de mejora, sugerencias o nuevas funcionalidades serán evaluadas
 ### 7. Modificaciones a las políticas
 
 Las Políticas de Soporte podrán ser actualizadas para reflejar mejoras en el servicio, manteniendo siempre la coherencia con los principios éticos y legales de Cabinet Report.
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)

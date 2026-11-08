@@ -204,3 +204,7 @@ Desde el menú de opciones, el cliente puede:
 
 > **Produces → Calculas → Cotizas**\
 > Todo con la misma información real.
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

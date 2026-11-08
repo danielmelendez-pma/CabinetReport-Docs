@@ -17,3 +17,7 @@ Este plan es ideal como punto de inicio para familiarizarse con el sistema y, un
 * ✏️ Modificaciones diarias: **2**
 * 📂 Catálogos personalizados: **0**
 * ☁️ Almacenamiento en la nube: **No incluye**
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)
