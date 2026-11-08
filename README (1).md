@@ -62,3 +62,7 @@ Evoluciona a partir del desarrollo del producto, las pruebas técnicas y la retr
 - [**Evolución de Cabinet Report**](evolucion-de-cabinet-report.md)
 
 <figure><img src=".gitbook/assets/LOGO.jpg" alt="Logotipo de Cabinet Report" width="188"><figcaption><p>Cabinet Report · Software para fabricación de muebles.</p></figcaption></figure>
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)

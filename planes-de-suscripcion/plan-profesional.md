@@ -50,3 +50,7 @@ Es la opción ideal para negocios que ya tienen un flujo constante de proyectos,
   * <mark style="color:$danger;">Precio especial $4,500</mark>
   * ## <mark style="color:$success;">Ahorro total $900</mark>
   * Pago final $125.00 mensual
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

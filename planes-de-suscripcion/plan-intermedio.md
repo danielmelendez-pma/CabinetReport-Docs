@@ -41,3 +41,7 @@ Es la opción ideal para negocios que ya cuentan con una base de clientes consta
   * <mark style="color:$danger;">Precio especial $2,000</mark>
   * ## <mark style="color:$success;">Ahorro total $700</mark>
   * Pago final $55.56 mensual
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

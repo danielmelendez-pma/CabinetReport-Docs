@@ -9,3 +9,7 @@ El Administrador de Lcencias de Cabinet Report le suministrará las credenciales
 * **Licencia Usuario:** es un código que le asigna el Administrador de Licencias, este codigo es para validar a cada usuario que el cliente suscriba
 
 Con estas credenciales, la aplicación Cabinet Report valida que usted es un cliente y usuario autorizado para utilizar la aplicación.
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

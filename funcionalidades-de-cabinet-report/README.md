@@ -111,3 +111,7 @@ Las páginas siguientes describen áreas del producto cuyo desarrollo o document
 ## Continúa aprendiendo
 
 Para conocer procedimientos y ejemplos, abre el [**Manual de usuario**](../manual-de-usuario.md). Para entender el alcance y las limitaciones del software, consulta [**Pros y contras**](../pros-y-contras.md).
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

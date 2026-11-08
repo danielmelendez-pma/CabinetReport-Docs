@@ -43,3 +43,7 @@ La licencia podrá ser suspendida o revocada por:
 * Incumplimiento contractual
 * Uso indebido del sistema
 * Violación de derechos de propiedad intelectual
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)

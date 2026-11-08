@@ -1,42 +1,70 @@
-# A quién va Dirigido
+---
+description: >-
+  Perfiles que pueden aprovechar Cabinet Report: contratistas independientes,
+  pequeños talleres, fábricas y proveedores especializados.
+layout:
+  width: wide
+---
 
-### 🎯 ¿A quién va dirigido Cabinet Report?
+# ¿A quién va dirigido Cabinet Report?
 
-**Cabinet Report** está diseñado para adaptarse a distintos perfiles del sector de fabricación e instalación de muebles, desde profesionales independientes hasta fábricas y proveedores especializados. El sistema está en constante evolución con el objetivo de crecer con el negocio y se ajusta a la forma real de trabajar en común de cada tipo de empresa y cubrir sus necesidades reales con cada actualización lanzada.
+**CABINET REPORT · PERFILES DE USUARIO**
 
-***
+## La información técnica conecta a todos los participantes
 
-#### 👤 [Contratista Independiente](independiente.md)
+El trabajo de fabricación de muebles involucra a quien planifica, quien prepara piezas, quien corta y cantea, y quien instala. **Cabinet Report ayuda a organizar módulos, medidas, materiales, cantos y reportes** para facilitar esa coordinación.
 
-Profesionales que trabajan de forma autónoma en diseño, fabricación o instalación de muebles.
+Cada perfil utiliza el proceso de una manera diferente. Selecciona el que mejor describa tu actividad y conoce sus retos, una aplicación práctica de la herramienta y las precauciones correspondientes.
 
-***
+{% columns %}
+{% column width="50%" %}
+### 👤 [Contratista independiente](independiente.md)
 
-#### 🛠️ [Pequeño Taller](pequeno-taller.md)
+Ebanistas, planificadores e instaladores que trabajan por cuenta propia.
 
-Talleres con producción limitada que requieren control, orden y optimización de materiales.
+**Necesidad habitual:** preparar listados de piezas comprensibles para el taller o proveedor.
 
-***
+### 🛠️ [Pequeño taller](pequeno-taller.md)
 
-#### 🏭 [Fábrica de Muebles](fabrica.md)
+Equipos que planifican, cortan, arman e instalan muebles a medida.
 
-Empresas con procesos industriales, múltiples áreas de producción y alto volumen de trabajo.
+**Necesidad habitual:** coordinar varios trabajos sin perder el control de los datos técnicos.
+{% endcolumn %}
 
-***
+{% column width="50%" %}
+### 🏭 [Fábrica de muebles](fabrica.md)
 
-#### 📐 [Proveedor de Tableros, Corte y Canteo](proveedor-de-tableros-corte-y-canteo.md)
+Empresas que distribuyen el trabajo entre planificación y producción.
 
-Negocios especializados en suministro, seccionado y canteo de tableros para fabricantes.
+**Necesidad habitual:** utilizar criterios más uniformes entre áreas.
 
-***
+### 🪵 [Proveedor de tableros, corte y canteo](proveedor-de-tableros-corte-y-canteo.md)
 
-#### 🪨 [Proveedor de Granitos, Corte y Biselado](proveedor-de-granitos-corte-y-biselado.md)
+Servicios que reciben despieces de distintos clientes.
 
-Empresas dedicadas al trabajo de superficies sólidas como granito, cuarzo y similares.
+**Necesidad habitual:** reducir ambigüedades en medidas, materiales y cantos.
+{% endcolumn %}
+{% endcolumns %}
 
-### 📌 En resumen
+### 🪨 [Proveedor de granitos, corte y biselado](proveedor-de-granitos-corte-y-biselado.md)
 
-Cabinet Report no está pensado para un solo tipo de usuario, sino para **todo el ecosistema** que participa en la fabricación de muebles:\
-desde quien diseña y mide, pasa por el departamento que maneja las compras y gestión de almacenaje de la materia prima, hasta quien corta, cantea, fabrica o instala.
+Negocios que preparan superficies y sobres para proyectos de mobiliario. Su flujo exige especificaciones y revisiones particulares que deben acordarse antes del corte.
 
-> **Una sola herramienta, adaptada a cada realidad del mercado.**
+## Del proyecto al taller
+
+1. **Planificación:** definir módulos, piezas y dimensiones.
+2. **Preparación técnica:** identificar materiales, espesores, cantos y cantidades.
+3. **Revisión:** comprobar los datos antes de enviarlos a fabricación.
+4. **Comunicación:** compartir los reportes o archivos adecuados al proceso del destinatario.
+
+{% hint style="info" %}
+**Alcance según el perfil.** Cabinet Report es una herramienta de escritorio para organizar información de fabricación; no presupone que todos los proveedores usen el software ni que existan integraciones directas con todas las máquinas o sistemas. La exportación y la compatibilidad deben verificarse para cada versión y formato de trabajo.
+{% endhint %}
+
+## Sigue explorando
+
+Conoce [qué puede hacer Cabinet Report por tu negocio](../que-es-cabinet-report/que-puede-hacer-cabinet-report-por-su-negocio.md), consulta las [funcionalidades documentadas](../funcionalidades-de-cabinet-report/README.md) o revisa sus [beneficios clave](../que-es-cabinet-report/beneficios-clave.md).
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

@@ -128,3 +128,7 @@ Esto permite que el módulo genere automáticamente su listado de herrajes junto
 El Creador de Módulos transforma Cabinet Report en una herramienta **hecha a la medida de su taller**, permitiéndole estandarizar procesos sin perder flexibilidad, reducir errores humanos y acelerar la creación de proyectos complejos con total control técnico.
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

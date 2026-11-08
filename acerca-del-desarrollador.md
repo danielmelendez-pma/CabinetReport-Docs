@@ -53,3 +53,7 @@ El objetivo siempre ha sido el mismo:\
 👉 **reducir errores humanos, estandarizar procesos y facilitar el trabajo de quienes realmente producen**.
 
 Cabinet Report continúa evolucionando día a día, incorporando mejoras basadas en la experiencia real de uso, con la meta de convertirse en una **herramienta indispensable tanto para fábricas de muebles como para profesionales independientes del sector**.
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)

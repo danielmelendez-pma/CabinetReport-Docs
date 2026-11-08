@@ -54,3 +54,7 @@ Cada red social cumple un propósito específico, permitiéndole acceder al cont
 ***
 
 👉 Seleccione la red social de su interés para conocer su enfoque y contenido.
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)

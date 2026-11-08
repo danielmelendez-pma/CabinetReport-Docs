@@ -46,3 +46,7 @@ Es la opción ideal para quienes desean ir **más allá de una simple suscripci�
   * <mark style="color:$danger;">Precio especial $7,200</mark>
   * ## <mark style="color:$success;">Ahorro total $3,600</mark>
   * Pago final $200.00 mensual
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

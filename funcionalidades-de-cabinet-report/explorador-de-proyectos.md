@@ -15,3 +15,6 @@ Desde esta sección, se podrá en próximas actualizaciones poder:
 * Abrir un proyecto directamente desde Cabinet Report desde cualquier computadora y por cualquier usuario autorizado de su empresa.
 * Los usuarios de Almacén y Compras podrán consultar las cantidades de materiales y herrajes que deben administrar e inventariar para cada producción de sus proyectos.
 
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

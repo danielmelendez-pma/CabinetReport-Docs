@@ -19,3 +19,7 @@
 | **Acceso a funcionalidades futuras**     | ❌              | ❌                   | ❌              | ❌                  | ❌                   | ✅             |
 | **Soporte técnico prioritario**          | ❌              | ❌                   | ❌              | ❌                  | ❌                   | ✅             |
 | **Prioridad en integraciones y mejoras** | ❌              | ❌                   | ❌              | ❌                  | ❌                   | ✅             |
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

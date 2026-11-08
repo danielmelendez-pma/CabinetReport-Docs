@@ -88,3 +88,7 @@ Esto permite que cada módulo se adapte al material real del proyecto sin perder
 El Catálogo de Módulos de Cabinet Report permite **trabajar con una base estándar**, pero con la flexibilidad necesaria para adaptarse a **cualquier proyecto real**, combinando rapidez, control y reducción de errores desde la etapa de planificación.
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+---
+
+[← Volver al inicio de Cabinet Report](../README.md)

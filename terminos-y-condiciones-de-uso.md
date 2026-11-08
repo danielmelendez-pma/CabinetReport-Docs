@@ -66,3 +66,7 @@ Cabinet Report podrá realizar mejoras, ajustes y actualizaciones técnicas sin 
 ### 8. Aceptación
 
 El uso del software implica la **aceptación expresa** de estos Términos y Condiciones, así como del Código de Ética y Confidencialidad.
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)

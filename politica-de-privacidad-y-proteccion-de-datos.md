@@ -52,3 +52,7 @@ Los datos se conservan únicamente durante el tiempo necesario para la prestaci�
 ### 6. Aceptación
 
 El uso del software implica la aceptación expresa de esta Política de Privacidad.
+
+---
+
+[← Volver al inicio de Cabinet Report](README.md)
