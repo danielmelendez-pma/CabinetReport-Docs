@@ -55,6 +55,15 @@ Consulta el reporte, las comprobaciones disponibles y las herramientas de optimi
 {% endcolumn %}
 {% endcolumns %}
 
+## Después del primer Reporte de Producción
+
+Una vez revisado el despiece, elige la continuación que necesites. **No es obligatorio utilizar todas las herramientas en un mismo proyecto**:
+
+- **Preparar el corte:** consulta los [Optimizadores](funcionalidades-de-cabinet-report/optimizadores.md) y confirma el material, las piezas y las restricciones de la máquina.
+- **Planificar compras o cotizar:** revisa el [Reporte de compras](funcionalidades-de-cabinet-report/reporte-de-compras.md) y, cuando corresponda, continúa en [Costos y cotizaciones](funcionalidades-de-cabinet-report/costos-en-desarrollo.md).
+- **Agrupar trabajos de fabricación:** conoce la [Orden de producción](funcionalidades-de-cabinet-report/orden-de-produccion.md).
+- **Retomar una revisión asistida:** consulta [Auditoría RP y persistencia](funcionalidades-de-cabinet-report/auditoria-rp-persistencia.md) para comprobar decisiones y recuperación de la producción.
+
 ## Antes de enviar información al taller
 
 1. Comprueba que **las medidas, los materiales y las cantidades** correspondan al proyecto.

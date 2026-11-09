@@ -7,9 +7,9 @@ layout:
 
 [🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
 
-### 📊 Tabla Comparativa de Planes – Cabinet Report
+Compara las características de los siete planes. Selecciona el nombre de un plan para abrir su ficha y revisar sus condiciones. **En móvil, desplaza la tabla horizontalmente** para consultar todas las columnas.
 
-| Característica                           | 🆓 Plan Gratis | ⚙️ Plan Optimizador | 🟢 Plan Básico | 🔵 Plan Intermedio | 🔵 [Plan Profesional](plan-profesional.md) | 🟠 Plan Empresarial | 🟣 Plan Socio |
+| Característica                           | [🆓 Plan Gratis](plan-gratis.md) | [⚙️ Plan Optimizador](plan-optimizador.md) | [🟢 Plan Básico](plan-basico.md) | [🔵 Plan Intermedio](plan-intermedio.md) | 🔵 [Plan Profesional](plan-profesional.md) | [🟠 Plan Empresarial](plan-empresarial.md) | [🟣 Plan Socio](plan-socio.md) |
 | ---------------------------------------- | -------------- | ------------------- | -------------- | ------------------ | ------------------- | ------------------- | ------------- |
 | **Precio mensual**                       | $0.00          | $25.00              | $50.00         | $75.00             | $150.00 | $200.00             | $300.00       |
 | **Usuarios permitidos**                  | 1              | 1                   | 1              | 1                  | 4 | 5                   | Ilimitados    |
