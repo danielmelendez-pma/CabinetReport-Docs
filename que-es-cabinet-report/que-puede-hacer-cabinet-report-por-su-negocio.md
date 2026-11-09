@@ -62,12 +62,12 @@ Generar información organizada para los procesos de fabricación y, según el f
 La documentación del producto menciona cálculos relacionados con **tubos, perfiles Gola y cantos**, además de la preparación de archivos para optimizadores. También describe la incorporación de información procedente de archivos de **PROMOB**, según el formato y procedimiento documentados.
 
 {% hint style="warning" %}
-**No todas las capacidades significan una integración directa.** La importación de archivos de PROMOB, el intercambio con programas externos y los formatos para máquinas deben probarse con la versión y las plantillas concretas. La optimización de tableros y otras herramientas pueden encontrarse en desarrollo o con documentación pendiente. No se promete disponibilidad universal ni compatibilidad automática con Biesse, The Itemizer u otros sistemas.
+**Comprueba los formatos antes de intercambiar archivos.** Las funciones de optimización y las herramientas para trabajar con información externa están disponibles según la versión y la licencia. La compatibilidad con PROMOB, Biesse, The Itemizer u otros sistemas depende de las plantillas y formatos específicos; no equivale a una integración automática con todos ellos.
 {% endhint %}
 
-## Funciones en desarrollo o pendientes de validación documental
+## Otras herramientas para completar el flujo
 
-En la documentación existen apartados específicos de [costos y cotizaciones](../funcionalidades-de-cabinet-report/costos-en-desarrollo.md), [optimizadores](../funcionalidades-de-cabinet-report/optimizadores.md) y [reporte de compras](../funcionalidades-de-cabinet-report/reporte-de-compras.md). Su presencia en el índice **no implica que todas las operaciones estén habilitadas** en la versión utilizada.
+Continúa con [costos y cotizaciones](../funcionalidades-de-cabinet-report/costos-en-desarrollo.md), [optimizadores](../funcionalidades-de-cabinet-report/optimizadores.md), [reporte de compras](../funcionalidades-de-cabinet-report/reporte-de-compras.md), [herrajes](../funcionalidades-de-cabinet-report/herrajes-en-desarrollo.md) y [generación de QR](../funcionalidades-de-cabinet-report/generador-de-qr-en-desarrollo.md). Estas herramientas cuentan con páginas propias; revisa los permisos de tu licencia antes de utilizarlas.
 
 ## ¿Para quién resulta útil?
 

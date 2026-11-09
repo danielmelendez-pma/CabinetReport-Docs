@@ -27,7 +27,7 @@ layout:
 | **Soporte técnico prioritario**          | ❌              | ❌                   | ❌              | ❌                  | No detallado | ❌                   | ✅             |
 | **Prioridad en integraciones y mejoras** | ❌              | ❌                   | ❌              | ❌                  | No detallado | ❌                   | ✅             |
 
-> **Nota sobre el Plan Profesional:** los valores de precio, usuarios, reportes, modificaciones, catálogos, almacenamiento y acceso a módulos y producción se tomaron de su [ficha oficial](plan-profesional.md). La ficha confirma el **uso ilimitado de optimizadores**, pero no detalla por separado la optimización de tableros, tubos y perfiles ni el acceso a la base de datos de tableros. **“No detallado” no significa que la función esté excluida**; indica que se debe confirmar antes de prometerla comercialmente. Tampoco se especifican beneficios futuros o prioridades de soporte e integraciones.
+> **Nota sobre el Plan Profesional:** los valores de precio, usuarios, reportes, modificaciones, catálogos, almacenamiento y acceso a módulos y producción se tomaron de su [ficha oficial](plan-profesional.md). La ficha confirma el **uso ilimitado de optimizadores**, pero no detalla por separado la optimización de tableros, tubos y perfiles ni el acceso a la base de datos de tableros. **“No detallado” no significa que la función esté excluida**; conviene confirmar su disponibilidad antes de contratar el plan. Tampoco se especifican beneficios futuros o prioridades de soporte e integraciones.
 
 ---
 

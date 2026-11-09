@@ -19,7 +19,7 @@ layout:
 <figure><img src="../.gitbook/assets/image (15) (1).png" alt="Vista original del catálogo de tableros"><figcaption><p>Consulta de referencias con sus datos técnicos y comerciales disponibles.</p></figcaption></figure>
 
 {% hint style="warning" %}
-**Catálogo no es inventario físico.** Aunque la pantalla se denomina «Stock», no se comprobó en este formulario un registro integral de entradas/salidas, ubicación en almacén, reservas o existencias verificadas en tiempo real.
+**Catálogo no es inventario físico.** La información de esta ventana sirve para identificar tableros y sus características, pero no confirma por sí sola las existencias, reservas o movimientos reales del almacén.
 {% endhint %}
 
 ## 1. Información de cada tablero
@@ -67,7 +67,7 @@ La grilla de tableros y cantidades dentro del optimizador representa disponibili
 Los campos de precio dependen de datos y permisos realmente disponibles. No supongas que un valor ausente o almacenado representa una cotización vigente del proveedor. Para presupuestar utiliza [Costos y cotizaciones](costos-en-desarrollo.md); para posibles pérdidas detectadas por IA consulta [Auditoría RP](auditoria-rp-persistencia.md).
 
 {% hint style="info" %}
-**Validación pendiente:** probar en Windows alta, edición, clonación pública/privada, permisos por cliente, precios, imágenes y selección del tablero en los demás formularios.
+**Antes de usar un tablero:** comprueba que guardaste la referencia adecuada, que su visibilidad coincide con los permisos de tu cliente y que los datos de medidas, espesor, veta y precio corresponden al producto que vas a comprar o cortar.
 {% endhint %}
 
 ## Navegación relacionada

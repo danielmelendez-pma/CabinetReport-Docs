@@ -157,9 +157,9 @@ Los hitos siguientes conservan las fechas del documento histórico original. **A
 **Fechas por verificar:** el archivo original sitúa la V.3.2.0 en julio de 2024, pero la V.4.4.2 en febrero de 2024, y repite la V.6.50.0 con dos fechas de 2025. No se han inventado fechas corregidas ni se han eliminado imágenes. La secuencia exacta debe cotejarse con el historial oficial de lanzamientos.
 {% endhint %}
 
-## 2026 · Funciones documentadas en el repositorio
+## 2026 · Nuevas herramientas para la producción
 
-La documentación técnica de Cabinet Report describe funciones de **Reporte de Producción**, **Revisor IA**, **Auditoría RP**, optimizadores, compras y costos. Estas referencias reflejan áreas desarrolladas, **no constituyen un calendario oficial de publicación de versiones**.
+Cabinet Report continúa ampliando las funciones de **Reporte de Producción**, **Revisor IA**, **Auditoría RP**, optimizadores, compras y costos. Esta sección presenta áreas del producto y no sustituye el historial oficial de actualizaciones ni confirma por sí sola fechas específicas de publicación.
 
 Para conocer las novedades y la versión instalada, utiliza la [Ventana Acerca de](funcionalidades-de-cabinet-report/ventana-acerca-de.md) y el historial de actualizaciones de la aplicación.
 

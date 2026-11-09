@@ -20,7 +20,7 @@ Planifica, revisa y prepara la información de fabricación de muebles desde un 
 
 Cabinet Report ayuda a reducir tareas repetitivas, detectar determinadas inconsistencias técnicas y entregar información más clara a los equipos de fabricación.
 
-**[Explorar funcionalidades](funcionalidades-de-cabinet-report/README.md)** · **[Abrir manual de usuario](manual-de-usuario.md)**
+**[Explorar funcionalidades](funcionalidades-de-cabinet-report/README.md)** · **[Abrir manual de usuario](manual-de-usuario.md)** · **[Ir al curso](https://cabinet-report.gitbook.io/curso-de-cabinet-report/)**
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}

@@ -120,7 +120,7 @@ También puedes consultar las siguientes herramientas. Las opciones disponibles 
 
 ## Continúa aprendiendo
 
-Para conocer procedimientos y ejemplos, abre el [**Manual de usuario**](../manual-de-usuario.md). Para entender el alcance y las limitaciones del software, consulta [**Pros y contras**](../pros-y-contras.md).
+Para conocer procedimientos y ejemplos, abre el [**Manual de usuario**](../manual-de-usuario.md) o el [**Curso de Cabinet Report**](https://cabinet-report.gitbook.io/curso-de-cabinet-report/). Para entender el alcance y las limitaciones del software, consulta [**Pros y contras**](../pros-y-contras.md).
 
 ---
 

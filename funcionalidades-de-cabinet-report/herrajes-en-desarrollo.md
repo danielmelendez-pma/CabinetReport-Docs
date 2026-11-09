@@ -51,7 +51,7 @@ Desde el [Reporte de producción](reporte-de-produccion.md), las herramientas au
 | **Catálogo o creador de módulos** | Consulta o selección de relaciones técnicas sin reescribir automáticamente TXT de RP. |
 
 {% hint style="warning" %}
-Los botones de agregar al catálogo maestro no deben confundirse con **Agregar al TXT**. Al trabajar fuera del modo producción, el código incorpora protecciones para impedir escrituras accidentales del reporte productivo.
+**Agregar al catálogo** y **Agregar al TXT** son acciones distintas. Antes de confirmar, comprueba si deseas guardar una referencia para consultas futuras o incorporarla al reporte de producción actual.
 {% endhint %}
 
 ## 4. Restricciones de conexión

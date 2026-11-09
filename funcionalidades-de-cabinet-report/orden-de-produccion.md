@@ -14,12 +14,12 @@ layout:
 
 ## Agrupa reportes de un mismo proyecto
 
-La **Orden de Producción (OP)** reúne reportes de producción compatibles para organizar la fabricación bajo un identificador de orden. La herramienta está implementada en la ventana de órdenes y trabaja con reportes **RP en Excel**; no debe confundirse con un control integral de avance de planta.
+La **Orden de Producción (OP)** reúne reportes de producción compatibles para organizar la fabricación bajo un identificador de orden. La herramienta trabaja con reportes **RP en Excel**; no debe confundirse con un sistema de seguimiento físico de todas las etapas de planta.
 
 <figure><img src="../.gitbook/assets/image (19).png" alt="Ventana original de Orden de Producción"><figcaption><p>Los reportes seleccionados se relacionan con una orden y un resumen de materiales.</p></figcaption></figure>
 
 {% hint style="info" %}
-**Alcance verificado en código:** selección de varios RP, revisión de asignaciones existentes, creación de número OP, archivo Excel con plantilla y registro de vínculo RP–OP. La ejecución real depende de la versión, permisos, archivos y almacenamiento.
+**Qué puedes preparar:** selecciona reportes compatibles, comprueba sus asignaciones, identifica la orden y genera el Excel correspondiente. La disponibilidad de cada acción depende de tu versión, tus permisos y los archivos seleccionados.
 {% endhint %}
 
 ## 1. Preparar los reportes
@@ -30,7 +30,7 @@ La **Orden de Producción (OP)** reúne reportes de producción compatibles para
 4. Revisa los materiales y las cantidades que aparecen en el resumen.
 5. Confirma que los reportes que deseas incluir aún no estén asignados a otra OP.
 
-El código detecta asociaciones previas y advierte si un número RP ya pertenece a una orden. El selector bloquea determinadas rutas de red: copia antes los archivos al equipo si aparece ese aviso.
+Si el sistema informa que un RP ya pertenece a otra orden, revisa la asociación antes de continuar. Si la carpeta de red no está admitida para seleccionar archivos, utiliza una copia local autorizada y verifica que sea la versión correcta.
 
 ## 2. Crear la orden
 
@@ -48,13 +48,13 @@ El código detecta asociaciones previas y advierte si un número RP ya pertenece
 
 ## 3. Conexión y continuidad
 
-En modo conectado, el formulario contempla guardar información en **TblTrackingOP** y asociar los RP mediante **TblTrackingRP**. En modo sin conexión, el código emplea caché local y una cola de sincronización, cuya conciliación posterior debe comprobarse al volver a conectarse.
+Cuando hay conexión, las órdenes y sus vínculos pueden registrarse en el almacenamiento correspondiente. Si trabajaste sin conexión, **verifica la sincronización al recuperarla** y comprueba que la OP y los RP asociados aparezcan correctamente antes de distribuir el documento.
 
 Estas operaciones ayudan a conservar referencias administrativas; **no acreditan por sí mismas ejecución de corte, armado, entrega o instalación**.
 
 ## 4. Herramientas relacionadas
 
-La misma área del código conserva acciones para **fusionar o separar optimizaciones** y convertir ciertos archivos de **Optiplanning** hacia formatos de **Itemizer**, condicionadas por la compatibilidad de los archivos. Esas transformaciones no sustituyen la creación del documento OP.
+En este flujo también puedes encontrar herramientas relacionadas con **unir o separar optimizaciones** y con la conversión de determinados formatos de trabajo. Consulta los [optimizadores](optimizadores.md) y comprueba la compatibilidad de los archivos: estas operaciones no sustituyen la creación de la OP.
 
 ## 5. Antes de iniciar la fabricación
 
