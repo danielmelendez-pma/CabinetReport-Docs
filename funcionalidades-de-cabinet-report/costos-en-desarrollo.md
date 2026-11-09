@@ -50,7 +50,7 @@ Existe además una ruta de procesamiento de **PDF de Promob**, cuya compatibilid
 
 ## 3. Precios de los materiales
 
-El código contiene lectura de precios desde catálogos de tableros y herrajes, diferenciando registros públicos y privados, así como mecanismos para actualizar referencias privadas y clonar materiales permitidos al catálogo del cliente.
+Para preparar los costos puedes consultar referencias de precios de tableros y herrajes, según los catálogos y permisos disponibles. Antes de utilizar una referencia pública o privada, comprueba que corresponda al material real y que su precio sea adecuado para la cotización.
 
 {% hint style="warning" %}
 **Un precio almacenado no demuestra vigencia.** Antes de enviar la cotización, comprueba proveedor, formato, espesor, moneda, unidad e impuestos. Una partida sin precio confiable debe revisarse expresamente.

@@ -51,14 +51,14 @@ El sistema selecciona entre perfiles de IA habilitados y con credenciales válid
 {% column width="50%" %}
 ### Revisión manual
 
-El usuario puede intervenir en la selección o en el intercambio de la solicitud y respuesta, según la opción habilitada. Hay un flujo de captura y validación de **respuesta XML V2**; no se admite cualquier texto libre como resultado técnico válido.
+Si utilizas una revisión manual, sigue las indicaciones de la aplicación para preparar la solicitud y aportar una respuesta en el formato que admite el Revisor IA. Un texto libre sin la estructura solicitada puede ser rechazado.
 
 {% endcolumn %}
 {% endcolumns %}
 
-El código contempla **Gemini, Groq, Mistral y OpenAI**, pero esto **no implica que todos estén disponibles en cada instalación**. Es necesario disponer de configuración, credenciales, permisos y capacidad adecuados en el Centro IA.
+El Centro IA puede utilizar **Gemini, Groq, Mistral u OpenAI**, dependiendo de la configuración, las credenciales, los permisos y la disponibilidad del servicio. No todas las opciones tienen que aparecer habilitadas en tu instalación.
 
-La preferencia implementada para la ruta automática del Revisor de Producción es **Gemini → Groq → Mistral → OpenAI**, únicamente entre proveedores elegibles. No supone que un modelo comercial específico esté contratado, ni que esa secuencia pueda ejecutarse siempre.
+En la revisión automática, el sistema prioriza **Gemini → Groq → Mistral → OpenAI** entre las opciones elegibles. Si un proveedor no está disponible, comprueba los mensajes del Centro IA y cuál figura finalmente en el resultado.
 
 ## 3. Estados de la revisión
 

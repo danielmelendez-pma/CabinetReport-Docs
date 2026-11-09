@@ -12,13 +12,13 @@ description: >-
 
 ## Una terminología consistente para las piezas
 
-La versión anterior de esta página solo decía «Documentación en desarrollo». La revisión del código de Cabinet Report confirma que existe una ventana para **administrar equivalencias entre palabras de origen y traducciones técnicas**. En la aplicación, su título es **Diccionario de Partes**.
+El **Diccionario de Partes** permite administrar equivalencias entre los nombres de origen de las piezas y las denominaciones técnicas que utiliza tu equipo. Es útil cuando distintas personas emplean palabras diferentes para referirse al mismo componente.
 
 Este diccionario está relacionado con la **nomenclatura**. No debe confundirse con el [Creador de piezas](creador-de-piezas.md), que define dimensiones y otros datos constructivos.
 
 <figure><img src="../.gitbook/assets/image (18).png" alt="Captura existente del diccionario de piezas"><figcaption><p>Referencia visual del diccionario de partes.</p></figcaption></figure>
 
-## Funciones identificadas en la implementación
+## Qué puedes hacer con el diccionario
 
 | Función | Uso |
 | --- | --- |
@@ -28,7 +28,7 @@ Este diccionario está relacionado con la **nomenclatura**. No debe confundirse 
 | **Eliminar** | Quitar del diccionario el término seleccionado. |
 
 {% hint style="info" %}
-**Estado verificado:** existe una implementación de estas operaciones. El aviso antiguo «Documentación en desarrollo» indicaba falta de explicación, no demuestra que el módulo esté sin desarrollar. El funcionamiento en la versión Windows del usuario sigue pendiente de prueba específica.
+**Antes de comenzar:** comprueba que tu usuario tenga acceso a la herramienta y acuerda con el responsable de producción qué términos deben utilizarse de manera consistente.
 {% endhint %}
 
 ## Procedimiento práctico
@@ -45,15 +45,15 @@ Este diccionario está relacionado con la **nomenclatura**. No debe confundirse 
 Si distintos planificadores usan nombres diferentes para referirse a la misma parte de mueble, el equipo técnico puede definir una denominación consistente y registrar su equivalencia. Este proceso **no cambia por sí mismo el tamaño, el material o la fórmula** de una pieza.
 
 {% hint style="warning" %}
-**Los cambios afectan registros almacenados.** La implementación revisada no demuestra aislamiento del diccionario por cliente. No modifiques términos compartidos sin autorización ni supongas que la aplicación los aplicará automáticamente en todos los reportes.
+**Modifica solo los términos que estás autorizado a administrar.** No des por hecho que una equivalencia se aplicará automáticamente a todos los reportes ni que un término es exclusivo de tu cliente. Confirma el alcance con el administrador de tu licencia.
 {% endhint %}
 
-## Aspectos pendientes de validación funcional
+## Antes de utilizar una equivalencia en producción
 
-- Ruta exacta de acceso y permisos por perfil.
-- Alcance de las entradas entre clientes y usuarios.
-- Procesos concretos donde se aplican las traducciones.
-- Pruebas de alta, edición y eliminación en Windows.
+1. Comprueba que el nombre técnico acordado sea claro para el personal de taller.
+2. Revisa si el término se utiliza en documentos o procesos compartidos.
+3. Después de guardar, verifica la equivalencia en la lista y en el flujo donde necesitas usarla.
+4. Si no puedes editar o no ves reflejado un cambio, consulta a quien administra los permisos.
 
 ## Continúa aprendiendo
 

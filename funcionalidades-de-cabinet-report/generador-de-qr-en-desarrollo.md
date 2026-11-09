@@ -14,7 +14,7 @@ layout:
 
 ## Lleva la identificación al despiece
 
-El **Generador de QR** cuenta con un formulario y rutas implementadas para leer piezas de producción, preparar identificadores y crear códigos QR asociados a ellas. Puede producir un **informe Excel** con los datos de las piezas y sus imágenes QR.
+Con el **Generador de QR** puedes preparar identificadores para las piezas de una producción y elaborar un **informe Excel** que reúne sus datos y códigos QR. Úsalo para facilitar la identificación de componentes durante el trabajo de taller.
 
 {% hint style="info" %}
 **Qué puedes obtener:** imágenes QR asociadas a piezas y un informe Excel, cuando la función esté habilitada. Antes de imprimir etiquetas o utilizarlas con lectores externos, verifica el resultado con tu equipo.
@@ -28,7 +28,7 @@ El **Generador de QR** cuenta con un formulario y rutas implementadas para leer 
 4. Comprueba cliente, ambiente, referencia, módulos y cantidades.
 5. Inicia la generación y revisa las piezas y los códigos resultantes.
 
-Los datos de piezas considerados por el código abarcan **módulo, nombre, cantidad, espesor, ancho, largo, material, veta y cantos**, cuando están presentes en el origen.
+Según la información disponible en los archivos de origen, el informe puede incluir **módulo, nombre de la pieza, cantidad, espesor, ancho, largo, material, veta y cantos**.
 
 ## 2. Generar el informe
 

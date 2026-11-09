@@ -35,7 +35,7 @@ El [Reporte de producción](reporte-de-produccion.md) y sus archivos auxiliares 
 5. Genera el **Excel del Reporte de Compras** y comprueba su contenido.
 6. Revisa el documento antes de enviarlo a almacén o a un proveedor.
 
-El código evita registrar como éxito una generación que no complete las etapas obligatorias de resumen, Excel y logo.
+Comprueba que el proceso termine sin advertencias y que el Excel generado contenga el resumen y los elementos esperados. Si aparece un error, no consideres el reporte como definitivo.
 
 ## 3. Varios ambientes
 
@@ -52,7 +52,7 @@ El módulo advierte si las fuentes corresponden a clientes diferentes. También 
 
 ## 4. Tubos, golas, zócalos y unidades
 
-La implementación lee y clasifica archivos de perfilería y contempla cálculos de corte lineal para materiales seleccionados. No supongas que todas las partidas se miden igual; comprueba si una partida representa **unidades, tramos o longitud**.
+Los archivos de perfilería pueden incluir cálculos de corte lineal para determinados materiales. No todas las partidas se miden igual: comprueba si cada valor representa **unidades, tramos o longitud**.
 
 ## 5. Revisar antes de adquirir
 
