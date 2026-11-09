@@ -8,7 +8,7 @@ layout:
 
 # Redes sociales de Cabinet Report
 
-[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
 
 **CABINET REPORT · COMUNIDAD, NOVEDADES Y APRENDIZAJE**
 
@@ -45,7 +45,7 @@ Consulta novedades, imágenes de publicaciones y enlaces de información compart
 
 Sigue las publicaciones de Cabinet Report sobre herramientas, mejoras y contenido audiovisual para el sector del mueble.
 
-El enlace directo al perfil oficial estará disponible cuando se confirme su dirección.
+[**Visitar Instagram ↗**](https://www.instagram.com/cabinet.report/)
 {% endcolumn %}
 {% column width="50%" %}
 ### <img src=".gitbook/assets/IcoLinkedIn.png" alt="Icono de LinkedIn" width="40"> LinkedIn
@@ -64,7 +64,7 @@ Accede al perfil profesional vinculado al desarrollo de Cabinet Report. Se trata
 | --- | --- |
 | Aprender con demostraciones y tutoriales | [YouTube](https://www.youtube.com/@CabinetReport) |
 | Recibir avisos de actualizaciones | [Canal de WhatsApp](https://www.whatsapp.com/channel/0029VbBCP1Z3gvWW4PTFQg1a) |
-| Ver publicaciones y clips de la comunidad | Instagram (enlace directo aún no disponible) |
+| Ver publicaciones y clips de la comunidad | [Instagram](https://www.instagram.com/cabinet.report/) |
 | Conocer el perfil profesional del desarrollador | [LinkedIn](https://www.linkedin.com/in/daniel-mel%C3%A9ndez-07ba0b29/) |
 
 {% hint style="info" %}

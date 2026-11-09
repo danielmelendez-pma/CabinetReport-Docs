@@ -1,6 +1,6 @@
 # Plan Profesional
 
-[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
 
 [Comparar los siete planes](tabla-comparativa.md) · [Consultar este plan en el catálogo interactivo](https://danielmelendez-pma.github.io/cabinet-report-partners/suscripciones.html?plan=profesional)
 
@@ -58,5 +58,3 @@ Es la opción ideal para negocios que ya tienen un flujo constante de proyectos,
 ---
 
 [← Volver al inicio de Cabinet Report](../README.md)
-
-[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

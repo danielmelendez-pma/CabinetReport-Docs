@@ -5,7 +5,7 @@ layout:
 
 # Tabla comparativa
 
-[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
 
 Compara las características de los siete planes. Selecciona el nombre de un plan para abrir su ficha y revisar sus condiciones. **En móvil, desplaza la tabla horizontalmente** para consultar todas las columnas.
 
