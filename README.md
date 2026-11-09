@@ -68,12 +68,12 @@ Revisa las opciones de suscripción, su comparativa y las políticas relacionada
 {% endcolumn %}
 {% endcolumns %}
 
-## Un flujo de trabajo, de principio a fin
+## Tu primera producción, paso a paso
 
-1. **Organiza el proyecto:** define los módulos, las piezas y los materiales.
-2. **Prepara la producción:** revisa medidas, cantidades, cantos y componentes.
-3. **Valida la información:** utiliza las comprobaciones del sistema y, cuando esté disponible y configurada, la revisión asistida por IA.
-4. **Genera los documentos:** prepara los reportes y listados que requiera tu proceso.
+1. **[Comienza con el manual](manual-de-usuario.md):** comprueba tu acceso y conoce el recorrido básico.
+2. **[Organiza el proyecto](funcionalidades-de-cabinet-report/explorador-de-proyectos.md):** identifica el cliente y el ambiente; selecciona o prepara los módulos y piezas.
+3. **[Revisa el despiece](funcionalidades-de-cabinet-report/reporte-de-produccion.md):** confirma medidas, cantidades, materiales, vetas y cantos. Cuando esté disponible, utiliza el Revisor IA como apoyo.
+4. **[Genera y verifica la producción](funcionalidades-de-cabinet-report/reporte-de-produccion.md):** comprueba los archivos generados y, si necesitas planificar cortes, continúa con los [optimizadores](funcionalidades-de-cabinet-report/optimizadores.md).
 
 {% hint style="info" %}
 **Una herramienta de apoyo, no un sustituto del criterio técnico.** Las comprobaciones automáticas y la inteligencia artificial pueden ayudar a detectar errores, pero no identifican todos los problemas posibles. El usuario debe verificar los datos antes de fabricar.

@@ -1,14 +1,18 @@
 # Plan Intermedio
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
+[Comparar los siete planes](tabla-comparativa.md) · [Consultar este plan en el catálogo interactivo](https://danielmelendez-pma.github.io/cabinet-report-partners/suscripciones.html?plan=intermedio)
+
 El Plan Intermedio está diseñado para **talleres y pequeñas empresas que se encuentran en crecimiento**, y que necesitan un mayor control sobre sus proyectos, producción y flujo de trabajo.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt="" width="154"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt="Ilustración del Plan Intermedio de Cabinet Report" width="154"></figure>
 
 Este plan permite dar un paso más allá de lo básico, incorporando **mayor capacidad operativa, más reportes, más modificaciones y un mejor manejo de catálogos**, respaldados por almacenamiento en la nube con un historial ampliado.
 
 Es la opción ideal para negocios que ya cuentan con una base de clientes constante y que buscan **mayor organización, eficiencia y respaldo tecnológico para continuar expandiéndose de forma ordenada y sostenible**.
 
-### 🔵 **PLAN INTERMEDIO — $75.00 / mes**
+## 🔵 **PLAN INTERMEDIO — $75.00 / mes**
 
 **Para talleres en crecimiento**
 

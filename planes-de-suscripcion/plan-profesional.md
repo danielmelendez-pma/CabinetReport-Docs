@@ -1,16 +1,20 @@
 # Plan Profesional
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
+[Comparar los siete planes](tabla-comparativa.md) · [Consultar este plan en el catálogo interactivo](https://danielmelendez-pma.github.io/cabinet-report-partners/suscripciones.html?plan=profesional)
+
 El Plan Profesional está diseñado para talleres avanzados y empresas en expansión que ya manejan una operación más activa y necesitan mayor capacidad de uso, más usuarios, más reportes, más modificaciones y un mejor respaldo de información, sin llegar todavía al alcance completo de una fábrica empresarial.
 
 
 
-<figure><img src="../.gitbook/assets/ImgPLanProfesionalTransp.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ImgPLanProfesionalTransp.png" alt="Ilustración del Plan Profesional de Cabinet Report" width="188"></figure>
 
 Este plan permite trabajar con una estructura más sólida que el Plan Intermedio, incorporando mayor capacidad operativa, más catálogos personalizados, historial ampliado en la nube y herramientas para fortalecer el control de producción.
 
 Es la opción ideal para negocios que ya tienen un flujo constante de proyectos, varios usuarios involucrados en el proceso y la necesidad de profesionalizar más su planificación, reportes y seguimiento operativo, manteniendo un costo menor al Plan Empresarial.
 
-### 🔵 **PLAN PROFESIONAL — $150.00 / mes**
+## 🔵 **PLAN PROFESIONAL — $150.00 / mes**
 
 **Para talleres avanzados y empresas en expansión**
 

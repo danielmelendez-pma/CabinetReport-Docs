@@ -1,12 +1,16 @@
 # Plan Gratis
 
+[🏠 Volver al portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
+
+[Comparar los siete planes](tabla-comparativa.md) · [Explorar el catálogo de suscripciones](https://danielmelendez-pma.github.io/cabinet-report-partners/suscripciones.html)
+
 Dirigido a usuarios que desean **probar Cabinet Report por primera vez**, permitiéndoles conocer la plataforma y trabajar con funciones básicas en sus proyectos.
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt="" width="162"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt="Ilustración del Plan Gratis de Cabinet Report" width="162"></figure>
 
 Este plan es ideal como punto de inicio para familiarizarse con el sistema y, una vez validados sus beneficios, dar el salto a un nivel más profesional según las necesidades de su negocio.
 
-### 🆓 **PLAN GRATIS — $0.00 / mes**
+## 🆓 **PLAN GRATIS — $0.00 / mes**
 
 **Ideal para pruebas iniciales**
 

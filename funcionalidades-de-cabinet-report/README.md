@@ -16,6 +16,8 @@ layout:
 
 Cabinet Report integra distintos módulos para organizar los proyectos de mobiliario, preparar sus componentes y generar información de producción. Esta sección sirve como **mapa de funcionalidades**: elige el proceso que deseas conocer y accede a su página.
 
+**Accesos rápidos:** [Empiezo por primera vez](../manual-de-usuario.md) · [Ya tengo un despiece](reporte-de-produccion.md) · [Necesito planificar cortes](optimizadores.md) · [Quiero preparar una cotización](costos-en-desarrollo.md).
+
 <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="Vista de las herramientas de Cabinet Report"><figcaption><p>El entorno de Cabinet Report organiza distintas etapas del flujo de producción.</p></figcaption></figure>
 
 ## 1. Primeros pasos y proyectos
