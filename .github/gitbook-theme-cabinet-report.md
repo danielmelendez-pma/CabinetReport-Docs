@@ -1,72 +1,125 @@
-# Identidad visual y navegación global — Cabinet Report / GitBook
+# CABINET REPORT — Configuración oficial de identidad y navegación en GitBook
 
-**Actualización:** 2026-11-08 · Etapa 10  
-**Estado:** navegación de respaldo implementada en 52 páginas Markdown; personalización **global pendiente de ejecución y comprobación** en administración de GitBook.  
-**Referencia gráfica:** portal oficial `cabinet-report-partners`, archivos `portal.css`, `cabinet-header.css` e `index.html` en `main`.
+**Revisión:** 2026-11-08, Etapa 11.  
+**Estado:** especificación lista para aplicar; **NO consta que el tema, la barra nativa o el enlace del logo estén configurados en GitBook**.  
+**Repositorios:** documentación `danielmelendez-pma/CabinetReport-Docs` (`main`); portal `danielmelendez-pma/cabinet-report-partners` (`main`).  
+**Informe:** [Auditoría Etapa 11](documentation-audit-etapa-11-2026-11-08.md).
 
-## Objetivo y límites
+> **Distinción esencial:** Git Sync actualiza los archivos y el contenido de un espacio, pero no demuestra que los ajustes globales del sitio estén publicados. Las preferencias de apariencia y los enlaces nativos se administran mediante **GitBook → Docs site → Customization** o su API autenticada. Este repositorio no contiene credenciales de GitBook ni controla el sitio independiente del curso. No introducir CSS/JS en Markdown para simular una cabecera global.
 
-Aproximar **todos los sitios GitBook** de Cabinet Report (documentación y curso) a la experiencia del portal GitHub Pages, sin cambiar rutas, precios, licencias ni navegación nativa de documentación. La plataforma GitBook administra su propio encabezado, menú lateral y estilos: no se promete igualdad CSS píxel a píxel ni se debe inyectar HTML/CSS/JS no admitidos en Markdown.
+## 1. Referencia visual y activos oficiales
 
-El repositorio de documentación controla contenido Markdown/Git Sync; el panel **Customize** controla la presentación pública del sitio y **no se actualiza mediante commits de este repositorio**. El curso es un sitio/espacio distinto; la misma configuración debe revisarse allí por separado.
+La referencia es el [portal principal](https://danielmelendez-pma.github.io/cabinet-report-partners/), específicamente `index.html`, `portal.css` y `cabinet-header.css` del repositorio de portal. La cabecera real del portal usa `#151519` y no exactamente el mismo fondo del cuerpo; el valor **#111216** sigue siendo el fondo general.
 
-## Valores de diseño oficiales
-
-| Elemento | Valor objetivo | Observación |
+| Elemento | Color de referencia | Uso previsto en GitBook |
 | --- | --- | --- |
-| Fondo principal | `#111216` | Portal principal |
-| Paneles | `#242424` | Paleta Cabinet Report |
-| Separadores/contornos | `#3C3C3C` | Paleta Cabinet Report |
-| Acentos, enlaces destacados y foco | `#F08080` | LightCoral |
-| Texto alternativo/detalles | `#FFE4E1` | MistyRose |
-| Texto principal | `#FFFFFF` | Blanco |
-| Color secundario | `#000000` | Negro, no como texto sobre fondo oscuro |
-| Tipografía | Sans serif legible, idealmente Inter o la opción más próxima | Depende de opciones GitBook |
+| Fondo general | `#111216` | Selección nativa de tema oscuro; aproximar donde la interfaz lo permita |
+| Cabecera del portal | `#151519` | Fondo del encabezado **si existe selector avanzado** |
+| Paneles | `#242424` | Superficies/sidebar donde exista opción nativa |
+| Bordes | `#3C3C3C` | Separadores donde exista opción nativa |
+| Principal/acento | `#F08080` (LightCoral) | Color primario y estados activos |
+| Texto secundario destacado | `#FFE4E1` (MistyRose) | Detalles; evitarlo como fondo de texto claro |
+| Texto principal | `#FFFFFF` | Tema oscuro |
+| Enlaces normales del encabezado real | `#F0EAEF` | Header links, de existir selector propio |
+| Negro | `#000000` | Elementos que realmente requieran negro; no usar texto negro sobre oscuro |
 
-Si el plan ofrece **Custom** y permite escoger header links/background, usar `#111216` en fondo de encabezado y LightCoral en los enlaces. En caso contrario, elegir un tema nativo oscuro con contraste y acento lo más cercano posible. Revisar el resultado realmente publicado antes de declararlo aplicado.
+El encabezado HTML del portal usa enlaces de color cercano a blanco, y coral al pasar el cursor. Si GitBook permite un único color fijo para enlaces, usar `#F0EAEF` con primario `#F08080`; no prometer comportamiento hover idéntico. Seleccionar una fuente sans serif legible, preferentemente Inter si está disponible; usar la alternativa nativa más próxima.
 
-## Barra superior (objetivo para GitBook)
+**Activos oficiales que existen en el portal:**
+- Logo **ovalado** del encabezado: `https://danielmelendez-pma.github.io/cabinet-report-partners/logo-ovalado.png`.
+- Logo **circular** para favicon, portada y elementos destacados: `https://danielmelendez-pma.github.io/cabinet-report-partners/logo-redondo.png`.
+- La portada de la documentación ya hace referencia al logo circular propio en `.gitbook/assets/Logo Redondo CR.png`.
 
-Orden y enlaces para el sitio de documentación y, si es posible, el curso:
+No usar logotipos nuevos generados por IA ni inventar capturas del programa. Verificar visualmente el contraste/tamaño del logo seleccionado en **modo oscuro** y, si se ofrece modo claro, también en claro. Subir los archivos desde el portal original en caso de que GitBook solicite una carga, en vez de asumir que acepta URL.
 
-1. **Inicio** → https://danielmelendez-pma.github.io/cabinet-report-partners/
-2. **Documentación** → https://cabinet-report.gitbook.io/cabinet-report-docs/
-3. **Partners** → https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html
-4. **Cursos** → https://cabinet-report.gitbook.io/curso-de-cabinet-report/
-5. **Manual** → https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario
+## 2. Menú global nativo obligatorio
 
-**Branding:** utilizar el logo oficial **ovalado** en cabecera cuando se busque coherencia exacta con el header del portal, y el **circular** como icono/fav icon o elemento gráfico de portada; ambos archivos existen en el portal. La portada de GitBook ya incorpora el logo circular. Si la interfaz admite `Primary link`/destino del logo, apuntarlo a **Inicio** en GitHub Pages.
+Configurar **cinco enlaces de cabecera** en el sitio Docs y repetirlos en el sitio independiente Curso:
 
-### Pasos administrativos
+| Orden | Etiqueta solicitada | URL de destino |
+| --- | --- | --- |
+| 1 | **Inicio** | https://danielmelendez-pma.github.io/cabinet-report-partners/ |
+| 2 | **Documentación** | https://cabinet-report.gitbook.io/cabinet-report-docs/ |
+| 3 | **Partners** | https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html |
+| 4 | **Cursos** | https://cabinet-report.gitbook.io/curso-de-cabinet-report/ |
+| 5 | **Manual** | https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario |
 
-1. Entrar al panel del Docs site **Cabinet Report** de GitBook.
-2. Abrir **Customize → General / Styling / Themes** (los nombres pueden variar con la versión de GitBook).
-3. Seleccionar modo oscuro; configurar paleta, fondo y enlaces mediante opciones soportadas. Comprobar texto, tabla, avisos, imágenes y contraste.
-4. Abrir **Customize → Layout → Header** y añadir los cinco vínculos anteriores como enlaces de encabezado, en ese orden. Permitir el colapso nativo en móvil si el espacio es insuficiente; no forzar una fila desbordada.
-5. En **Customize → Configure → Primary link**, si aparece el control, hacer que el logotipo lleve al portal principal. Configurar los logotipos e iconos existentes.
-6. Guardar/publicar cambios. Abrir un navegador **sin sesión de administración** y verificar los cinco enlaces, el logotipo y la apariencia real.
-7. Repetir el procedimiento en el sitio **Curso de Cabinet Report**; su contenido/ajustes **no** pertenecen al repositorio `CabinetReport-Docs`.
-8. Comprobar **Git Sync = Synced** y contrastar la portada pública con `README.md` de `main`.
+- **Inicio** debe abrir la raíz del portal en GitHub Pages, **nunca** la raíz interna de GitBook.
+- Cuando el sitio ofrezca `Primary link` o destino del logotipo, usar exactamente la **misma URL de Inicio**.
+- Mantener navegación de páginas, búsqueda y sidebar nativas de GitBook, y verificar que los cinco enlaces caben o se agrupan mediante las opciones **responsive nativas** en tablet y móvil.
+- Para evitar una cabecera excesiva en pantallas reducidas, utilizar la posibilidad nativa de agrupación/desplegable si la interfaz la ofrece; no insertar HTML/CSS personalizados ni ocultar enlaces obligatorios. Si algún enlace debe agruparse, verificar que permanece accesible en no más de dos interacciones.
+- El bloque textual ya existente en las **52 páginas** del repositorio es un **respaldo**; no es barra global ni sticky. **No eliminarlo** antes de comprobar header nativo en escritorio, móvil y rutas profundas de ambos sitios.
 
-**Importante:** la navegación textual añadida a las 52 páginas ofrece accesos de respaldo y **no sustituye** esta barra superior nativa. Si se activa el encabezado global, revisar si el menú textual de respaldo causa redundancia visual; no eliminarlo antes de verificar que el encabezado se muestra en todas las páginas y móviles.
+## 3. Procedimiento de administración: Documentación
 
-## Criterios de aceptación visual
+1. Iniciar sesión en [GitBook](https://app.gitbook.com/) con permisos para administrar el sitio publicado **Cabinet Report Docs**.
+2. Abrir el **Docs site** correspondiente a `https://cabinet-report.gitbook.io/cabinet-report-docs/` (no confundir el espacio de edición ni el sitio del curso). Abrir **Customization / Customize**.
+3. En **General / Themes** o **Styling** (rótulos sujetos a cambios de GitBook):
+   - Elegir un tema compatible con **modo oscuro**; fijar oscuro como predeterminado cuando el selector lo permita.
+   - Color primario: `#F08080`; si existe opción **Custom**, fondo de cabecera `#151519`, color de enlaces de cabecera `#F0EAEF`, tint o color de fondo `#111216` *solo donde exista un control nativo para ello*.
+   - Elegir tipografía legible y bordes/sombras sobrios. No forzar colores para superficies que GitBook no permita editar.
+4. En **General / Branding** o zona de logo: subir logo ovalado oficial (versión legible para oscuro) y, cuando esté disponible, logo circular como favicon.
+5. En **Layout → Header**, incorporar los cinco enlaces de la sección 2, en ese orden. Usar estilo de enlace y no cinco botones voluminosos. Configurar el menú responsive/desplegable si está disponible.
+6. En **Layout**, configuración del propio header o campo **Primary link** (la ubicación exacta puede variar), cambiar el destino de logo/título al portal principal. Si esa opción no aparece o no la permite el plan, **anotar la limitación** y mantener `Inicio` en el menú y en el respaldo textual.
+7. En **Configure** verificar comportamiento de enlaces externos, idioma de interfaz y navegación sin alterar innecesariamente la estructura del sitio. Elegir misma pestaña si se quiere una transición uniforme, comprobando que el retorno es comprensible.
+8. Hacer **Preview** y después **Save**. Comprobar en una ventana de navegador ajena a la sesión del editor que el nuevo encabezado se ve realmente; guardar captura y fecha.
+9. Comprobar la portada, una página funcional profunda, ficha de plan y tabla comparativa. Validar los cinco enlaces y el clic en el logo.
 
-- **Escritorio (1440 px), laptop (1366×768 aprox.), tablet (768 px), móvil (390/430 px):** legibilidad, apertura del menú nativo, focos visibles, ausencia de cortes, tabla de siete planes consultable por desplazamiento horizontal.
-- Portada: marca real y enlaces al curso/manual; ficha técnica, RP, Revisor IA, Auditoría RP, Costos y suscripciones: navegación/retorno al portal.
-- Ningún control coral con texto de bajo contraste. Verificar modo claro si el lector puede activarlo.
-- Confirmar apertura de las seis fichas interactivas con `?plan=`; el plan Gratis no usa `?plan=gratis`.
-- Evaluar tamaño de las imágenes y ancho de tablas con el tema oscuro real; no modificar capturas de Windows a ciegas.
-- Para recursos gráficos nuevos, solicitar capturas Windows auténticas y ocultar datos personales antes de publicar.
+**Atención:** la API oficial de GitBook dispone de `site customization`, pero exige **token Bearer y IDs de organización/sitio**. No incluir secretos en el repositorio, en PR, capturas o chats. Este procedimiento prefiere el panel administrativo; no se ha invocado la API.
 
-## Bloqueo prioritario de publicación detectado
+## 4. Procedimiento de administración: Curso
 
-La extracción de la portada pública en 2026-11-08 devolvió **«Un flujo de trabajo, de principio a fin»** y no mostró **«Ir al curso»**. El archivo `README.md` del HEAD `0458df7f08d5c754749ee7a45503503a8b7fe130` sí contiene **«Tu primera producción, paso a paso»** y el enlace al curso. Esto evidencia una **diferencia entre contenido publicado extraído y repositorio**, pero no identifica la causa. Es imprescindible revisar estado real de Git Sync, publicación del Docs site y caché antes de atribuirla. No modificar Markdown para intentar forzar la sincronización.
+1. Abrir el **Docs site** que publica `https://cabinet-report.gitbook.io/curso-de-cabinet-report/`.
+2. Repetir **tema, logo, favicon, colores, cinco enlaces de cabecera y destino del logo**; no asumir que comparte personalización con Documentación.
+3. Confirmar que las páginas del curso y su sidebar mantienen títulos y rutas propias. La página **Inicio** del menú debe conducir al portal de GitHub Pages desde cualquier lección.
+4. Guardar y verificar la **publicación pública** del curso por separado. Anotar si las opciones de personalización difieren por permisos o configuración de ese sitio.
 
-## Referencias
+## 5. Diagnóstico de sincronización y publicación — NO editar Markdown para forzar el resultado
 
-- [Guía oficial de identidad GitBook](https://gitbook.com/docs/guides/docs-best-practices/how-to-create-branded-documentation) — temas, colores, enlaces del encabezado y logo.
-- [GitBook changelog 2025](https://gitbook.com/docs/changelog/2025-product-updates) — destino personalizado del logo / Primary link.
-- [Guía oficial de publicación 2026](https://gitbook.com/docs/guides/editing-and-publishing-documentation/complete-guide-to-publishing-docs-gitbook) — Customize y restricciones por plan.
+**Hecho verificable en 2026-11-08:** la extracción textual de la portada pública devolvió `Un flujo de trabajo, de principio a fin`, un único enlace `Volver al portal principal de Cabinet Report` y **no** mostró `Ir al curso`. La lectura directa de `CabinetReport-Docs/main/README.md` en el HEAD `096501fb99084fe0d853e0924262802d8c1cc552` contiene `Tu primera producción, paso a paso`, el menú textual de **cinco enlaces** y `Ir al curso`. Esto **no demuestra por sí solo** el origen del desfase.
 
-**No se aplicaron ni validaron cambios en la administración de GitBook desde este repositorio.**
+**Orden de comprobación, guardando evidencia de cada paso:**
+
+1. Abrir el **espacio** usado por el Docs site. En integración **Git Sync**, comprobar: repositorio `danielmelendez-pma/CabinetReport-Docs`, rama `main`, sincronización habilitada, última ejecución, estado `Synced` o errores. Registrar fecha/hora, commit si se muestra y captura. Si se usa otro espacio o rama, documentarlo; no activar una resincronización destructiva.
+2. En el **Docs site** de Documentación, comprobar que la sección pública apunta al **espacio realmente sincronizado** y a su contenido principal, sin una versión/variante distinta o borrador sin publicar.
+3. Revisar si la revisión está **publicada** (no solamente en editor o preview). Abrir la portada pública en sesión privada; buscar exactamente `Tu primera producción, paso a paso`, `Ir al curso` y el menú `Inicio · Documentación · Partners · Cursos · Manual`.
+4. Si el navegador muestra la versión nueva pero el extractor devuelve la vieja, sospechar **extracción/caché** y contrastar HTML/texto accesible con la vista real antes de tocar Git.
+5. Si navegador y extractor muestran la versión anterior, comprobar estado de **publicación**, versión/espacio publicado y Git Sync. Si Git Sync figura correcto, revisar el destino del sitio y el estado del cambio publicado; no asumir que GitHub no sincroniza.
+6. Si Git Sync informa fallo, registrar el mensaje completo y resolver el problema de integración/permisos, rama o conflicto desde el panel. No reemplazar `README.md` con texto artificial para activar otro commit.
+7. Repetir publicación y navegación del curso desde su **propio sitio**; el repositorio de documentación **no es** evidencia de su estado de sincronización.
+
+Un error de extracción, ausencia de acceso o respuesta de caché **no** equivale a prueba de fallo de Git Sync. Una discrepancia solo se considera resuelta con **lectura pública en navegador** y contenido equivalente al `README.md` correcto.
+
+## 6. Matriz de aceptación responsive — pruebas reales pendientes
+
+Abrir cada tamaño mediante **navegador con viewport real / DevTools**, sin confundir inspección estática de Markdown con una prueba visual.
+
+| Viewport | Qué comprobar | Resultado exigido |
+| --- | --- | --- |
+| 1440 px ancho | Cabecera completa, logo ovalado, cinco vínculos, sidebar, color oscuro | Sin solapamientos ni enlaces faltantes |
+| 1366 × 768 | Encabezado y primeras secciones, navegación y regreso | Legibilidad y altura de menú razonable |
+| 768 px | Navegación responsive, búsqueda, sidebar y tablas | Se accede a los cinco enlaces |
+| 390 px | Menú móvil, foco, scroll, fichas y tabla comparativa | Sin controles cortados; desplazamiento de tabla utilizable |
+| 430 px | Comportamiento móvil alternativo y enlaces de cabecera | Retorno a Inicio y contenido legible |
+
+Páginas representativas: portada, Manual, Curso, Funcionalidades, RP, Revisor IA, Auditoría RP, Creador de Módulos, Creador de Piezas, Costos, Optimizadores, Suscripciones y Tabla comparativa. Probar ambos sitios, teclado/foco y contrastes. GitBook controla el encabezado/sidebar: no puede garantizarse coincidencia exacta con `cabinet-header.css` ni fijar toda la documentación dentro de 768 px de altura.
+
+Los controles `?plan=optimizador`, `basico`, `intermedio`, `profesional`, `empresarial` y `socio` se prueban **en el portal** mediante navegador. El plan Gratis no usa `?plan=gratis`. No modificar precios ni condiciones durante esta fase.
+
+## 7. Activos visuales y resguardo
+
+- `.gitbook/assets/banner.bmp`: **7.322.926 bytes** (auditoría previa), candidato a optimización solo tras comparación visual real.
+- Existen tres grupos de imágenes con contenido SHA idéntico; conservar rutas y referencias mientras no se demuestre que una deduplicación es segura.
+- No eliminar ni sustituir capturas de Windows sin cotejar el software real. Cuando hagan falta, solicitar ventana específica, versión, datos de demostración y ocultar información personal.
+- Para quitar el menú textual duplicado en una fase posterior, exigir **antes** validación del header global en **Docs y Curso**, incluida versión móvil y ruta profunda. En este punto no hay esa evidencia.
+
+## 8. Evidencia y cierre administrativo
+
+Por **cada sitio** anotar: usuario/rol autorizante (sin secretos), fecha de cambios, captura de `Customization`, enlace público, esquema oscuro visible, cinco enlaces, destino real del logo, resultado en móvil y estado de publicación. Para **Docs** registrar además Git Sync y comparación de portada. Separar casillas **configurado en panel**, **guardado**, **observado en público**: no equivalen.
+
+Fuentes oficiales:
+- https://gitbook.com/docs/guides/docs-best-practices/how-to-create-branded-documentation
+- https://gitbook.com/docs/guides/customizing-your-site/how-to-customize-your-sites-theme
+- https://gitbook.com/docs/developers/gitbook-api/api-reference/docs-sites/site-customization
+- https://www.gitbook.com/blog/new-in-gitbook-november-2025
+- https://gitbook.com/docs/guides/editing-and-publishing-documentation/import-or-migrate-your-content-to-gitbook-with-git-sync
