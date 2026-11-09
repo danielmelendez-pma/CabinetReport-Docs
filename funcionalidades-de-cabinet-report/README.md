@@ -40,8 +40,6 @@ Selecciona un objetivo para ir directamente a su guía. También puedes seguir e
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="Vista original de las herramientas de Cabinet Report"><figcaption><p>Herramientas que acompañan diferentes etapas de la planificación y fabricación.</p></figcaption></figure>
-
 ## 1. Acceso y organización del proyecto
 
 {% columns %}
@@ -154,6 +152,8 @@ Trabaja con accesorios y ferretería de montaje e instalación en los contextos 
 {% hint style="warning" %}
 **Antes de fabricar o cotizar:** confirma los permisos disponibles, la vigencia de precios, los datos técnicos y la compatibilidad de los archivos con tu proceso real de trabajo.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="Vista original de las herramientas de Cabinet Report"><figcaption><p>Herramientas que acompañan diferentes etapas de la planificación y fabricación.</p></figcaption></figure>
 
 ## Continúa aprendiendo
 

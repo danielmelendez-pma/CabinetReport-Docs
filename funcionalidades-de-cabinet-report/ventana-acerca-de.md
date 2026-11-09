@@ -8,8 +8,6 @@ layout:
 
 # Ventana Acerca de
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · IDENTIDAD, ACTUALIZACIONES Y CANALES**
 
 ## Información de tu instalación
@@ -26,16 +24,14 @@ En la ventana principal, haz clic en el **icono de información (i)** de la part
 
 ## Datos y accesos disponibles
 
-| Elemento | Función |
-| --- | --- |
-| **Versión** | Muestra el número de versión que comunica la ventana principal. |
-| **Fecha de compilación** | Presenta la fecha recuperada de la configuración; si falta, informa que no está disponible. |
-| **Versiones anteriores** | Abre el historial reciente disponible por el mecanismo de actualización. |
-| **WhatsApp** | Acceso al canal de Cabinet Report. |
-| **LinkedIn** | Acceso al perfil enlazado desde la aplicación. |
-| **YouTube** | Acceso al canal de Cabinet Report. |
-| **Comentarios / feedback** | Abre la ventana correspondiente para comunicar observaciones. |
-| **Documentación** | Abre el portal oficial GitBook. |
+- **Versión** — Muestra el número de versión que comunica la ventana principal.
+- **Fecha de compilación** — Presenta la fecha recuperada de la configuración; si falta, informa que no está disponible.
+- **Versiones anteriores** — Abre el historial reciente disponible por el mecanismo de actualización.
+- **WhatsApp** — Acceso al canal de Cabinet Report.
+- **LinkedIn** — Acceso al perfil enlazado desde la aplicación.
+- **YouTube** — Acceso al canal de Cabinet Report.
+- **Comentarios / feedback** — Abre la ventana correspondiente para comunicar observaciones.
+- **Documentación** — Abre el portal oficial GitBook.
 
 {% hint style="info" %}
 El acceso a enlaces externos y a versiones anteriores requiere que el navegador, la red y los servicios correspondientes estén disponibles. La fecha presentada por la aplicación no sustituye la comprobación de un instalador oficial.
@@ -51,4 +47,4 @@ Anota la versión visible, la fecha de compilación (si aparece) y los pasos que
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[← Índice de funcionalidades](README.md) · [🏠 Portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

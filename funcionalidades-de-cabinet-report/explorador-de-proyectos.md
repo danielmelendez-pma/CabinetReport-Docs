@@ -6,8 +6,6 @@ description: >-
 
 # Explorador de proyectos
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · CONSULTA Y ORGANIZACIÓN**
 
 ## Encuentra información de tus trabajos
@@ -18,11 +16,9 @@ El Explorador de Proyectos ofrece un espacio para **visualizar y localizar proye
 
 ## Criterios de búsqueda descritos
 
-| Filtro | Escenario de uso |
-| --- | --- |
-| **Nombre del proyecto** | Identificar un trabajo por su denominación. |
-| **Usuario planificador** | Localizar trabajos asociados con quien realizó la planificación. |
-| **Número de RP** | Consultar una referencia de producción conocida. |
+- **Nombre del proyecto** — Identificar un trabajo por su denominación.
+- **Usuario planificador** — Localizar trabajos asociados con quien realizó la planificación.
+- **Número de RP** — Consultar una referencia de producción conocida.
 
 ## Recorrido de consulta
 
@@ -70,4 +66,4 @@ Conoce el [Reporte de producción](reporte-de-produccion.md), el [Catálogo de m
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[← Índice de funcionalidades](README.md) · [🏠 Portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

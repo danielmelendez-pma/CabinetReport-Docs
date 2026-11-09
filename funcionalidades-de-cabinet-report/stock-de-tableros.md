@@ -8,8 +8,6 @@ layout:
 
 # Stock de tableros
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · CATÁLOGO TÉCNICO DE MATERIALES**
 
 ## Identifica los tableros de tu proyecto
@@ -24,16 +22,14 @@ layout:
 
 ## 1. Información de cada tablero
 
-| Campo | Para qué sirve |
-| --- | --- |
-| **Material / descripción** | Identificar la referencia del tablero. |
-| **Proveedor y fabricante** | Reconocer su origen comercial. |
-| **Espesor** | Revisar compatibilidad con piezas y fórmulas. |
-| **Ancho y largo** | Registrar el formato comercial de la plancha. |
-| **Veta** | Considerar la orientación durante el corte. |
-| **Código de proveedor** | Identificar el artículo en catálogos externos. |
-| **Precio** | Consultar la referencia registrada, cuando existe y es válida. |
-| **Imagen y ficha** | Facilitar la identificación y abrir una búsqueda técnica. |
+- **Material / descripción** — Identificar la referencia del tablero.
+- **Proveedor y fabricante** — Reconocer su origen comercial.
+- **Espesor** — Revisar compatibilidad con piezas y fórmulas.
+- **Ancho y largo** — Registrar el formato comercial de la plancha.
+- **Veta** — Considerar la orientación durante el corte.
+- **Código de proveedor** — Identificar el artículo en catálogos externos.
+- **Precio** — Consultar la referencia registrada, cuando existe y es válida.
+- **Imagen y ficha** — Facilitar la identificación y abrir una búsqueda técnica.
 
 La ventana contiene filtros combinables por proveedor, fabricante, código, espesor, veta, dimensiones, precio y tipo de catálogo; permite cambiar entre **tarjetas paginadas** y **tabla de lista**.
 
@@ -75,4 +71,4 @@ Los campos de precio dependen de datos y permisos realmente disponibles. No supo
 [Reporte de producción](reporte-de-produccion.md) · [Costos y cotizaciones](costos-en-desarrollo.md) · [Optimizadores](optimizadores.md) · [Índice de funcionalidades](README.md)
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[← Índice de funcionalidades](README.md) · [🏠 Portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

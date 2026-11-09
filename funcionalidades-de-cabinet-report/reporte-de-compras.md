@@ -8,8 +8,6 @@ layout:
 
 # Reporte de compras
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · RELACIÓN DE MATERIALES PARA ABASTECIMIENTO**
 
 ## Reúne lo necesario para comprar
@@ -41,12 +39,10 @@ Comprueba que el proceso termine sin advertencias y que el Excel generado conten
 
 Permite escoger una carpeta principal o agregar carpetas `Materiales`, identificar los ambientes, marcar los incluidos y consolidar fuentes compatibles bajo un **cliente oficial** y una **referencia consolidada**.
 
-| Resultado | Descripción |
-| --- | --- |
-| **Excel consolidado** | Resumen de materiales de los ambientes seleccionados. |
-| **Hoja Trazabilidad** | Ambiente y archivos incluidos/excluidos, órdenes, advertencias y resultado. |
-| **TXT de trazabilidad** | Archivo auxiliar en una subcarpeta `Trazabilidad`. |
-| **Órdenes de corte opcionales** | Publicación de órdenes consolidadas de perfilería cuando los archivos y las opciones lo permiten. |
+- **Excel consolidado** — Resumen de materiales de los ambientes seleccionados.
+- **Hoja Trazabilidad** — Ambiente y archivos incluidos/excluidos, órdenes, advertencias y resultado.
+- **TXT de trazabilidad** — Archivo auxiliar en una subcarpeta `Trazabilidad`.
+- **Órdenes de corte opcionales** — Publicación de órdenes consolidadas de perfilería cuando los archivos y las opciones lo permiten.
 
 El módulo advierte si las fuentes corresponden a clientes diferentes. También puede continuar con un ambiente sin ciertos parámetros complementarios **si hay archivos válidos**, informando la circunstancia. No debe escribirse el consolidado dentro de la carpeta de origen `Materiales`.
 
@@ -67,4 +63,4 @@ Los archivos Excel de compras pueden importarse después en [Costos y cotizacion
 [Reporte de producción](reporte-de-produccion.md) · [Costos y cotizaciones](costos-en-desarrollo.md) · [Optimizadores](optimizadores.md) · [Orden de producción](orden-de-produccion.md)
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[← Índice de funcionalidades](README.md) · [🏠 Portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

@@ -6,8 +6,6 @@ description: >-
 
 # Inicio de sesión
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · ACCESO AL ENTORNO DE TRABAJO**
 
 ## El punto de entrada a tus proyectos
@@ -68,4 +66,4 @@ Continúa hacia el [Explorador de proyectos](explorador-de-proyectos.md) o las d
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[← Índice de funcionalidades](README.md) · [🏠 Portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
