@@ -6,8 +6,6 @@ description: >-
 
 # Diccionario de piezas
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · NOMENCLATURA TÉCNICA**
 
 ## Una terminología consistente para las piezas
@@ -20,12 +18,10 @@ Este diccionario está relacionado con la **nomenclatura**. No debe confundirse 
 
 ## Qué puedes hacer con el diccionario
 
-| Función | Uso |
-| --- | --- |
-| **Consultar** | Visualizar pares de palabra de origen y traducción técnica almacenados. |
-| **Agregar** | Incorporar una equivalencia nueva; requiere ambos campos y un origen no duplicado. |
-| **Actualizar** | Guardar modificaciones de traducciones en las entradas existentes del listado. |
-| **Eliminar** | Quitar del diccionario el término seleccionado. |
+- **Consultar** — Visualizar pares de palabra de origen y traducción técnica almacenados.
+- **Agregar** — Incorporar una equivalencia nueva; requiere ambos campos y un origen no duplicado.
+- **Actualizar** — Guardar modificaciones de traducciones en las entradas existentes del listado.
+- **Eliminar** — Quitar del diccionario el término seleccionado.
 
 {% hint style="info" %}
 **Antes de comenzar:** comprueba que tu usuario tenga acceso a la herramienta y acuerda con el responsable de producción qué términos deben utilizarse de manera consistente.
@@ -61,4 +57,4 @@ Si distintos planificadores usan nombres diferentes para referirse a la misma pa
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[← Índice de funcionalidades](README.md) · [🏠 Portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

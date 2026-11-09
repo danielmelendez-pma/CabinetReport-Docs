@@ -8,8 +8,6 @@ layout:
 
 # Orden de producción
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · ORGANIZACIÓN DE REPORTES PARA FABRICACIÓN**
 
 ## Agrupa reportes de un mismo proyecto
@@ -34,13 +32,11 @@ Si el sistema informa que un RP ya pertenece a otra orden, revisa la asociación
 
 ## 2. Crear la orden
 
-| Paso | Resultado esperado |
-| --- | --- |
-| **Comprobar número OP** | Evitar asignar nuevamente un identificador ya utilizado. |
-| **Elegir destino** | Guardar un archivo **OP-[número] - [cliente].xlsx**. |
-| **Usar plantilla** | Construir el Excel desde el recurso de la carpeta `Plantillas`. |
-| **Registrar asociación** | Vincular los RP seleccionados con el número OP en el almacenamiento correspondiente. |
-| **Consultar el listado** | Recuperar las órdenes previamente registradas para el cliente, cuando el contexto lo permite. |
+- **Comprobar número OP** — Evitar asignar nuevamente un identificador ya utilizado.
+- **Elegir destino** — Guardar un archivo **OP-[número] - [cliente].xlsx**.
+- **Usar plantilla** — Construir el Excel desde el recurso de la carpeta `Plantillas`.
+- **Registrar asociación** — Vincular los RP seleccionados con el número OP en el almacenamiento correspondiente.
+- **Consultar el listado** — Recuperar las órdenes previamente registradas para el cliente, cuando el contexto lo permite.
 
 {% hint style="warning" %}
 **Un Excel creado no equivale automáticamente a una OP registrada.** Si la plantilla falta, el archivo está bloqueado o el guardado de la orden falla, atiende el mensaje y no distribuyas una orden incompleta.
@@ -66,4 +62,4 @@ Verifica números RP y OP, cliente, cantidades, materiales, plantilla, destino d
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[← Índice de funcionalidades](README.md) · [🏠 Portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)

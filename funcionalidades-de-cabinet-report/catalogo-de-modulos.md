@@ -8,8 +8,6 @@ layout:
 
 # Catálogo de módulos
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · SELECCIÓN Y CONFIGURACIÓN TÉCNICA**
 
 ## Una estructura reutilizable para comenzar
@@ -79,4 +77,4 @@ En una cocina, dos muebles de la misma familia pueden necesitar anchos diferente
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[← Índice de funcionalidades](README.md) · [🏠 Portal principal de Cabinet Report](https://danielmelendez-pma.github.io/cabinet-report-partners/)
