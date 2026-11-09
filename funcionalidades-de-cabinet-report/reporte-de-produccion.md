@@ -8,8 +8,6 @@ layout:
 
 # Reporte de Producción
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · PLANIFICACIÓN Y PREPARACIÓN DE FABRICACIÓN**
 
 ## Del despiece al documento que recibe la planta
@@ -23,6 +21,29 @@ El RP combina cálculos y controles programados en Cabinet Report, operaciones d
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="Captura original de la ventana Reporte de Producción de Cabinet Report"><figcaption><p>Entorno principal de revisión de piezas y módulos.</p></figcaption></figure>
+
+## ¿Qué quieres hacer con el RP?
+
+{% columns %}
+{% column width="50%" %}
+### 🧩 Preparar o corregir un despiece
+
+Consulta el [Creador de módulos](creador-de-modulos.md) y el [Creador de piezas](creador-de-piezas.md) si debes ajustar estructuras o fórmulas.
+
+### 🤖 Revisar antes de generar
+
+Usa el [Revisor IA](revisor-inteligencia-artificial.md) como apoyo y comprueba el registro de decisiones en [Auditoría RP](auditoria-rp-persistencia.md).
+{% endcolumn %}
+{% column width="50%" %}
+### ⚙️ Planificar el corte
+
+Después de validar el RP, consulta los [Optimizadores](optimizadores.md) para tableros, perfiles o superficies.
+
+### 🛒 Preparar compras
+
+Continúa con el [Reporte de compras](reporte-de-compras.md) cuando necesites organizar materiales.
+{% endcolumn %}
+{% endcolumns %}
 
 ## 1. Formas de iniciar un reporte
 
@@ -165,4 +186,4 @@ Para entender la conservación de revisiones, la asociación de identidades y la
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[**🏠 Volver al portal principal de Cabinet Report**](https://danielmelendez-pma.github.io/cabinet-report-partners/)

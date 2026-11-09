@@ -8,8 +8,6 @@ layout:
 
 # Manual de usuario
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · APRENDE A UTILIZAR EL SOFTWARE**
 
 ## Comienza con lo esencial
@@ -83,4 +81,4 @@ También puedes revisar la [Política de Capacitación e Implementación](politi
 
 ---
 
-[← Volver al inicio de Cabinet Report](README.md)
+[**Documentación oficial**](README.md) · [**🏠 Portal principal**](https://danielmelendez-pma.github.io/cabinet-report-partners/)

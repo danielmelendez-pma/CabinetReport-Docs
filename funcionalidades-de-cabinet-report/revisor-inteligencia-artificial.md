@@ -8,8 +8,6 @@ layout:
 
 # Revisor de Inteligencia Artificial
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · ASISTENCIA PARA REVISIÓN TÉCNICA**
 
 ## Cabinet Report calcula. La IA interpreta. El usuario decide.
@@ -21,6 +19,13 @@ No cambia por sí solo las piezas del reporte ni sustituye las validaciones prog
 {% hint style="warning" %}
 **La IA no detecta todos los errores humanos o constructivos.** Una respuesta sin hallazgos no certifica que el despiece esté libre de problemas. Comprueba siempre el diseño, la fabricación y la instalación con criterio técnico.
 {% endhint %}
+
+## Ruta breve para revisar con criterio
+
+1. **Prepara el reporte:** confirma piezas, cantidades y parámetros en el [Reporte de Producción](reporte-de-produccion.md).
+2. **Ejecuta la revisión:** interpreta los hallazgos y contrástalos con el diseño y las medidas reales.
+3. **Decide:** corrige lo que corresponda o registra una decisión consciente.
+4. **Comprueba el registro:** consulta [Auditoría RP y persistencia](auditoria-rp-persistencia.md) y verifica que no aparezcan avisos de guardado.
 
 ## 1. Cuándo utilizarlo
 
@@ -156,4 +161,4 @@ Antes de liberar la producción, confirma que revisaste la evidencia de los hall
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[**🏠 Volver al portal principal de Cabinet Report**](https://danielmelendez-pma.github.io/cabinet-report-partners/)

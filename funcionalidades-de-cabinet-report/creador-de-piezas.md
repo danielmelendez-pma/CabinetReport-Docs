@@ -6,8 +6,6 @@ description: >-
 
 # Creador de piezas
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · ELEMENTOS DEL DESPIECE**
 
 ## Cada pieza comienza con una definición
@@ -15,6 +13,12 @@ description: >-
 El Creador de Piezas permite **preparar componentes de mobiliario** para utilizarlos en módulos y en la información de producción. La utilidad principal consiste en establecer criterios de cálculo revisables y reutilizables.
 
 <figure><img src="../.gitbook/assets/image (17) (1).png" alt="Captura existente del creador de piezas"><figcaption><p>Definición de piezas y parámetros constructivos.</p></figcaption></figure>
+
+## De la pieza al módulo
+
+Una definición de pieza debe interpretarse en el contexto del módulo que la utiliza. Una misma denominación puede requerir **medidas o descuentos distintos** según profundidad, ancho, alto y parámetros constructivos.
+
+Si necesitas organizar la estructura completa, consulta el [Creador de módulos](creador-de-modulos.md). Comprueba el resultado final en el [Reporte de Producción](reporte-de-produccion.md).
 
 ## Información que debes comprobar
 
@@ -74,4 +78,4 @@ Contrasta piezas y cantidades nuevamente en el [Reporte de producción](reporte-
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[**🏠 Volver al portal principal de Cabinet Report**](https://danielmelendez-pma.github.io/cabinet-report-partners/)

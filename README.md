@@ -1,14 +1,12 @@
 ---
 description: >-
-  Documentación oficial de Cabinet Report. Conoce sus funcionalidades,
-  procesos de planificación y herramientas para preparar la producción de muebles.
+  Documentación oficial de Cabinet Report: funcionalidades, guías de
+  planificación, revisión técnica y preparación de la fabricación de muebles.
 layout:
   width: wide
 ---
 
 # Cabinet Report
-
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
 
 {% columns %}
 {% column width="66.66666666666667%" %}
@@ -16,11 +14,11 @@ layout:
 
 ## Del diseño a la producción, con más control.
 
-Planifica, revisa y prepara la información de fabricación de muebles desde un entorno de trabajo diseñado para organizar **módulos, piezas, materiales y reportes de producción**.
+Explora las herramientas de Cabinet Report para **preparar módulos, organizar piezas, revisar el despiece y planificar la fabricación de muebles**.
 
-Cabinet Report ayuda a reducir tareas repetitivas, detectar determinadas inconsistencias técnicas y entregar información más clara a los equipos de fabricación.
+Elige una función para consultar su uso o sigue el recorrido de aprendizaje si es tu primera vez.
 
-**[Explorar funcionalidades](funcionalidades-de-cabinet-report/README.md)** · **[Abrir manual de usuario](manual-de-usuario.md)** · **[Ir al curso](https://cabinet-report.gitbook.io/curso-de-cabinet-report/)**
+**[Explorar funcionalidades](funcionalidades-de-cabinet-report/README.md)** · **[Empezar con el manual](manual-de-usuario.md)**
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
@@ -28,57 +26,65 @@ Cabinet Report ayuda a reducir tareas repetitivas, detectar determinadas inconsi
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt="Ilustración de las herramientas y procesos de Cabinet Report"><figcaption><p>Planificación, validación y preparación de la producción de muebles.</p></figcaption></figure>
-
-## Encuentra lo que necesitas
+## ¿Qué necesitas hacer hoy?
 
 {% columns %}
 {% column width="50%" %}
-### 📦 Funcionalidades
+### 🧩 Crear o adaptar un mueble
 
-Descubre las herramientas disponibles: catálogos, creación de módulos, reporte de producción y procesos asociados.
+Comienza con el [**Catálogo de módulos**](funcionalidades-de-cabinet-report/catalogo-de-modulos.md), personaliza estructuras en el [**Creador de módulos**](funcionalidades-de-cabinet-report/creador-de-modulos.md) y define componentes en el [**Creador de piezas**](funcionalidades-de-cabinet-report/creador-de-piezas.md).
 
-[**Conocer las funcionalidades →**](funcionalidades-de-cabinet-report/README.md)
+### 🏭 Preparar un reporte de producción
+
+Abre el [**Reporte de Producción**](funcionalidades-de-cabinet-report/reporte-de-produccion.md) para revisar medidas, cantidades, materiales, vetas y cantos.
 {% endcolumn %}
 
 {% column width="50%" %}
-### 📘 Manual y aprendizaje
+### 🤖 Revisar y conservar decisiones
 
-Consulta la guía de uso y accede al curso independiente para aprender los procesos paso a paso.
+Conoce el [**Revisor IA**](funcionalidades-de-cabinet-report/revisor-inteligencia-artificial.md) y cómo consultar el historial en [**Auditoría RP**](funcionalidades-de-cabinet-report/auditoria-rp-persistencia.md).
 
-[**Ir al manual →**](manual-de-usuario.md)
+### ⚙️ Optimizar y preparar la salida
+
+Consulta los [**Optimizadores**](funcionalidades-de-cabinet-report/optimizadores.md), el [**Reporte de compras**](funcionalidades-de-cabinet-report/reporte-de-compras.md) o [**Costos y cotizaciones**](funcionalidades-de-cabinet-report/costos-en-desarrollo.md) según tu tarea.
 {% endcolumn %}
 {% endcolumns %}
 
-{% columns %}
-{% column width="50%" %}
-### 🏭 ¿Para quién es?
+## Primera producción: recorrido sugerido
 
-Conoce cómo pueden aprovechar Cabinet Report los independientes, talleres, fábricas y proveedores de servicios relacionados.
-
-[**Explorar los perfiles →**](a-quien-va-dirigido/README.md)
-{% endcolumn %}
-
-{% column width="50%" %}
-### 🧾 Planes y condiciones
-
-Revisa las opciones de suscripción, su comparativa y las políticas relacionadas con el servicio.
-
-[**Ver planes →**](planes-de-suscripcion/README.md)
-{% endcolumn %}
-{% endcolumns %}
-
-## Tu primera producción, paso a paso
-
-1. **[Comienza con el manual](manual-de-usuario.md):** comprueba tu acceso y conoce el recorrido básico.
-2. **[Organiza el proyecto](funcionalidades-de-cabinet-report/explorador-de-proyectos.md):** identifica el cliente y el ambiente; selecciona o prepara los módulos y piezas.
-3. **[Revisa el despiece](funcionalidades-de-cabinet-report/reporte-de-produccion.md):** confirma medidas, cantidades, materiales, vetas y cantos. Cuando esté disponible, utiliza el Revisor IA como apoyo.
-4. **[Genera y verifica la producción](funcionalidades-de-cabinet-report/reporte-de-produccion.md):** comprueba los archivos generados y, si necesitas planificar cortes, continúa con los [optimizadores](funcionalidades-de-cabinet-report/optimizadores.md).
+1. **Aprende lo básico.** Empieza por el [Manual de usuario](manual-de-usuario.md) o sigue el [Curso de Cabinet Report](https://cabinet-report.gitbook.io/curso-de-cabinet-report/).
+2. **Organiza el trabajo.** Identifica el cliente y ambiente en el [Explorador de proyectos](funcionalidades-de-cabinet-report/explorador-de-proyectos.md) y prepara módulos y piezas.
+3. **Verifica el despiece.** Revisa el [Reporte de Producción](funcionalidades-de-cabinet-report/reporte-de-produccion.md) y, si tu configuración lo permite, utiliza el [Revisor IA](funcionalidades-de-cabinet-report/revisor-inteligencia-artificial.md).
+4. **Genera y comprueba.** Verifica los archivos de salida y, cuando corresponda, prepara los cortes con los [Optimizadores](funcionalidades-de-cabinet-report/optimizadores.md).
 
 {% hint style="info" %}
-**Una herramienta de apoyo, no un sustituto del criterio técnico.** Las comprobaciones automáticas y la inteligencia artificial pueden ayudar a detectar errores, pero no identifican todos los problemas posibles. El usuario debe verificar los datos antes de fabricar.
+**La validación técnica sigue siendo responsabilidad del usuario.** Las comprobaciones automáticas y las revisiones IA son herramientas de apoyo; ninguna garantiza la detección de todos los errores.
 {% endhint %}
 
-## Sigue la evolución de Cabinet Report
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt="Ilustración de las herramientas y procesos de Cabinet Report"><figcaption><p>Planificación, validación y preparación de la producción de muebles.</p></figcaption></figure>
 
-Conoce [la historia del software](evolucion-de-cabinet-report.md), revisa sus [fortalezas y limitaciones](pros-y-contras.md) y accede a los [canales oficiales](redes-sociales.md) para encontrar novedades, demostraciones y contenido educativo.
+## Más información y recursos
+
+{% columns %}
+{% column width="50%" %}
+### 📘 Aprendizaje y consulta
+
+[**Todas las funcionalidades**](funcionalidades-de-cabinet-report/README.md) · [**Manual**](manual-de-usuario.md) · [**Curso**](https://cabinet-report.gitbook.io/curso-de-cabinet-report/)
+
+### 🏭 Perfiles de uso
+
+Descubre [a quién va dirigido Cabinet Report](a-quien-va-dirigido/README.md): independientes, talleres, fábricas y proveedores.
+{% endcolumn %}
+
+{% column width="50%" %}
+### 🧾 Planes y soporte
+
+Consulta los [planes de suscripción](planes-de-suscripcion/README.md), las [políticas de soporte](politicas-de-soporte.md) y los [canales oficiales](redes-sociales.md).
+
+### 📖 Conoce el proyecto
+
+Lee su [evolución](evolucion-de-cabinet-report.md) y sus [fortalezas y limitaciones](pros-y-contras.md).
+{% endcolumn %}
+{% endcolumns %}
+
+[**🏠 Volver al portal principal de Cabinet Report**](https://danielmelendez-pma.github.io/cabinet-report-partners/)
