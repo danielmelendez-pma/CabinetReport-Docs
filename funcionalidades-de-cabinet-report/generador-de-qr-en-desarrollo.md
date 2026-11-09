@@ -8,8 +8,6 @@ layout:
 
 # Generador de QR
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · IDENTIFICACIÓN DE PIEZAS**
 
 ## Lleva la identificación al despiece
@@ -19,6 +17,16 @@ Con el **Generador de QR** puedes preparar identificadores para las piezas de un
 {% hint style="info" %}
 **Qué puedes obtener:** imágenes QR asociadas a piezas y un informe Excel, cuando la función esté habilitada. Antes de imprimir etiquetas o utilizarlas con lectores externos, verifica el resultado con tu equipo.
 {% endhint %}
+
+## Entradas y resultado esperado
+
+| Necesitas | Para qué sirve |
+| --- | --- |
+| **TXT de producción** | Identificar las piezas y sus datos de fabricación. |
+| **Metadatos XML o ParametrosRP compatibles** | Aportar información del módulo y los parámetros de referencia. |
+| **Informe Excel con QR** | Consultar los identificadores generados y revisar la asociación entre pieza y código. |
+
+Si necesitas confirmar las piezas de origen, vuelve al [Reporte de Producción](reporte-de-produccion.md).
 
 ## 1. Preparar los archivos
 
@@ -48,4 +56,4 @@ Revisa la legibilidad de cada código, el tamaño de impresión, la asociación 
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[**🏠 Volver al portal principal de Cabinet Report**](https://danielmelendez-pma.github.io/cabinet-report-partners/)

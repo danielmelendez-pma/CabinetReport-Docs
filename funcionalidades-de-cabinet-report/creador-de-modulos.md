@@ -8,8 +8,6 @@ layout:
 
 # Creador de módulos
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · BIBLIOTECAS A MEDIDA**
 
 ## Define tu propia lógica constructiva
@@ -17,6 +15,10 @@ layout:
 El Creador de Módulos sirve para **organizar módulos personalizados** mediante estructuras de catálogo y reglas de cálculo para sus piezas. Es útil cuando un taller o fábrica utiliza soluciones que no están representadas por un módulo genérico.
 
 <figure><img src="../.gitbook/assets/image (14) (1).png" alt="Captura existente del creador de módulos"><figcaption><p>Referencia del entorno de creación y configuración.</p></figcaption></figure>
+
+## Cómo se conecta con el resto del trabajo
+
+**Catálogo → Definición → Producción.** Antes de crear un módulo, comprueba si existe una estructura aprovechable en el [Catálogo de módulos](catalogo-de-modulos.md). Para personalizar componentes, consulta el [Creador de piezas](creador-de-piezas.md). Después verifica el resultado en el [Reporte de Producción](reporte-de-produccion.md).
 
 ## Elementos de una definición reutilizable
 
@@ -82,4 +84,4 @@ Corrige la biblioteca conforme se validan nuevos casos reales.
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[**🏠 Volver al portal principal de Cabinet Report**](https://danielmelendez-pma.github.io/cabinet-report-partners/)

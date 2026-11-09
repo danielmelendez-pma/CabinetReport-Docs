@@ -8,8 +8,6 @@ layout:
 
 # Auditoría RP y persistencia
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · SEGUIMIENTO DE PRODUCCIÓN**
 
 ## ¿Para qué sirve la Auditoría RP?
@@ -17,6 +15,21 @@ layout:
 La **Auditoría RP** ayuda a conservar el historial de una producción: qué información se revisó, qué observaciones surgieron y qué decisiones tomaste antes de continuar. Complementa el [Reporte de Producción](reporte-de-produccion.md) y el [Revisor de Inteligencia Artificial](revisor-inteligencia-artificial.md).
 
 No certifica que las piezas ya se hayan fabricado ni sustituye la inspección del responsable técnico.
+
+## Dos situaciones frecuentes
+
+{% columns %}
+{% column width="50%" %}
+### ✅ La revisión sigue visible
+
+Confirma el cliente, ambiente y RP, y comprueba que los hallazgos y decisiones mostrados son los esperados.
+{% endcolumn %}
+{% column width="50%" %}
+### 🔎 No encuentras una revisión
+
+Verifica la identidad de la producción y los avisos de guardado. No sustituyas archivos XML sin respaldo; sigue las comprobaciones de recuperación de esta guía.
+{% endcolumn %}
+{% endcolumns %}
 
 ## 1. Qué información acompaña al proyecto
 
@@ -87,4 +100,4 @@ Antes de distribuir los documentos, revisa que corresponden a la producción act
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[**🏠 Volver al portal principal de Cabinet Report**](https://danielmelendez-pma.github.io/cabinet-report-partners/)

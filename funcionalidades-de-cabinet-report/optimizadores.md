@@ -8,8 +8,6 @@ layout:
 
 # Optimizadores
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · APROVECHAMIENTO DE MATERIALES Y PREPARACIÓN DEL CORTE**
 
 ## Optimiza de acuerdo con el material
@@ -19,6 +17,16 @@ Cabinet Report incorpora herramientas diferenciadas para organizar cortes de **t
 {% hint style="warning" %}
 **No existe un único algoritmo para todos los materiales.** La viabilidad depende de medidas, cantidades, veta, posibilidad de giro, ancho de corte, resane, disponibilidad introducida y restricciones de la herramienta elegida.
 {% endhint %}
+
+## ¿Qué necesitas cortar?
+
+| Material o tarea | Herramienta |
+| --- | --- |
+| **Tableros y retazos** | Optimización de tableros: piezas por plancha, veta, giro, sierra y resane. |
+| **Tubos, golas y perfiles** | Optimización de perfiles: longitudes, tramos y pérdidas de corte. |
+| **Sobres y superficies** | Optimización de superficies: planchas, orientación y formatos de intercambio. |
+
+Si todavía no has revisado los datos de origen, comienza en el [Reporte de Producción](reporte-de-produccion.md).
 
 ## 1. Optimización de tableros
 
@@ -85,4 +93,4 @@ Hay rutas de carga de catálogos desde el almacenamiento local al trabajar **off
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[**🏠 Volver al portal principal de Cabinet Report**](https://danielmelendez-pma.github.io/cabinet-report-partners/)

@@ -8,8 +8,6 @@ layout:
 
 # Herrajes
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · ACCESORIOS Y FERRETERÍA PARA FABRICACIÓN**
 
 ## Diferentes elementos, distintos momentos de uso
@@ -19,6 +17,21 @@ Cabinet Report dispone de funciones de **herrajes** organizadas en tres áreas: 
 {% hint style="info" %}
 **Disponibilidad:** los permisos de edición, el funcionamiento sin conexión y la vinculación con archivos TXT pueden variar según la acción, la versión y el acceso utilizado.
 {% endhint %}
+
+## Elige el contexto de trabajo
+
+{% columns %}
+{% column width="50%" %}
+### 🔩 Catálogo de herrajes
+
+Consulta o administra referencias generales y privadas según los permisos del cliente. Antes de editar, verifica su visibilidad.
+{% endcolumn %}
+{% column width="50%" %}
+### 🏭 Herrajes de una producción
+
+Trabaja con los elementos asociados al [Reporte de Producción](reporte-de-produccion.md) y comprueba el cliente, ambiente y archivos auxiliares.
+{% endcolumn %}
+{% endcolumns %}
 
 ## 1. Elegir el tipo de herraje
 
@@ -68,4 +81,4 @@ Confirma las unidades y cantidades, la clasificación entre montaje e instalaci�
 
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[**🏠 Volver al portal principal de Cabinet Report**](https://danielmelendez-pma.github.io/cabinet-report-partners/)

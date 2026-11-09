@@ -8,8 +8,6 @@ layout:
 
 # Costos y cotizaciones
 
-**[🏠 Inicio](https://danielmelendez-pma.github.io/cabinet-report-partners/)** · [Documentación](https://cabinet-report.gitbook.io/cabinet-report-docs/) · [Partners](https://danielmelendez-pma.github.io/cabinet-report-partners/partners.html) · [Cursos](https://cabinet-report.gitbook.io/curso-de-cabinet-report/) · [Manual](https://cabinet-report.gitbook.io/cabinet-report-docs/manual-de-usuario)
-
 **CABINET REPORT · DEL MATERIAL AL PRESUPUESTO**
 
 ## De la información productiva a un precio revisable
@@ -21,6 +19,12 @@ La ventana **Costos** está implementada en Cabinet Report: reúne partidas de m
 {% hint style="info" %}
 **Disponibilidad:** las opciones de carga, cálculo, guardado y exportación pueden variar según la versión y los permisos. Comprueba los importes y revisa el archivo exportado antes de utilizarlo en una cotización.
 {% endhint %}
+
+## Antes de preparar una cotización
+
+1. **Reúne la información:** parte de los materiales y cantidades del [Reporte de compras](reporte-de-compras.md) o de fuentes compatibles.
+2. **Contrasta los valores:** comprueba unidades, precios, impuestos y márgenes con las condiciones reales.
+3. **Verifica la exportación:** revisa el archivo generado antes de compartirlo con el cliente.
 
 ## 1. Qué puedes preparar
 
@@ -101,4 +105,4 @@ Desde el menú se implementan **Exportar costos**, exportación a **Excel (.xlsx
 [Reporte de compras](reporte-de-compras.md) · [Stock de tableros](stock-de-tableros.md) · [Reporte de producción](reporte-de-produccion.md) · [Auditoría RP y economía de errores](auditoria-rp-persistencia.md)
 ---
 
-[← Volver al inicio de Cabinet Report](../README.md)
+[**🏠 Volver al portal principal de Cabinet Report**](https://danielmelendez-pma.github.io/cabinet-report-partners/)
